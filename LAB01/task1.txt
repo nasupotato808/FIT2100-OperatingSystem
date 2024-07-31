@@ -1,0 +1,49 @@
+3.1 Task 1 (40%)
+1. Experiment with navigating to the following paths using the cd command. After navigating to each directory, use the ls command to look at the files in that location. Are you able to navigate to all of these paths? Does it matter what working directory you are in before running the cd command?
+• /home/student/Documents
+• FIT2100
+• ~/Documents/FIT2100
+• .
+• ..
+• .././.././home/student
+• /
+After experimenting, answer the following questions in a plain .txt file:
+1. Which of the paths above are absolute, and which of them are relative paths?
+
+absolute paths:
+- /home/student/Documents
+- ~/Documents/FIT2100
+- /
+
+relative paths:
+- FIT2100
+- .
+- ..
+- .././.././home/student
+
+2. What are the advantages of using absolute paths over relative paths? Why and when, if ever, would you choose to use relative paths over absolute paths?
+
+Pros of absolute paths: Clearly show the exact location of directory or file in the file system. It is more reliable especially the script or program that may run under different environment or users.
+
+Pros of relative paths: Shorter and easier to type. Make the scripts and commands more portable if the file and directory structure are consistent across different systems or platform. It is useful when working within the same directory hierarchy to refer the relative paths to the files.
+
+3. Write cd commands that allow you to achieve the following:
+• navigate to one directory above the user’s home directory: cd  ..
+• no change to your current working directory: cd .
+
+4. To run programs in your current directory, you will need to place a ./ in front of the name of a program– why is this required? Assuming you have an executable named gcc in your current directory, describe what might happen if we were able to run programs in the current directory without needing to prepend a ./ to the program name. 
+
+./ explicitly tells the system to bypass the path and look in the current directory.
+
+On Unix/Linux systems, for security reasons, the current directory is usually not included in the PATH environment variable. [1]
+
+The PATH environment variable lists the directories where the system searches for executable files when executing commands. Since the system would first search for a program named "gcc" in the directories defined in its PATH variable.
+If it is executed without ./:
+1. It the file name is not same with listed PATH variable
+	- shows command not found.
+2. If the file name is same with the variable defined in PATH variables or same as commands' name:
+	- running a completely different program 
+
+Reference:
+[1]“Why should not I add current directory to PATH in Linux?,” Physics Forums: Science Discussion, Homework Help, Articles, Jun. 10, 2023. https://www.physicsforums.com/threads/why-should-not-i-add-current-directory-to-path-in-linux.1053113/#:~:text=Adding%20the%20current%20directory%20to%20your%20PATH%20in%20Linux%20can (accessed Jul. 30, 2024).
+‌
