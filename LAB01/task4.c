@@ -1,3 +1,13 @@
+/* File name: task4.c
+ * Author: Wong Jia Xuan
+ * Date: 30/7/2024
+ * Description:
+ * Write a C program that reads three integer values and performs the following arithmetic
+ * operations: addition, subtraction, multiplication, and modulus.
+ * Each of these operations should be implemented as a separate function. 
+ * You need to write a main function to show the operation of each function.
+ */
+
 # include <stdio.h>
 /* Function prototypes */
 int add (int x, int y, int z);
@@ -11,7 +21,7 @@ int main (void) {
         /* declaration of local variables */
         int num1, num2, num3; //numbers
 
-        printf("Please enter three numbers (integer.\nNumber1: ");
+        printf("Please enter three numbers (integer).\nNumber1: ");
         scanf("%d", &num1);
         printf("Number2: ");
         scanf("%d", &num2);
