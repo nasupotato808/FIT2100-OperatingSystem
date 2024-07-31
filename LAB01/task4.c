@@ -38,7 +38,8 @@ int main (void) {
 	else{
 		printf("Modulus cannot be performed! Check num2 and num3");
 	}
-	
+
+	return 0;
 
 
 }
