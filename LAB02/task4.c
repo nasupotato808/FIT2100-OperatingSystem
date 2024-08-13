@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
+#include <string.h>
 
 // Function prototype to count words in a file
 int count_words(FILE *file);
@@ -34,6 +35,7 @@ int main(int argc, char *argv[]) {
 int count_words(FILE *file) {
     /* YOUR CODE HERE*/
     // Initialise any variables that you will use in the function
+	int count = 0;
     // Read characters from the file until the end of the file (EOF).
     // You can count the number of space characters that are in the document
     // You can safely assume, there will not be any double (or more) spaces between words.
