@@ -33,6 +33,7 @@ int main(int argc, char *argv[]) {
 	
 	if (argc != 4){
 		printf("%s", "Please only provide three numbers!\n");
+		return 0;
 	}
 
 	int num1 = atoi(argv[1]);

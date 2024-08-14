@@ -40,7 +40,8 @@ int count_words(FILE *file) {
 	char c;
     // Read characters from the file until the end of the file (EOF).
     while ((c = fgetc(file)) != EOF) {
-        if (isspace(c)) {
+        //printf("c:%d",c); //int
+		if (isspace(c)) {			//checks for white-space characters.  In the "C" and  "POSIX"  locales,  these are: space, form-feed ('\f'), newline ('\n'), carriage return ('\r'), horizontal tab  ('\t'),  and  vertical  tab ('\v').
             if (word_flag) {
                 // end of the word
                 word_flag = 0;

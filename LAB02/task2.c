@@ -34,6 +34,8 @@ int *find_closest_to_average (int the_array[], int num_elements){
 	// Find the closest element to the average
 	// Initialise with the first element in the array
 	int* closest_ptr = &the_array[0];
+	//printf("cloeset:%d\n",*closest_ptr);
+
 	double min_diff = fabs(the_array[0] - avg);
 	
 
@@ -50,7 +52,8 @@ int *find_closest_to_average (int the_array[], int num_elements){
 int main(int argc, char *argv[]){
 	int arr[] = {12, 23, 48, 5, 7};
 	int num_elements = sizeof(arr) / sizeof(arr[0]);
-
+	//printf("%ld %ld",sizeof(arr),sizeof(arr[0])); // 20/4 =5
+	
 	int* closest = find_closest_to_average(arr, num_elements);
 
 	if (closest != NULL){
