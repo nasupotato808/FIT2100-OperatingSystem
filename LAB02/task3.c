@@ -10,13 +10,7 @@
 
  # include <stdio.h>
  # include <string.h>
-
-/* Given struct type */
- typedef struct
- {
- 	char *FacID;	/* FIT, ENG, MTH, SCI, etc. */
-	int UnitID;		/* 1047, 2100, 3142,, etc. */
- } UnitCode;
+ # include <task3_unit_code.h>
 
  int main (void){
  	// Initialise two UnitCode variables

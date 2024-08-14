@@ -14,9 +14,6 @@
 # include <stdlib.h>
 # include <math.h>
 
-/* Function prototypes */
-int *find_closest_to_average (int the_array[], int num_elements);
-
 // return a pointer to that cloeset element among the array
 int *find_closest_to_average (int the_array[], int num_elements){
 	// base case: num_elements is 0
