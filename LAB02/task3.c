@@ -10,7 +10,7 @@
 
  # include <stdio.h>
  # include <string.h>
- # include <task3_unit_code.h>
+ # include "task3_unit_code.h"
 
  int main (void){
  	// Initialise two UnitCode variables
