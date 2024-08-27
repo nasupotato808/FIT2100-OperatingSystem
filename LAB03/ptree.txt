@@ -5,7 +5,6 @@
       2       4 root     I rcu_par_gp
       2       5 root     I slub_flushwq
       2       6 root     I netns
-      2       8 root     I kworker/0:0H-ttm
       2      11 root     I mm_percpu_wq
       2      12 root     I rcu_tasks_kthread
       2      13 root     I rcu_tasks_rude_kthread
@@ -22,7 +21,6 @@
       2      26 root     S kdevtmpfs
       2      27 root     I inet_frag_wq
       2      29 root     S kauditd
-      2      30 root     I kworker/0:2-rcu_par_gp
       2      31 root     S khungtaskd
       2      32 root     S oom_reaper
       2      34 root     I writeback
@@ -148,10 +146,6 @@
       2     222 root     I scsi_tmf_31
       2     232 root     S scsi_eh_32
       2     237 root     I scsi_tmf_32
-      2     243 root     I kworker/u256:24-events_unbound
-      2     244 root     I kworker/u256:25-events_power_efficient
-      2     245 root     I kworker/u256:26-events_unbound
-      2     254 root     I kworker/0:3H-ttm
       2     278 root     S jbd2/sda3-8
       2     279 root     I ext4-rsv-conver
       1     318 root     S systemd-journal
@@ -188,11 +182,9 @@
     691     781 avahi    S avahi-daemon
       1     807 root     S ModemManager
       1     858 root     S unattended-upgr
-      1     874 root     S cupsd
       1     878 root     S gdm3
       1     902 root     S bluetoothd
     878     910 root     S gdm-session-wor
-      1     957 root     S cups-browsed
       1     976 kernoops S kerneloops
       1     984 kernoops S kerneloops
       1    1045 jiawong2 S systemd
@@ -269,40 +261,35 @@
    1045    1860 jiawong2 S gjs
    1045    1896 jiawong2 S gsd-xsettings
    1045    1952 jiawong2 S ibus-x11
-      1    2005 root     S fwupd
    1291    2850 jiawong2 S update-notifier
    1045    3731 jiawong2 S update-manager
    1045    3789 jiawong2 S gnome-terminal-
    3789    3807 jiawong2 S bash
-      2    3866 root     I kworker/1:1H-ttm
-      2    4008 root     I kworker/1:1-events
-      2    4046 root     I kworker/0:1-cgroup_destroy
-      2    4486 root     I kworker/1:2H-ttm
-      2    4509 root     I kworker/1:2-events
-      2    4512 root     I kworker/0:0-events
-      1    4522 root     S apt.systemd.dai
-   4522    4526 root     S apt.systemd.dai
-   4526    4554 root     S unattended-upgr
-      2    4584 root     I kworker/1:0H-ttm
-      2    4585 root     I kworker/1:0-events
-      2    4735 root     I kworker/u256:0-flush-8:0
-   4554    5120 root     S unattended-upgr
-   1310    5240 jiawong2 S gjs
-   5120    5334 root     S dpkg
-   5334    5354 root     S linux-image-6.8
-   5354    5355 root     S sh
-   5355    5356 root     S run-parts
-   5356    5357 root     S initramfs-tools
-   5357    5359 root     S update-initramf
-   5359    5361 root     S mkinitramfs
-      2    6573 root     I kworker/0:1H-ttm
-      2    6577 root     I kworker/0:2H-ttm
-      2    6579 root     I kworker/0:4H-kblockd
-      2    6580 root     I kworker/1:3H-kblockd
-      2    6591 root     I kworker/1:4H
-   2850   10147 jiawong2 S apt-check
-   5361   11855 root     S mkinitramfs
-  11855   11857 root     S mkinitramfs
-  11857   11861 root     D mkinitramfs
-  10147   11933 jiawong2 R lsb_release
-   3807   11934 jiawong2 R ps
+   1045   18672 jiawong2 S nautilus
+   1181   34730 jiawong2 S ssh-agent
+      1   41323 root     S cupsd
+      1   41324 root     S cups-browsed
+   1045   46634 jiawong2 S gedit
+      2   46935 root     I kworker/u256:2-events_unbound
+      2   46946 root     I kworker/0:2H-ttm
+      2   46959 root     I kworker/u256:0-events_freezable_power_
+      2   46966 root     D kworker/1:0+pm
+      2   47002 root     I kworker/1:1H-ttm
+      2   47123 root     I kworker/0:0H-ttm
+      2   47146 root     I kworker/1:5H-ttm
+      2   47161 root     I kworker/0:0-cgroup_destroy
+      1   47166 root     S fwupd
+      2   47186 root     I kworker/1:2-events
+      2   47189 root     I kworker/u256:3-events_freezable_power_
+      2   47193 root     I kworker/1:1-events
+   1310   47214 jiawong2 S gjs
+      2   47253 root     I kworker/0:2-events
+      2   47265 root     I kworker/u256:1-events_power_efficient
+      2   47274 root     I kworker/0:1H-ttm
+      2   47275 root     I kworker/1:0H-ttm
+      2   47276 root     I kworker/0:3H-kblockd
+      2   47278 root     I kworker/1:2H-ttm
+      2   47279 root     I kworker/1:3H-kblockd
+      2   47280 root     I kworker/1:4H-ttm
+      2   47281 root     I kworker/1:6H
+   3807   47286 jiawong2 R ps
