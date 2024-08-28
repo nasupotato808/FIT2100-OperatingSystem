@@ -1,0 +1,20 @@
+F S   UID     PID    PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
+1 S  1000   _48387   o48386  0  80   0 -   661 do_wai pts/0    00:00:00 fork2
+            _________|
+            |
+0 S  1000   _48386   o 3807  0  80   0 -   694 do_wai pts/0    00:00:00 fork2
+            _________|
+            |
+0 S  1000   _3807    o 3789  0  80   0 -  2886 do_wai pts/0    00:00:01 bash
+            _________|
+            |
+0 S  1000   _3789    o 1045  0  80   0 - 140017 -     ?        00:01:23 gnome-terminal-
+            _________|
+            |
+4 S  1000   _1045    o    1  0  80   0 -  4951 ep_pol ?        00:00:10 systemd
+
+
+By running exec(), it print the line one by one, and less lines.
+Two differences of exec() and system()
+1. exec() replaces the current process with a new one, while system() creates a subprocess.
+2. exec() is more efficient as it doesn't create a new process.

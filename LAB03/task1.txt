@@ -1,0 +1,19 @@
+1. Process Hierarchy:
+- Every process, except for the init process (PID 1), has a parent process.
+- By tracing the Parent Process ID (PPID) chain, we can map the entire process tree back to the root (PID 1).
+
+2. Comparison of Tools:
+a.  ps command:
+- Provides a detailed list of processes in a text format.
+- Shows key information like PID, PPID, and command names.
+- Does not display threads separately from their parent processes.
+
+b. htop command (with -t option):
+- Offers a visual, tree-structured view of processes.
+- Distinguishes between processes (white entries) and their threads (green entries).
+- Makes parent-child relationships more immediately apparent.
+
+3. Visibility of Processes and Threads:
+- The ps command output (represented in the text file) shows mainly processes.
+- htop provides a more comprehensive view, including both processes and their associated threads.
+- Threads (green entries in htop) are not individually visible in the ps output.
