@@ -21,8 +21,10 @@ int main() {
 		// multiple processes
         pid_t pid = fork();
 
+		// Error handling for fork()
         if (pid < 0) {
             // Fork failed
+			perror("Fork failed");
             printf("Fork failed for child %d\n", i);
             exit(1);
         } else if (pid == 0) {
@@ -45,7 +47,15 @@ int main() {
 	// ensures parent waits for all child processes to complete before exiting
 	// process synchronization
 	for (i = 0; i < N; i++){
-		wait(NULL);
+		pid_t terminated_pid = wait(NULL);
+		if (terminated_pid == -1){
+			perror("Wait failed");
+			exit(1);
+		}
+		// I/O operations, by removing this printf, the parent process creates child processes faster
+		// without pausing for I/O
+		// Gives child processes more opportunity
+		printf("Child process with PID %d has terminated\n", terminated_pid);
 	}
 
     printf("All children have terminated. Parent process exiting.\n");
