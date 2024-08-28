@@ -1,4 +1,4 @@
-/* fork.c */
+/* fork2.c */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -23,6 +23,7 @@ int main(int argc, char *argv[])
     wait(NULL);
   }
   else if (pid == 0) { /* child got here! */
+    system("ps -e -l");
     /* when the child process terminates, the child process becomes a zombie process */
     count(start, 'C');
   }
@@ -38,8 +39,7 @@ void count(int start, char ch)
 
   for (i = start; i < 10; i++)
   {
-    //for (j = 0; j < 4000; j++); /* delay */
-    sleep(5);
-	printf("Message from %c at the %dth iteration\n", ch, i);
+    for (j = 0; j < 1000000; j++); /* delay */
+    printf("Message from %c at the %dth iteration\n", ch, i);
   }
 }
