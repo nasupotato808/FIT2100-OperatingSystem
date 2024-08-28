@@ -7,7 +7,9 @@
 // Function to calculate the factorial of a given number
 int factorial(int n) {
     // TODO: Implement the factorial function
-    return 0;
+	// Recursive
+	if (n == 0 || n == 1) return 1; // input 0 or 1, return 1
+	return n * factorial(n - 1);
 }
 
 int main() {
@@ -16,6 +18,7 @@ int main() {
     scanf("%d", &N);
 
     for (i = 0; i < N; i++) {
+		// multiple processes
         pid_t pid = fork();
 
         if (pid < 0) {
@@ -28,15 +31,22 @@ int main() {
             
             int result = factorial(i + 1); // Example calculation input
             // TODO: Print the result
-            
+			// Child calculates the factorial of i+1, helps track which child is being created and its PID
+            printf("Child %d calculated %d!= %d\n", i + 1, i + 1, result);
             exit(0); // Child process ends
         } else {
             // Parent process
             // TODO: Print appropriate message indicating the creation of a child process
-        }
+        	printf("Created child process %d with PID: %d\n", i + 1, pid);
+		}
     }
 
     // TODO: Write a loop to wait for all child processes
+	// ensures parent waits for all child processes to complete before exiting
+	// process synchronization
+	for (i = 0; i < N; i++){
+		wait(NULL);
+	}
 
     printf("All children have terminated. Parent process exiting.\n");
     return 0;
