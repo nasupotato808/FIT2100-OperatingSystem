@@ -1,0 +1,2001 @@
+Enter the number of child processes to create: Child process with PID: 36609 and Parent PID: 36608 is starting
+Child process with PID: 36609 has finished
+Enter the number of child processes to create: Child process with PID: 36635 and Parent PID: 36608 is starting
+Child process with PID: 36635 has finished
+Enter the number of child processes to create: Child process with PID: 36613 and Parent PID: 36608 is starting
+Child process with PID: 36613 has finished
+Enter the number of child processes to create: Child process with PID: 36640 and Parent PID: 36608 is starting
+Child process with PID: 36640 has finished
+Enter the number of child processes to create: Child process with PID: 36636 and Parent PID: 36608 is starting
+Child process with PID: 36636 has finished
+Enter the number of child processes to create: Child process with PID: 36647 and Parent PID: 36608 is starting
+Child process with PID: 36647 has finished
+Enter the number of child processes to create: Child process with PID: 36638 and Parent PID: 36608 is starting
+Child process with PID: 36638 has finished
+Enter the number of child processes to create: Child process with PID: 36645 and Parent PID: 36608 is starting
+Child process with PID: 36645 has finished
+Enter the number of child processes to create: Child process with PID: 36643 and Parent PID: 36608 is starting
+Child process with PID: 36643 has finished
+Enter the number of child processes to create: Child process with PID: 36642 and Parent PID: 36608 is starting
+Child process with PID: 36642 has finished
+Enter the number of child processes to create: Child process with PID: 36623 and Parent PID: 36608 is starting
+Child process with PID: 36623 has finished
+Enter the number of child processes to create: Child process with PID: 36644 and Parent PID: 36608 is starting
+Child process with PID: 36644 has finished
+Enter the number of child processes to create: Child process with PID: 36610 and Parent PID: 36608 is starting
+Child process with PID: 36610 has finished
+Enter the number of child processes to create: Child process with PID: 36646 and Parent PID: 36608 is starting
+Child process with PID: 36646 has finished
+Enter the number of child processes to create: Child process with PID: 36632 and Parent PID: 36608 is starting
+Child process with PID: 36632 has finished
+Enter the number of child processes to create: Child process with PID: 36611 and Parent PID: 36608 is starting
+Child process with PID: 36611 has finished
+Enter the number of child processes to create: Child process with PID: 36639 and Parent PID: 36608 is starting
+Child process with PID: 36639 has finished
+Enter the number of child processes to create: Child process with PID: 36615 and Parent PID: 36608 is starting
+Child process with PID: 36615 has finished
+Enter the number of child processes to create: Child process with PID: 36616 and Parent PID: 36608 is starting
+Child process with PID: 36616 has finished
+Enter the number of child processes to create: Child process with PID: 36620 and Parent PID: 36608 is starting
+Child process with PID: 36620 has finished
+Enter the number of child processes to create: Child process with PID: 36641 and Parent PID: 36608 is starting
+Child process with PID: 36641 has finished
+Enter the number of child processes to create: Child process with PID: 36617 and Parent PID: 36608 is starting
+Child process with PID: 36617 has finished
+Enter the number of child processes to create: Child process with PID: 36637 and Parent PID: 36608 is starting
+Child process with PID: 36637 has finished
+Enter the number of child processes to create: Child process with PID: 36619 and Parent PID: 36608 is starting
+Child process with PID: 36619 has finished
+Enter the number of child processes to create: Child process with PID: 36648 and Parent PID: 36608 is starting
+Child process with PID: 36648 has finished
+Enter the number of child processes to create: Child process with PID: 36656 and Parent PID: 36608 is starting
+Child process with PID: 36656 has finished
+Enter the number of child processes to create: Child process with PID: 36618 and Parent PID: 36608 is starting
+Child process with PID: 36618 has finished
+Enter the number of child processes to create: Child process with PID: 36634 and Parent PID: 36608 is starting
+Child process with PID: 36634 has finished
+Enter the number of child processes to create: Child process with PID: 36633 and Parent PID: 36608 is starting
+Child process with PID: 36633 has finished
+Enter the number of child processes to create: Child process with PID: 36631 and Parent PID: 36608 is starting
+Child process with PID: 36631 has finished
+Enter the number of child processes to create: Child process with PID: 36612 and Parent PID: 36608 is starting
+Child process with PID: 36612 has finished
+Enter the number of child processes to create: Child process with PID: 36630 and Parent PID: 36608 is starting
+Child process with PID: 36630 has finished
+Enter the number of child processes to create: Child process with PID: 36669 and Parent PID: 36608 is starting
+Child process with PID: 36669 has finished
+Enter the number of child processes to create: Child process with PID: 36629 and Parent PID: 36608 is starting
+Child process with PID: 36629 has finished
+Enter the number of child processes to create: Child process with PID: 36668 and Parent PID: 36608 is starting
+Child process with PID: 36668 has finished
+Enter the number of child processes to create: Child process with PID: 36624 and Parent PID: 36608 is starting
+Child process with PID: 36624 has finished
+Enter the number of child processes to create: Child process with PID: 36672 and Parent PID: 36608 is starting
+Child process with PID: 36672 has finished
+Enter the number of child processes to create: Child process with PID: 36628 and Parent PID: 36608 is starting
+Child process with PID: 36628 has finished
+Enter the number of child processes to create: Child process with PID: 36625 and Parent PID: 36608 is starting
+Child process with PID: 36625 has finished
+Enter the number of child processes to create: Child process with PID: 36671 and Parent PID: 36608 is starting
+Child process with PID: 36671 has finished
+Enter the number of child processes to create: Child process with PID: 36670 and Parent PID: 36608 is starting
+Child process with PID: 36670 has finished
+Enter the number of child processes to create: Child process with PID: 36627 and Parent PID: 36608 is starting
+Child process with PID: 36627 has finished
+Enter the number of child processes to create: Child process with PID: 36673 and Parent PID: 36608 is starting
+Child process with PID: 36673 has finished
+Enter the number of child processes to create: Child process with PID: 36626 and Parent PID: 36608 is starting
+Child process with PID: 36626 has finished
+Enter the number of child processes to create: Child process with PID: 36622 and Parent PID: 36608 is starting
+Child process with PID: 36622 has finished
+Enter the number of child processes to create: Child process with PID: 36674 and Parent PID: 36608 is starting
+Child process with PID: 36674 has finished
+Enter the number of child processes to create: Child process with PID: 36651 and Parent PID: 36608 is starting
+Child process with PID: 36651 has finished
+Enter the number of child processes to create: Child process with PID: 36667 and Parent PID: 36608 is starting
+Child process with PID: 36667 has finished
+Enter the number of child processes to create: Child process with PID: 36650 and Parent PID: 36608 is starting
+Child process with PID: 36650 has finished
+Enter the number of child processes to create: Child process with PID: 36675 and Parent PID: 36608 is starting
+Child process with PID: 36675 has finished
+Enter the number of child processes to create: Child process with PID: 36621 and Parent PID: 36608 is starting
+Child process with PID: 36621 has finished
+Enter the number of child processes to create: Child process with PID: 36676 and Parent PID: 36608 is starting
+Child process with PID: 36676 has finished
+Enter the number of child processes to create: Child process with PID: 36649 and Parent PID: 36608 is starting
+Child process with PID: 36649 has finished
+Enter the number of child processes to create: Child process with PID: 36614 and Parent PID: 36608 is starting
+Child process with PID: 36614 has finished
+Enter the number of child processes to create: Child process with PID: 36677 and Parent PID: 36608 is starting
+Child process with PID: 36677 has finished
+Enter the number of child processes to create: Child process with PID: 36653 and Parent PID: 36608 is starting
+Child process with PID: 36653 has finished
+Enter the number of child processes to create: Child process with PID: 36666 and Parent PID: 36608 is starting
+Child process with PID: 36666 has finished
+Enter the number of child processes to create: Child process with PID: 36679 and Parent PID: 36608 is starting
+Child process with PID: 36679 has finished
+Enter the number of child processes to create: Child process with PID: 36658 and Parent PID: 36608 is starting
+Child process with PID: 36658 has finished
+Enter the number of child processes to create: Child process with PID: 36654 and Parent PID: 36608 is starting
+Child process with PID: 36654 has finished
+Enter the number of child processes to create: Child process with PID: 36678 and Parent PID: 36608 is starting
+Child process with PID: 36678 has finished
+Enter the number of child processes to create: Child process with PID: 36661 and Parent PID: 36608 is starting
+Child process with PID: 36661 has finished
+Enter the number of child processes to create: Child process with PID: 36681 and Parent PID: 36608 is starting
+Child process with PID: 36681 has finished
+Enter the number of child processes to create: Child process with PID: 36659 and Parent PID: 36608 is starting
+Child process with PID: 36659 has finished
+Enter the number of child processes to create: Child process with PID: 36680 and Parent PID: 36608 is starting
+Child process with PID: 36680 has finished
+Enter the number of child processes to create: Child process with PID: 36664 and Parent PID: 36608 is starting
+Child process with PID: 36664 has finished
+Enter the number of child processes to create: Child process with PID: 36652 and Parent PID: 36608 is starting
+Child process with PID: 36652 has finished
+Enter the number of child processes to create: Child process with PID: 36657 and Parent PID: 36608 is starting
+Child process with PID: 36657 has finished
+Enter the number of child processes to create: Child process with PID: 36682 and Parent PID: 36608 is starting
+Child process with PID: 36682 has finished
+Enter the number of child processes to create: Child process with PID: 36663 and Parent PID: 36608 is starting
+Child process with PID: 36663 has finished
+Enter the number of child processes to create: Child process with PID: 36665 and Parent PID: 36608 is starting
+Child process with PID: 36665 has finished
+Enter the number of child processes to create: Child process with PID: 36660 and Parent PID: 36608 is starting
+Child process with PID: 36660 has finished
+Enter the number of child processes to create: Child process with PID: 36687 and Parent PID: 36608 is starting
+Child process with PID: 36687 has finished
+Enter the number of child processes to create: Child process with PID: 36688 and Parent PID: 36608 is starting
+Child process with PID: 36688 has finished
+Enter the number of child processes to create: Child process with PID: 36686 and Parent PID: 36608 is starting
+Child process with PID: 36686 has finished
+Enter the number of child processes to create: Child process with PID: 36683 and Parent PID: 36608 is starting
+Child process with PID: 36683 has finished
+Enter the number of child processes to create: Child process with PID: 36691 and Parent PID: 36608 is starting
+Child process with PID: 36691 has finished
+Enter the number of child processes to create: Child process with PID: 36689 and Parent PID: 36608 is starting
+Child process with PID: 36689 has finished
+Enter the number of child processes to create: Child process with PID: 36690 and Parent PID: 36608 is starting
+Child process with PID: 36690 has finished
+Enter the number of child processes to create: Child process with PID: 36694 and Parent PID: 36608 is starting
+Child process with PID: 36694 has finished
+Enter the number of child processes to create: Child process with PID: 36662 and Parent PID: 36608 is starting
+Child process with PID: 36662 has finished
+Enter the number of child processes to create: Child process with PID: 36655 and Parent PID: 36608 is starting
+Child process with PID: 36655 has finished
+Enter the number of child processes to create: Child process with PID: 36695 and Parent PID: 36608 is starting
+Child process with PID: 36695 has finished
+Enter the number of child processes to create: Child process with PID: 36692 and Parent PID: 36608 is starting
+Child process with PID: 36692 has finished
+Enter the number of child processes to create: Child process with PID: 36693 and Parent PID: 36608 is starting
+Child process with PID: 36693 has finished
+Enter the number of child processes to create: Child process with PID: 36685 and Parent PID: 36608 is starting
+Child process with PID: 36685 has finished
+Enter the number of child processes to create: Child process with PID: 36696 and Parent PID: 36608 is starting
+Child process with PID: 36696 has finished
+Enter the number of child processes to create: Child process with PID: 36697 and Parent PID: 36608 is starting
+Child process with PID: 36697 has finished
+Enter the number of child processes to create: Child process with PID: 36698 and Parent PID: 36608 is starting
+Child process with PID: 36698 has finished
+Enter the number of child processes to create: Child process with PID: 36699 and Parent PID: 36608 is starting
+Child process with PID: 36699 has finished
+Enter the number of child processes to create: Child process with PID: 36700 and Parent PID: 36608 is starting
+Child process with PID: 36700 has finished
+Enter the number of child processes to create: Child process with PID: 36684 and Parent PID: 36608 is starting
+Child process with PID: 36684 has finished
+Enter the number of child processes to create: Child process with PID: 36701 and Parent PID: 36608 is starting
+Child process with PID: 36701 has finished
+Enter the number of child processes to create: Child process with PID: 36706 and Parent PID: 36608 is starting
+Child process with PID: 36706 has finished
+Enter the number of child processes to create: Child process with PID: 36707 and Parent PID: 36608 is starting
+Child process with PID: 36707 has finished
+Enter the number of child processes to create: Child process with PID: 36704 and Parent PID: 36608 is starting
+Child process with PID: 36704 has finished
+Enter the number of child processes to create: Child process with PID: 36705 and Parent PID: 36608 is starting
+Child process with PID: 36705 has finished
+Enter the number of child processes to create: Child process with PID: 36708 and Parent PID: 36608 is starting
+Child process with PID: 36708 has finished
+Enter the number of child processes to create: Child process with PID: 36709 and Parent PID: 36608 is starting
+Child process with PID: 36709 has finished
+Enter the number of child processes to create: Child process with PID: 36702 and Parent PID: 36608 is starting
+Child process with PID: 36702 has finished
+Enter the number of child processes to create: Child process with PID: 36703 and Parent PID: 36608 is starting
+Child process with PID: 36703 has finished
+Enter the number of child processes to create: Child process with PID: 36710 and Parent PID: 36608 is starting
+Child process with PID: 36710 has finished
+Enter the number of child processes to create: Child process with PID: 36711 and Parent PID: 36608 is starting
+Child process with PID: 36711 has finished
+Enter the number of child processes to create: Child process with PID: 36712 and Parent PID: 36608 is starting
+Child process with PID: 36712 has finished
+Enter the number of child processes to create: Child process with PID: 36713 and Parent PID: 36608 is starting
+Child process with PID: 36713 has finished
+Enter the number of child processes to create: Child process with PID: 36714 and Parent PID: 36608 is starting
+Child process with PID: 36714 has finished
+Enter the number of child processes to create: Child process with PID: 36715 and Parent PID: 36608 is starting
+Child process with PID: 36715 has finished
+Enter the number of child processes to create: Child process with PID: 36716 and Parent PID: 36608 is starting
+Child process with PID: 36716 has finished
+Enter the number of child processes to create: Child process with PID: 36717 and Parent PID: 36608 is starting
+Child process with PID: 36717 has finished
+Enter the number of child processes to create: Child process with PID: 36718 and Parent PID: 36608 is starting
+Child process with PID: 36718 has finished
+Enter the number of child processes to create: Child process with PID: 36719 and Parent PID: 36608 is starting
+Child process with PID: 36719 has finished
+Enter the number of child processes to create: Child process with PID: 36720 and Parent PID: 36608 is starting
+Child process with PID: 36720 has finished
+Enter the number of child processes to create: Child process with PID: 36721 and Parent PID: 36608 is starting
+Child process with PID: 36721 has finished
+Enter the number of child processes to create: Child process with PID: 36722 and Parent PID: 36608 is starting
+Child process with PID: 36722 has finished
+Enter the number of child processes to create: Child process with PID: 36723 and Parent PID: 36608 is starting
+Child process with PID: 36723 has finished
+Enter the number of child processes to create: Child process with PID: 36725 and Parent PID: 36608 is starting
+Child process with PID: 36725 has finished
+Enter the number of child processes to create: Child process with PID: 36724 and Parent PID: 36608 is starting
+Child process with PID: 36724 has finished
+Enter the number of child processes to create: Child process with PID: 36727 and Parent PID: 36608 is starting
+Child process with PID: 36727 has finished
+Enter the number of child processes to create: Child process with PID: 36726 and Parent PID: 36608 is starting
+Child process with PID: 36726 has finished
+Enter the number of child processes to create: Child process with PID: 36728 and Parent PID: 36608 is starting
+Child process with PID: 36728 has finished
+Enter the number of child processes to create: Child process with PID: 36729 and Parent PID: 36608 is starting
+Child process with PID: 36729 has finished
+Enter the number of child processes to create: Child process with PID: 36730 and Parent PID: 36608 is starting
+Child process with PID: 36730 has finished
+Enter the number of child processes to create: Child process with PID: 36731 and Parent PID: 36608 is starting
+Child process with PID: 36731 has finished
+Enter the number of child processes to create: Child process with PID: 36732 and Parent PID: 36608 is starting
+Child process with PID: 36732 has finished
+Enter the number of child processes to create: Child process with PID: 36733 and Parent PID: 36608 is starting
+Child process with PID: 36733 has finished
+Enter the number of child processes to create: Child process with PID: 36734 and Parent PID: 36608 is starting
+Child process with PID: 36734 has finished
+Enter the number of child processes to create: Child process with PID: 36735 and Parent PID: 36608 is starting
+Child process with PID: 36735 has finished
+Enter the number of child processes to create: Child process with PID: 36737 and Parent PID: 36608 is starting
+Child process with PID: 36737 has finished
+Enter the number of child processes to create: Child process with PID: 36736 and Parent PID: 36608 is starting
+Child process with PID: 36736 has finished
+Enter the number of child processes to create: Child process with PID: 36738 and Parent PID: 36608 is starting
+Child process with PID: 36738 has finished
+Enter the number of child processes to create: Child process with PID: 36739 and Parent PID: 36608 is starting
+Child process with PID: 36739 has finished
+Enter the number of child processes to create: Child process with PID: 36740 and Parent PID: 36608 is starting
+Child process with PID: 36740 has finished
+Enter the number of child processes to create: Child process with PID: 36741 and Parent PID: 36608 is starting
+Child process with PID: 36741 has finished
+Enter the number of child processes to create: Child process with PID: 36742 and Parent PID: 36608 is starting
+Child process with PID: 36742 has finished
+Enter the number of child processes to create: Child process with PID: 36743 and Parent PID: 36608 is starting
+Child process with PID: 36743 has finished
+Enter the number of child processes to create: Child process with PID: 36744 and Parent PID: 36608 is starting
+Child process with PID: 36744 has finished
+Enter the number of child processes to create: Child process with PID: 36745 and Parent PID: 36608 is starting
+Child process with PID: 36745 has finished
+Enter the number of child processes to create: Child process with PID: 36746 and Parent PID: 36608 is starting
+Child process with PID: 36746 has finished
+Enter the number of child processes to create: Child process with PID: 36747 and Parent PID: 36608 is starting
+Child process with PID: 36747 has finished
+Enter the number of child processes to create: Child process with PID: 36748 and Parent PID: 36608 is starting
+Child process with PID: 36748 has finished
+Enter the number of child processes to create: Child process with PID: 36749 and Parent PID: 36608 is starting
+Child process with PID: 36749 has finished
+Enter the number of child processes to create: Child process with PID: 36750 and Parent PID: 36608 is starting
+Child process with PID: 36750 has finished
+Enter the number of child processes to create: Child process with PID: 36751 and Parent PID: 36608 is starting
+Child process with PID: 36751 has finished
+Enter the number of child processes to create: Child process with PID: 36752 and Parent PID: 36608 is starting
+Child process with PID: 36752 has finished
+Enter the number of child processes to create: Child process with PID: 36753 and Parent PID: 36608 is starting
+Child process with PID: 36753 has finished
+Enter the number of child processes to create: Child process with PID: 36754 and Parent PID: 36608 is starting
+Child process with PID: 36754 has finished
+Enter the number of child processes to create: Child process with PID: 36755 and Parent PID: 36608 is starting
+Child process with PID: 36755 has finished
+Enter the number of child processes to create: Child process with PID: 36756 and Parent PID: 36608 is starting
+Child process with PID: 36756 has finished
+Enter the number of child processes to create: Child process with PID: 36757 and Parent PID: 36608 is starting
+Child process with PID: 36757 has finished
+Enter the number of child processes to create: Child process with PID: 36758 and Parent PID: 36608 is starting
+Child process with PID: 36758 has finished
+Enter the number of child processes to create: Child process with PID: 36759 and Parent PID: 36608 is starting
+Child process with PID: 36759 has finished
+Enter the number of child processes to create: Child process with PID: 36760 and Parent PID: 36608 is starting
+Child process with PID: 36760 has finished
+Enter the number of child processes to create: Child process with PID: 36761 and Parent PID: 36608 is starting
+Child process with PID: 36761 has finished
+Enter the number of child processes to create: Child process with PID: 36762 and Parent PID: 36608 is starting
+Child process with PID: 36762 has finished
+Enter the number of child processes to create: Child process with PID: 36763 and Parent PID: 36608 is starting
+Child process with PID: 36763 has finished
+Enter the number of child processes to create: Child process with PID: 36764 and Parent PID: 36608 is starting
+Child process with PID: 36764 has finished
+Enter the number of child processes to create: Child process with PID: 36765 and Parent PID: 36608 is starting
+Child process with PID: 36765 has finished
+Enter the number of child processes to create: Child process with PID: 36767 and Parent PID: 36608 is starting
+Child process with PID: 36767 has finished
+Enter the number of child processes to create: Child process with PID: 36768 and Parent PID: 36608 is starting
+Child process with PID: 36768 has finished
+Enter the number of child processes to create: Child process with PID: 36766 and Parent PID: 36608 is starting
+Child process with PID: 36766 has finished
+Enter the number of child processes to create: Child process with PID: 36769 and Parent PID: 36608 is starting
+Child process with PID: 36769 has finished
+Enter the number of child processes to create: Child process with PID: 36770 and Parent PID: 36608 is starting
+Child process with PID: 36770 has finished
+Enter the number of child processes to create: Child process with PID: 36771 and Parent PID: 36608 is starting
+Child process with PID: 36771 has finished
+Enter the number of child processes to create: Child process with PID: 36772 and Parent PID: 36608 is starting
+Child process with PID: 36772 has finished
+Enter the number of child processes to create: Child process with PID: 36773 and Parent PID: 36608 is starting
+Child process with PID: 36773 has finished
+Enter the number of child processes to create: Child process with PID: 36775 and Parent PID: 36608 is starting
+Child process with PID: 36775 has finished
+Enter the number of child processes to create: Child process with PID: 36774 and Parent PID: 36608 is starting
+Child process with PID: 36774 has finished
+Enter the number of child processes to create: Child process with PID: 36776 and Parent PID: 36608 is starting
+Child process with PID: 36776 has finished
+Enter the number of child processes to create: Child process with PID: 36777 and Parent PID: 36608 is starting
+Child process with PID: 36777 has finished
+Enter the number of child processes to create: Child process with PID: 36778 and Parent PID: 36608 is starting
+Child process with PID: 36778 has finished
+Enter the number of child processes to create: Child process with PID: 36779 and Parent PID: 36608 is starting
+Child process with PID: 36779 has finished
+Enter the number of child processes to create: Child process with PID: 36782 and Parent PID: 36608 is starting
+Child process with PID: 36782 has finished
+Enter the number of child processes to create: Child process with PID: 36780 and Parent PID: 36608 is starting
+Child process with PID: 36780 has finished
+Enter the number of child processes to create: Child process with PID: 36781 and Parent PID: 36608 is starting
+Child process with PID: 36781 has finished
+Enter the number of child processes to create: Child process with PID: 36785 and Parent PID: 36608 is starting
+Child process with PID: 36785 has finished
+Enter the number of child processes to create: Child process with PID: 36783 and Parent PID: 36608 is starting
+Child process with PID: 36783 has finished
+Enter the number of child processes to create: Child process with PID: 36784 and Parent PID: 36608 is starting
+Child process with PID: 36784 has finished
+Enter the number of child processes to create: Child process with PID: 36787 and Parent PID: 36608 is starting
+Child process with PID: 36787 has finished
+Enter the number of child processes to create: Child process with PID: 36788 and Parent PID: 36608 is starting
+Child process with PID: 36788 has finished
+Enter the number of child processes to create: Child process with PID: 36790 and Parent PID: 36608 is starting
+Child process with PID: 36790 has finished
+Enter the number of child processes to create: Child process with PID: 36786 and Parent PID: 36608 is starting
+Child process with PID: 36786 has finished
+Enter the number of child processes to create: Child process with PID: 36789 and Parent PID: 36608 is starting
+Child process with PID: 36789 has finished
+Enter the number of child processes to create: Child process with PID: 36792 and Parent PID: 36608 is starting
+Child process with PID: 36792 has finished
+Enter the number of child processes to create: Child process with PID: 36795 and Parent PID: 36608 is starting
+Child process with PID: 36795 has finished
+Enter the number of child processes to create: Child process with PID: 36793 and Parent PID: 36608 is starting
+Child process with PID: 36793 has finished
+Enter the number of child processes to create: Child process with PID: 36791 and Parent PID: 36608 is starting
+Child process with PID: 36791 has finished
+Enter the number of child processes to create: Child process with PID: 36797 and Parent PID: 36608 is starting
+Child process with PID: 36797 has finished
+Enter the number of child processes to create: Child process with PID: 36796 and Parent PID: 36608 is starting
+Child process with PID: 36796 has finished
+Enter the number of child processes to create: Child process with PID: 36798 and Parent PID: 36608 is starting
+Child process with PID: 36798 has finished
+Enter the number of child processes to create: Child process with PID: 36794 and Parent PID: 36608 is starting
+Child process with PID: 36794 has finished
+Enter the number of child processes to create: Child process with PID: 36800 and Parent PID: 36608 is starting
+Child process with PID: 36800 has finished
+Enter the number of child processes to create: Child process with PID: 36799 and Parent PID: 36608 is starting
+Child process with PID: 36799 has finished
+Enter the number of child processes to create: Child process with PID: 36801 and Parent PID: 36608 is starting
+Child process with PID: 36801 has finished
+Enter the number of child processes to create: Child process with PID: 36802 and Parent PID: 36608 is starting
+Child process with PID: 36802 has finished
+Enter the number of child processes to create: Child process with PID: 36803 and Parent PID: 36608 is starting
+Child process with PID: 36803 has finished
+Enter the number of child processes to create: Child process with PID: 36804 and Parent PID: 36608 is starting
+Child process with PID: 36804 has finished
+Enter the number of child processes to create: Child process with PID: 36805 and Parent PID: 36608 is starting
+Child process with PID: 36805 has finished
+Enter the number of child processes to create: Child process with PID: 36806 and Parent PID: 36608 is starting
+Child process with PID: 36806 has finished
+Enter the number of child processes to create: Child process with PID: 36807 and Parent PID: 36608 is starting
+Child process with PID: 36807 has finished
+Enter the number of child processes to create: Child process with PID: 36808 and Parent PID: 36608 is starting
+Child process with PID: 36808 has finished
+Enter the number of child processes to create: Child process with PID: 36809 and Parent PID: 36608 is starting
+Child process with PID: 36809 has finished
+Enter the number of child processes to create: Child process with PID: 36810 and Parent PID: 36608 is starting
+Child process with PID: 36810 has finished
+Enter the number of child processes to create: Child process with PID: 36813 and Parent PID: 36608 is starting
+Child process with PID: 36813 has finished
+Enter the number of child processes to create: Child process with PID: 36811 and Parent PID: 36608 is starting
+Child process with PID: 36811 has finished
+Enter the number of child processes to create: Child process with PID: 36812 and Parent PID: 36608 is starting
+Child process with PID: 36812 has finished
+Enter the number of child processes to create: Child process with PID: 36814 and Parent PID: 36608 is starting
+Child process with PID: 36814 has finished
+Enter the number of child processes to create: Child process with PID: 36815 and Parent PID: 36608 is starting
+Child process with PID: 36815 has finished
+Enter the number of child processes to create: Child process with PID: 36816 and Parent PID: 36608 is starting
+Child process with PID: 36816 has finished
+Enter the number of child processes to create: Child process with PID: 36817 and Parent PID: 36608 is starting
+Child process with PID: 36817 has finished
+Enter the number of child processes to create: Child process with PID: 36818 and Parent PID: 36608 is starting
+Child process with PID: 36818 has finished
+Enter the number of child processes to create: Child process with PID: 36819 and Parent PID: 36608 is starting
+Child process with PID: 36819 has finished
+Enter the number of child processes to create: Child process with PID: 36823 and Parent PID: 36608 is starting
+Child process with PID: 36823 has finished
+Enter the number of child processes to create: Child process with PID: 36821 and Parent PID: 36608 is starting
+Child process with PID: 36821 has finished
+Enter the number of child processes to create: Child process with PID: 36820 and Parent PID: 36608 is starting
+Child process with PID: 36820 has finished
+Enter the number of child processes to create: Child process with PID: 36824 and Parent PID: 36608 is starting
+Child process with PID: 36824 has finished
+Enter the number of child processes to create: Child process with PID: 36826 and Parent PID: 36608 is starting
+Child process with PID: 36826 has finished
+Enter the number of child processes to create: Child process with PID: 36822 and Parent PID: 36608 is starting
+Child process with PID: 36822 has finished
+Enter the number of child processes to create: Child process with PID: 36827 and Parent PID: 36608 is starting
+Child process with PID: 36827 has finished
+Enter the number of child processes to create: Child process with PID: 36825 and Parent PID: 36608 is starting
+Child process with PID: 36825 has finished
+Enter the number of child processes to create: Child process with PID: 36828 and Parent PID: 36608 is starting
+Child process with PID: 36828 has finished
+Enter the number of child processes to create: Child process with PID: 36829 and Parent PID: 36608 is starting
+Child process with PID: 36829 has finished
+Enter the number of child processes to create: Child process with PID: 36831 and Parent PID: 36608 is starting
+Child process with PID: 36831 has finished
+Enter the number of child processes to create: Child process with PID: 36830 and Parent PID: 36608 is starting
+Child process with PID: 36830 has finished
+Enter the number of child processes to create: Child process with PID: 36835 and Parent PID: 36608 is starting
+Child process with PID: 36835 has finished
+Enter the number of child processes to create: Child process with PID: 36833 and Parent PID: 36608 is starting
+Child process with PID: 36833 has finished
+Enter the number of child processes to create: Child process with PID: 36834 and Parent PID: 36608 is starting
+Child process with PID: 36834 has finished
+Enter the number of child processes to create: Child process with PID: 36832 and Parent PID: 36608 is starting
+Child process with PID: 36832 has finished
+Enter the number of child processes to create: Child process with PID: 36836 and Parent PID: 36608 is starting
+Child process with PID: 36836 has finished
+Enter the number of child processes to create: Child process with PID: 36838 and Parent PID: 36608 is starting
+Child process with PID: 36838 has finished
+Enter the number of child processes to create: Child process with PID: 36837 and Parent PID: 36608 is starting
+Child process with PID: 36837 has finished
+Enter the number of child processes to create: Child process with PID: 36839 and Parent PID: 36608 is starting
+Child process with PID: 36839 has finished
+Enter the number of child processes to create: Child process with PID: 36840 and Parent PID: 36608 is starting
+Child process with PID: 36840 has finished
+Enter the number of child processes to create: Child process with PID: 36841 and Parent PID: 36608 is starting
+Child process with PID: 36841 has finished
+Enter the number of child processes to create: Child process with PID: 36843 and Parent PID: 36608 is starting
+Child process with PID: 36843 has finished
+Enter the number of child processes to create: Child process with PID: 36844 and Parent PID: 36608 is starting
+Child process with PID: 36844 has finished
+Enter the number of child processes to create: Child process with PID: 36842 and Parent PID: 36608 is starting
+Child process with PID: 36842 has finished
+Enter the number of child processes to create: Child process with PID: 36845 and Parent PID: 36608 is starting
+Child process with PID: 36845 has finished
+Enter the number of child processes to create: Child process with PID: 36846 and Parent PID: 36608 is starting
+Child process with PID: 36846 has finished
+Enter the number of child processes to create: Child process with PID: 36847 and Parent PID: 36608 is starting
+Child process with PID: 36847 has finished
+Enter the number of child processes to create: Child process with PID: 36848 and Parent PID: 36608 is starting
+Child process with PID: 36848 has finished
+Enter the number of child processes to create: Child process with PID: 36849 and Parent PID: 36608 is starting
+Child process with PID: 36849 has finished
+Enter the number of child processes to create: Child process with PID: 36850 and Parent PID: 36608 is starting
+Child process with PID: 36850 has finished
+Enter the number of child processes to create: Child process with PID: 36851 and Parent PID: 36608 is starting
+Child process with PID: 36851 has finished
+Enter the number of child processes to create: Child process with PID: 36852 and Parent PID: 36608 is starting
+Child process with PID: 36852 has finished
+Enter the number of child processes to create: Child process with PID: 36856 and Parent PID: 36608 is starting
+Child process with PID: 36856 has finished
+Enter the number of child processes to create: Child process with PID: 36854 and Parent PID: 36608 is starting
+Child process with PID: 36854 has finished
+Enter the number of child processes to create: Child process with PID: 36853 and Parent PID: 36608 is starting
+Child process with PID: 36853 has finished
+Enter the number of child processes to create: Child process with PID: 36855 and Parent PID: 36608 is starting
+Child process with PID: 36855 has finished
+Enter the number of child processes to create: Child process with PID: 36858 and Parent PID: 36608 is starting
+Child process with PID: 36858 has finished
+Enter the number of child processes to create: Child process with PID: 36857 and Parent PID: 36608 is starting
+Child process with PID: 36857 has finished
+Enter the number of child processes to create: Child process with PID: 36862 and Parent PID: 36608 is starting
+Child process with PID: 36862 has finished
+Enter the number of child processes to create: Child process with PID: 36860 and Parent PID: 36608 is starting
+Child process with PID: 36860 has finished
+Enter the number of child processes to create: Child process with PID: 36863 and Parent PID: 36608 is starting
+Child process with PID: 36863 has finished
+Enter the number of child processes to create: Child process with PID: 36859 and Parent PID: 36608 is starting
+Child process with PID: 36859 has finished
+Enter the number of child processes to create: Child process with PID: 36861 and Parent PID: 36608 is starting
+Child process with PID: 36861 has finished
+Enter the number of child processes to create: Child process with PID: 36864 and Parent PID: 36608 is starting
+Child process with PID: 36864 has finished
+Enter the number of child processes to create: Child process with PID: 36865 and Parent PID: 36608 is starting
+Child process with PID: 36865 has finished
+Enter the number of child processes to create: Child process with PID: 36866 and Parent PID: 36608 is starting
+Child process with PID: 36866 has finished
+Enter the number of child processes to create: Child process with PID: 36867 and Parent PID: 36608 is starting
+Child process with PID: 36867 has finished
+Enter the number of child processes to create: Child process with PID: 36868 and Parent PID: 36608 is starting
+Child process with PID: 36868 has finished
+Enter the number of child processes to create: Child process with PID: 36869 and Parent PID: 36608 is starting
+Child process with PID: 36869 has finished
+Enter the number of child processes to create: Child process with PID: 36871 and Parent PID: 36608 is starting
+Child process with PID: 36871 has finished
+Enter the number of child processes to create: Child process with PID: 36870 and Parent PID: 36608 is starting
+Child process with PID: 36870 has finished
+Enter the number of child processes to create: Child process with PID: 36872 and Parent PID: 36608 is starting
+Child process with PID: 36872 has finished
+Enter the number of child processes to create: Child process with PID: 36873 and Parent PID: 36608 is starting
+Child process with PID: 36873 has finished
+Enter the number of child processes to create: Child process with PID: 36877 and Parent PID: 36608 is starting
+Child process with PID: 36877 has finished
+Enter the number of child processes to create: Child process with PID: 36876 and Parent PID: 36608 is starting
+Child process with PID: 36876 has finished
+Enter the number of child processes to create: Child process with PID: 36878 and Parent PID: 36608 is starting
+Child process with PID: 36878 has finished
+Enter the number of child processes to create: Child process with PID: 36880 and Parent PID: 36608 is starting
+Child process with PID: 36880 has finished
+Enter the number of child processes to create: Child process with PID: 36879 and Parent PID: 36608 is starting
+Child process with PID: 36879 has finished
+Enter the number of child processes to create: Child process with PID: 36874 and Parent PID: 36608 is starting
+Child process with PID: 36874 has finished
+Enter the number of child processes to create: Child process with PID: 36875 and Parent PID: 36608 is starting
+Child process with PID: 36875 has finished
+Enter the number of child processes to create: Child process with PID: 36882 and Parent PID: 36608 is starting
+Child process with PID: 36882 has finished
+Enter the number of child processes to create: Child process with PID: 36883 and Parent PID: 36608 is starting
+Child process with PID: 36883 has finished
+Enter the number of child processes to create: Child process with PID: 36886 and Parent PID: 36608 is starting
+Child process with PID: 36886 has finished
+Enter the number of child processes to create: Child process with PID: 36885 and Parent PID: 36608 is starting
+Child process with PID: 36885 has finished
+Enter the number of child processes to create: Child process with PID: 36881 and Parent PID: 36608 is starting
+Child process with PID: 36881 has finished
+Enter the number of child processes to create: Child process with PID: 36884 and Parent PID: 36608 is starting
+Child process with PID: 36884 has finished
+Enter the number of child processes to create: Child process with PID: 36887 and Parent PID: 36608 is starting
+Child process with PID: 36887 has finished
+Enter the number of child processes to create: Child process with PID: 36888 and Parent PID: 36608 is starting
+Child process with PID: 36888 has finished
+Enter the number of child processes to create: Child process with PID: 36889 and Parent PID: 36608 is starting
+Child process with PID: 36889 has finished
+Enter the number of child processes to create: Child process with PID: 36892 and Parent PID: 36608 is starting
+Child process with PID: 36892 has finished
+Enter the number of child processes to create: Child process with PID: 36893 and Parent PID: 36608 is starting
+Child process with PID: 36893 has finished
+Enter the number of child processes to create: Child process with PID: 36894 and Parent PID: 36608 is starting
+Child process with PID: 36894 has finished
+Enter the number of child processes to create: Child process with PID: 36890 and Parent PID: 36608 is starting
+Child process with PID: 36890 has finished
+Enter the number of child processes to create: Child process with PID: 36891 and Parent PID: 36608 is starting
+Child process with PID: 36891 has finished
+Enter the number of child processes to create: Child process with PID: 36896 and Parent PID: 36608 is starting
+Child process with PID: 36896 has finished
+Enter the number of child processes to create: Child process with PID: 36898 and Parent PID: 36608 is starting
+Child process with PID: 36898 has finished
+Enter the number of child processes to create: Child process with PID: 36899 and Parent PID: 36608 is starting
+Child process with PID: 36899 has finished
+Enter the number of child processes to create: Child process with PID: 36895 and Parent PID: 36608 is starting
+Child process with PID: 36895 has finished
+Enter the number of child processes to create: Child process with PID: 36900 and Parent PID: 36608 is starting
+Child process with PID: 36900 has finished
+Enter the number of child processes to create: Child process with PID: 36901 and Parent PID: 36608 is starting
+Child process with PID: 36901 has finished
+Enter the number of child processes to create: Child process with PID: 36897 and Parent PID: 36608 is starting
+Child process with PID: 36897 has finished
+Enter the number of child processes to create: Child process with PID: 36902 and Parent PID: 36608 is starting
+Child process with PID: 36902 has finished
+Enter the number of child processes to create: Child process with PID: 36903 and Parent PID: 36608 is starting
+Child process with PID: 36903 has finished
+Enter the number of child processes to create: Child process with PID: 36904 and Parent PID: 36608 is starting
+Child process with PID: 36904 has finished
+Enter the number of child processes to create: Child process with PID: 36905 and Parent PID: 36608 is starting
+Child process with PID: 36905 has finished
+Enter the number of child processes to create: Child process with PID: 36906 and Parent PID: 36608 is starting
+Child process with PID: 36906 has finished
+Enter the number of child processes to create: Child process with PID: 36907 and Parent PID: 36608 is starting
+Child process with PID: 36907 has finished
+Enter the number of child processes to create: Child process with PID: 36908 and Parent PID: 36608 is starting
+Child process with PID: 36908 has finished
+Enter the number of child processes to create: Child process with PID: 36909 and Parent PID: 36608 is starting
+Child process with PID: 36909 has finished
+Enter the number of child processes to create: Child process with PID: 36910 and Parent PID: 36608 is starting
+Child process with PID: 36910 has finished
+Enter the number of child processes to create: Child process with PID: 36911 and Parent PID: 36608 is starting
+Child process with PID: 36911 has finished
+Enter the number of child processes to create: Child process with PID: 36912 and Parent PID: 36608 is starting
+Child process with PID: 36912 has finished
+Enter the number of child processes to create: Child process with PID: 36913 and Parent PID: 36608 is starting
+Child process with PID: 36913 has finished
+Enter the number of child processes to create: Child process with PID: 36914 and Parent PID: 36608 is starting
+Child process with PID: 36914 has finished
+Enter the number of child processes to create: Child process with PID: 36915 and Parent PID: 36608 is starting
+Child process with PID: 36915 has finished
+Enter the number of child processes to create: Child process with PID: 36916 and Parent PID: 36608 is starting
+Child process with PID: 36916 has finished
+Enter the number of child processes to create: Child process with PID: 36917 and Parent PID: 36608 is starting
+Child process with PID: 36917 has finished
+Enter the number of child processes to create: Child process with PID: 36918 and Parent PID: 36608 is starting
+Child process with PID: 36918 has finished
+Enter the number of child processes to create: Child process with PID: 36919 and Parent PID: 36608 is starting
+Child process with PID: 36919 has finished
+Enter the number of child processes to create: Child process with PID: 36920 and Parent PID: 36608 is starting
+Child process with PID: 36920 has finished
+Enter the number of child processes to create: Child process with PID: 36921 and Parent PID: 36608 is starting
+Child process with PID: 36921 has finished
+Enter the number of child processes to create: Child process with PID: 36923 and Parent PID: 36608 is starting
+Child process with PID: 36923 has finished
+Enter the number of child processes to create: Child process with PID: 36922 and Parent PID: 36608 is starting
+Child process with PID: 36922 has finished
+Enter the number of child processes to create: Child process with PID: 36924 and Parent PID: 36608 is starting
+Child process with PID: 36924 has finished
+Enter the number of child processes to create: Child process with PID: 36925 and Parent PID: 36608 is starting
+Child process with PID: 36925 has finished
+Enter the number of child processes to create: Child process with PID: 36926 and Parent PID: 36608 is starting
+Child process with PID: 36926 has finished
+Enter the number of child processes to create: Child process with PID: 36927 and Parent PID: 36608 is starting
+Child process with PID: 36927 has finished
+Enter the number of child processes to create: Child process with PID: 36928 and Parent PID: 36608 is starting
+Child process with PID: 36928 has finished
+Enter the number of child processes to create: Child process with PID: 36929 and Parent PID: 36608 is starting
+Child process with PID: 36929 has finished
+Enter the number of child processes to create: Child process with PID: 36930 and Parent PID: 36608 is starting
+Child process with PID: 36930 has finished
+Enter the number of child processes to create: Child process with PID: 36931 and Parent PID: 36608 is starting
+Child process with PID: 36931 has finished
+Enter the number of child processes to create: Child process with PID: 36932 and Parent PID: 36608 is starting
+Child process with PID: 36932 has finished
+Enter the number of child processes to create: Child process with PID: 36933 and Parent PID: 36608 is starting
+Child process with PID: 36933 has finished
+Enter the number of child processes to create: Child process with PID: 36934 and Parent PID: 36608 is starting
+Child process with PID: 36934 has finished
+Enter the number of child processes to create: Child process with PID: 36935 and Parent PID: 36608 is starting
+Child process with PID: 36935 has finished
+Enter the number of child processes to create: Child process with PID: 36936 and Parent PID: 36608 is starting
+Child process with PID: 36936 has finished
+Enter the number of child processes to create: Child process with PID: 36938 and Parent PID: 36608 is starting
+Child process with PID: 36938 has finished
+Enter the number of child processes to create: Child process with PID: 36937 and Parent PID: 36608 is starting
+Child process with PID: 36937 has finished
+Enter the number of child processes to create: Child process with PID: 36939 and Parent PID: 36608 is starting
+Child process with PID: 36939 has finished
+Enter the number of child processes to create: Child process with PID: 36940 and Parent PID: 36608 is starting
+Child process with PID: 36940 has finished
+Enter the number of child processes to create: Child process with PID: 36941 and Parent PID: 36608 is starting
+Child process with PID: 36941 has finished
+Enter the number of child processes to create: Child process with PID: 36942 and Parent PID: 36608 is starting
+Child process with PID: 36942 has finished
+Enter the number of child processes to create: Child process with PID: 36943 and Parent PID: 36608 is starting
+Child process with PID: 36943 has finished
+Enter the number of child processes to create: Child process with PID: 36944 and Parent PID: 36608 is starting
+Child process with PID: 36944 has finished
+Enter the number of child processes to create: Child process with PID: 36945 and Parent PID: 36608 is starting
+Child process with PID: 36945 has finished
+Enter the number of child processes to create: Child process with PID: 36946 and Parent PID: 36608 is starting
+Child process with PID: 36946 has finished
+Enter the number of child processes to create: Child process with PID: 36948 and Parent PID: 36608 is starting
+Child process with PID: 36948 has finished
+Enter the number of child processes to create: Child process with PID: 36947 and Parent PID: 36608 is starting
+Child process with PID: 36947 has finished
+Enter the number of child processes to create: Child process with PID: 36950 and Parent PID: 36608 is starting
+Child process with PID: 36950 has finished
+Enter the number of child processes to create: Child process with PID: 36949 and Parent PID: 36608 is starting
+Child process with PID: 36949 has finished
+Enter the number of child processes to create: Child process with PID: 36951 and Parent PID: 36608 is starting
+Child process with PID: 36951 has finished
+Enter the number of child processes to create: Child process with PID: 36953 and Parent PID: 36608 is starting
+Child process with PID: 36953 has finished
+Enter the number of child processes to create: Child process with PID: 36952 and Parent PID: 36608 is starting
+Child process with PID: 36952 has finished
+Enter the number of child processes to create: Child process with PID: 36955 and Parent PID: 36608 is starting
+Child process with PID: 36955 has finished
+Enter the number of child processes to create: Child process with PID: 36957 and Parent PID: 36608 is starting
+Child process with PID: 36957 has finished
+Enter the number of child processes to create: Child process with PID: 36954 and Parent PID: 36608 is starting
+Child process with PID: 36954 has finished
+Enter the number of child processes to create: Child process with PID: 36956 and Parent PID: 36608 is starting
+Child process with PID: 36956 has finished
+Enter the number of child processes to create: Child process with PID: 36958 and Parent PID: 36608 is starting
+Child process with PID: 36958 has finished
+Enter the number of child processes to create: Child process with PID: 36960 and Parent PID: 36608 is starting
+Child process with PID: 36960 has finished
+Enter the number of child processes to create: Child process with PID: 36963 and Parent PID: 36608 is starting
+Child process with PID: 36963 has finished
+Enter the number of child processes to create: Child process with PID: 36964 and Parent PID: 36608 is starting
+Child process with PID: 36964 has finished
+Enter the number of child processes to create: Child process with PID: 36959 and Parent PID: 36608 is starting
+Child process with PID: 36959 has finished
+Enter the number of child processes to create: Child process with PID: 36966 and Parent PID: 36608 is starting
+Child process with PID: 36966 has finished
+Enter the number of child processes to create: Child process with PID: 36961 and Parent PID: 36608 is starting
+Child process with PID: 36961 has finished
+Enter the number of child processes to create: Child process with PID: 36965 and Parent PID: 36608 is starting
+Child process with PID: 36965 has finished
+Enter the number of child processes to create: Child process with PID: 36962 and Parent PID: 36608 is starting
+Child process with PID: 36962 has finished
+Enter the number of child processes to create: Child process with PID: 36967 and Parent PID: 36608 is starting
+Child process with PID: 36967 has finished
+Enter the number of child processes to create: Child process with PID: 36969 and Parent PID: 36608 is starting
+Child process with PID: 36969 has finished
+Enter the number of child processes to create: Child process with PID: 36973 and Parent PID: 36608 is starting
+Child process with PID: 36973 has finished
+Enter the number of child processes to create: Child process with PID: 36968 and Parent PID: 36608 is starting
+Child process with PID: 36968 has finished
+Enter the number of child processes to create: Child process with PID: 36971 and Parent PID: 36608 is starting
+Child process with PID: 36971 has finished
+Enter the number of child processes to create: Child process with PID: 36970 and Parent PID: 36608 is starting
+Child process with PID: 36970 has finished
+Enter the number of child processes to create: Child process with PID: 36980 and Parent PID: 36608 is starting
+Child process with PID: 36980 has finished
+Enter the number of child processes to create: Child process with PID: 36981 and Parent PID: 36608 is starting
+Child process with PID: 36981 has finished
+Enter the number of child processes to create: Child process with PID: 36979 and Parent PID: 36608 is starting
+Child process with PID: 36979 has finished
+Enter the number of child processes to create: Child process with PID: 36983 and Parent PID: 36608 is starting
+Child process with PID: 36983 has finished
+Enter the number of child processes to create: Child process with PID: 36972 and Parent PID: 36608 is starting
+Child process with PID: 36972 has finished
+Enter the number of child processes to create: Child process with PID: 36974 and Parent PID: 36608 is starting
+Child process with PID: 36974 has finished
+Enter the number of child processes to create: Child process with PID: 36988 and Parent PID: 36608 is starting
+Child process with PID: 36988 has finished
+Enter the number of child processes to create: Child process with PID: 36987 and Parent PID: 36608 is starting
+Child process with PID: 36987 has finished
+Enter the number of child processes to create: Child process with PID: 36989 and Parent PID: 36608 is starting
+Child process with PID: 36989 has finished
+Enter the number of child processes to create: Child process with PID: 36991 and Parent PID: 36608 is starting
+Child process with PID: 36991 has finished
+Enter the number of child processes to create: Child process with PID: 36975 and Parent PID: 36608 is starting
+Child process with PID: 36975 has finished
+Enter the number of child processes to create: Child process with PID: 36992 and Parent PID: 36608 is starting
+Child process with PID: 36992 has finished
+Enter the number of child processes to create: Child process with PID: 36995 and Parent PID: 36608 is starting
+Child process with PID: 36995 has finished
+Enter the number of child processes to create: Child process with PID: 37000 and Parent PID: 36608 is starting
+Child process with PID: 37000 has finished
+Enter the number of child processes to create: Child process with PID: 36999 and Parent PID: 36608 is starting
+Child process with PID: 36999 has finished
+Enter the number of child processes to create: Child process with PID: 36997 and Parent PID: 36608 is starting
+Child process with PID: 36997 has finished
+Enter the number of child processes to create: Child process with PID: 37001 and Parent PID: 36608 is starting
+Child process with PID: 37001 has finished
+Enter the number of child processes to create: Child process with PID: 37002 and Parent PID: 36608 is starting
+Child process with PID: 37002 has finished
+Enter the number of child processes to create: Child process with PID: 36978 and Parent PID: 36608 is starting
+Child process with PID: 36978 has finished
+Enter the number of child processes to create: Child process with PID: 37003 and Parent PID: 36608 is starting
+Child process with PID: 37003 has finished
+Enter the number of child processes to create: Child process with PID: 37005 and Parent PID: 36608 is starting
+Child process with PID: 37005 has finished
+Enter the number of child processes to create: Child process with PID: 36985 and Parent PID: 36608 is starting
+Child process with PID: 36985 has finished
+Enter the number of child processes to create: Child process with PID: 37007 and Parent PID: 36608 is starting
+Child process with PID: 37007 has finished
+Enter the number of child processes to create: Child process with PID: 37008 and Parent PID: 36608 is starting
+Child process with PID: 37008 has finished
+Enter the number of child processes to create: Child process with PID: 36977 and Parent PID: 36608 is starting
+Child process with PID: 36977 has finished
+Enter the number of child processes to create: Child process with PID: 36976 and Parent PID: 36608 is starting
+Child process with PID: 36976 has finished
+Enter the number of child processes to create: Child process with PID: 37009 and Parent PID: 36608 is starting
+Child process with PID: 37009 has finished
+Enter the number of child processes to create: Child process with PID: 36986 and Parent PID: 36608 is starting
+Child process with PID: 36986 has finished
+Enter the number of child processes to create: Child process with PID: 37010 and Parent PID: 36608 is starting
+Child process with PID: 37010 has finished
+Enter the number of child processes to create: Child process with PID: 36996 and Parent PID: 36608 is starting
+Child process with PID: 36996 has finished
+Enter the number of child processes to create: Child process with PID: 37011 and Parent PID: 36608 is starting
+Child process with PID: 37011 has finished
+Enter the number of child processes to create: Child process with PID: 36982 and Parent PID: 36608 is starting
+Child process with PID: 36982 has finished
+Enter the number of child processes to create: Child process with PID: 36993 and Parent PID: 36608 is starting
+Child process with PID: 36993 has finished
+Enter the number of child processes to create: Child process with PID: 36990 and Parent PID: 36608 is starting
+Child process with PID: 36990 has finished
+Enter the number of child processes to create: Child process with PID: 37015 and Parent PID: 36608 is starting
+Child process with PID: 37015 has finished
+Enter the number of child processes to create: Child process with PID: 37017 and Parent PID: 36608 is starting
+Child process with PID: 37017 has finished
+Enter the number of child processes to create: Child process with PID: 37018 and Parent PID: 36608 is starting
+Child process with PID: 37018 has finished
+Enter the number of child processes to create: Child process with PID: 36998 and Parent PID: 36608 is starting
+Child process with PID: 36998 has finished
+Enter the number of child processes to create: Child process with PID: 37020 and Parent PID: 36608 is starting
+Child process with PID: 37020 has finished
+Enter the number of child processes to create: Child process with PID: 37021 and Parent PID: 36608 is starting
+Child process with PID: 37021 has finished
+Enter the number of child processes to create: Child process with PID: 37022 and Parent PID: 36608 is starting
+Child process with PID: 37022 has finished
+Enter the number of child processes to create: Child process with PID: 37024 and Parent PID: 36608 is starting
+Child process with PID: 37024 has finished
+Enter the number of child processes to create: Child process with PID: 37025 and Parent PID: 36608 is starting
+Child process with PID: 37025 has finished
+Enter the number of child processes to create: Child process with PID: 37026 and Parent PID: 36608 is starting
+Child process with PID: 37026 has finished
+Enter the number of child processes to create: Child process with PID: 36984 and Parent PID: 36608 is starting
+Child process with PID: 36984 has finished
+Enter the number of child processes to create: Child process with PID: 37027 and Parent PID: 36608 is starting
+Child process with PID: 37027 has finished
+Enter the number of child processes to create: Child process with PID: 37006 and Parent PID: 36608 is starting
+Child process with PID: 37006 has finished
+Enter the number of child processes to create: Child process with PID: 36994 and Parent PID: 36608 is starting
+Child process with PID: 36994 has finished
+Enter the number of child processes to create: Child process with PID: 37016 and Parent PID: 36608 is starting
+Child process with PID: 37016 has finished
+Enter the number of child processes to create: Child process with PID: 37023 and Parent PID: 36608 is starting
+Child process with PID: 37023 has finished
+Enter the number of child processes to create: Child process with PID: 37030 and Parent PID: 36608 is starting
+Child process with PID: 37030 has finished
+Enter the number of child processes to create: Child process with PID: 37004 and Parent PID: 36608 is starting
+Child process with PID: 37004 has finished
+Enter the number of child processes to create: Child process with PID: 37033 and Parent PID: 36608 is starting
+Child process with PID: 37033 has finished
+Enter the number of child processes to create: Child process with PID: 37032 and Parent PID: 36608 is starting
+Child process with PID: 37032 has finished
+Enter the number of child processes to create: Child process with PID: 37019 and Parent PID: 36608 is starting
+Child process with PID: 37019 has finished
+Enter the number of child processes to create: Child process with PID: 37034 and Parent PID: 36608 is starting
+Child process with PID: 37034 has finished
+Enter the number of child processes to create: Child process with PID: 37014 and Parent PID: 36608 is starting
+Child process with PID: 37014 has finished
+Enter the number of child processes to create: Child process with PID: 37012 and Parent PID: 36608 is starting
+Child process with PID: 37012 has finished
+Enter the number of child processes to create: Child process with PID: 37029 and Parent PID: 36608 is starting
+Child process with PID: 37029 has finished
+Enter the number of child processes to create: Child process with PID: 37013 and Parent PID: 36608 is starting
+Child process with PID: 37013 has finished
+Enter the number of child processes to create: Child process with PID: 37035 and Parent PID: 36608 is starting
+Child process with PID: 37035 has finished
+Enter the number of child processes to create: Child process with PID: 37028 and Parent PID: 36608 is starting
+Child process with PID: 37028 has finished
+Enter the number of child processes to create: Child process with PID: 37031 and Parent PID: 36608 is starting
+Child process with PID: 37031 has finished
+Enter the number of child processes to create: Child process with PID: 37038 and Parent PID: 36608 is starting
+Child process with PID: 37038 has finished
+Enter the number of child processes to create: Child process with PID: 37040 and Parent PID: 36608 is starting
+Child process with PID: 37040 has finished
+Enter the number of child processes to create: Child process with PID: 37042 and Parent PID: 36608 is starting
+Child process with PID: 37042 has finished
+Enter the number of child processes to create: Child process with PID: 37044 and Parent PID: 36608 is starting
+Child process with PID: 37044 has finished
+Enter the number of child processes to create: Child process with PID: 37046 and Parent PID: 36608 is starting
+Child process with PID: 37046 has finished
+Enter the number of child processes to create: Child process with PID: 37048 and Parent PID: 36608 is starting
+Child process with PID: 37048 has finished
+Enter the number of child processes to create: Child process with PID: 37036 and Parent PID: 36608 is starting
+Child process with PID: 37036 has finished
+Enter the number of child processes to create: Child process with PID: 37047 and Parent PID: 36608 is starting
+Child process with PID: 37047 has finished
+Enter the number of child processes to create: Child process with PID: 37051 and Parent PID: 36608 is starting
+Child process with PID: 37051 has finished
+Enter the number of child processes to create: Child process with PID: 37039 and Parent PID: 36608 is starting
+Child process with PID: 37039 has finished
+Enter the number of child processes to create: Child process with PID: 37052 and Parent PID: 36608 is starting
+Child process with PID: 37052 has finished
+Enter the number of child processes to create: Child process with PID: 37053 and Parent PID: 36608 is starting
+Child process with PID: 37053 has finished
+Enter the number of child processes to create: Child process with PID: 37037 and Parent PID: 36608 is starting
+Child process with PID: 37037 has finished
+Enter the number of child processes to create: Child process with PID: 37043 and Parent PID: 36608 is starting
+Child process with PID: 37043 has finished
+Enter the number of child processes to create: Child process with PID: 37041 and Parent PID: 36608 is starting
+Child process with PID: 37041 has finished
+Enter the number of child processes to create: Child process with PID: 37055 and Parent PID: 36608 is starting
+Child process with PID: 37055 has finished
+Enter the number of child processes to create: Child process with PID: 37057 and Parent PID: 36608 is starting
+Child process with PID: 37057 has finished
+Enter the number of child processes to create: Child process with PID: 37059 and Parent PID: 36608 is starting
+Child process with PID: 37059 has finished
+Enter the number of child processes to create: Child process with PID: 37060 and Parent PID: 36608 is starting
+Child process with PID: 37060 has finished
+Enter the number of child processes to create: Child process with PID: 37045 and Parent PID: 36608 is starting
+Child process with PID: 37045 has finished
+Enter the number of child processes to create: Child process with PID: 37061 and Parent PID: 36608 is starting
+Child process with PID: 37061 has finished
+Enter the number of child processes to create: Child process with PID: 37062 and Parent PID: 36608 is starting
+Child process with PID: 37062 has finished
+Enter the number of child processes to create: Child process with PID: 37050 and Parent PID: 36608 is starting
+Child process with PID: 37050 has finished
+Enter the number of child processes to create: Child process with PID: 37049 and Parent PID: 36608 is starting
+Child process with PID: 37049 has finished
+Enter the number of child processes to create: Child process with PID: 37063 and Parent PID: 36608 is starting
+Child process with PID: 37063 has finished
+Enter the number of child processes to create: Child process with PID: 37054 and Parent PID: 36608 is starting
+Child process with PID: 37054 has finished
+Enter the number of child processes to create: Child process with PID: 37056 and Parent PID: 36608 is starting
+Child process with PID: 37056 has finished
+Enter the number of child processes to create: Child process with PID: 37065 and Parent PID: 36608 is starting
+Child process with PID: 37065 has finished
+Enter the number of child processes to create: Child process with PID: 37068 and Parent PID: 36608 is starting
+Child process with PID: 37068 has finished
+Enter the number of child processes to create: Child process with PID: 37069 and Parent PID: 36608 is starting
+Child process with PID: 37069 has finished
+Enter the number of child processes to create: Child process with PID: 37058 and Parent PID: 36608 is starting
+Child process with PID: 37058 has finished
+Enter the number of child processes to create: Child process with PID: 37072 and Parent PID: 36608 is starting
+Child process with PID: 37072 has finished
+Enter the number of child processes to create: Child process with PID: 37074 and Parent PID: 36608 is starting
+Child process with PID: 37074 has finished
+Enter the number of child processes to create: Child process with PID: 37075 and Parent PID: 36608 is starting
+Child process with PID: 37075 has finished
+Enter the number of child processes to create: Child process with PID: 37067 and Parent PID: 36608 is starting
+Child process with PID: 37067 has finished
+Enter the number of child processes to create: Child process with PID: 37076 and Parent PID: 36608 is starting
+Child process with PID: 37076 has finished
+Enter the number of child processes to create: Child process with PID: 37064 and Parent PID: 36608 is starting
+Child process with PID: 37064 has finished
+Enter the number of child processes to create: Child process with PID: 37077 and Parent PID: 36608 is starting
+Child process with PID: 37077 has finished
+Enter the number of child processes to create: Child process with PID: 37078 and Parent PID: 36608 is starting
+Child process with PID: 37078 has finished
+Enter the number of child processes to create: Child process with PID: 37066 and Parent PID: 36608 is starting
+Child process with PID: 37066 has finished
+Enter the number of child processes to create: Child process with PID: 37073 and Parent PID: 36608 is starting
+Child process with PID: 37073 has finished
+Enter the number of child processes to create: Child process with PID: 37083 and Parent PID: 36608 is starting
+Child process with PID: 37083 has finished
+Enter the number of child processes to create: Child process with PID: 37080 and Parent PID: 36608 is starting
+Child process with PID: 37080 has finished
+Enter the number of child processes to create: Child process with PID: 37071 and Parent PID: 36608 is starting
+Child process with PID: 37071 has finished
+Enter the number of child processes to create: Child process with PID: 37085 and Parent PID: 36608 is starting
+Child process with PID: 37085 has finished
+Enter the number of child processes to create: Child process with PID: 37070 and Parent PID: 36608 is starting
+Child process with PID: 37070 has finished
+Enter the number of child processes to create: Child process with PID: 37087 and Parent PID: 36608 is starting
+Child process with PID: 37087 has finished
+Enter the number of child processes to create: Child process with PID: 37079 and Parent PID: 36608 is starting
+Child process with PID: 37079 has finished
+Enter the number of child processes to create: Child process with PID: 37090 and Parent PID: 36608 is starting
+Child process with PID: 37090 has finished
+Enter the number of child processes to create: Child process with PID: 37088 and Parent PID: 36608 is starting
+Child process with PID: 37088 has finished
+Enter the number of child processes to create: Child process with PID: 37084 and Parent PID: 36608 is starting
+Child process with PID: 37084 has finished
+Enter the number of child processes to create: Child process with PID: 37092 and Parent PID: 36608 is starting
+Child process with PID: 37092 has finished
+Enter the number of child processes to create: Child process with PID: 37082 and Parent PID: 36608 is starting
+Child process with PID: 37082 has finished
+Enter the number of child processes to create: Child process with PID: 37089 and Parent PID: 36608 is starting
+Child process with PID: 37089 has finished
+Enter the number of child processes to create: Child process with PID: 37081 and Parent PID: 36608 is starting
+Child process with PID: 37081 has finished
+Enter the number of child processes to create: Child process with PID: 37093 and Parent PID: 36608 is starting
+Child process with PID: 37093 has finished
+Enter the number of child processes to create: Child process with PID: 37086 and Parent PID: 36608 is starting
+Child process with PID: 37086 has finished
+Enter the number of child processes to create: Child process with PID: 37091 and Parent PID: 36608 is starting
+Child process with PID: 37091 has finished
+Enter the number of child processes to create: Child process with PID: 37094 and Parent PID: 36608 is starting
+Child process with PID: 37094 has finished
+Enter the number of child processes to create: Child process with PID: 37095 and Parent PID: 36608 is starting
+Child process with PID: 37095 has finished
+Enter the number of child processes to create: Child process with PID: 37099 and Parent PID: 36608 is starting
+Child process with PID: 37099 has finished
+Enter the number of child processes to create: Child process with PID: 37102 and Parent PID: 36608 is starting
+Child process with PID: 37102 has finished
+Enter the number of child processes to create: Child process with PID: 37096 and Parent PID: 36608 is starting
+Child process with PID: 37096 has finished
+Enter the number of child processes to create: Child process with PID: 37097 and Parent PID: 36608 is starting
+Child process with PID: 37097 has finished
+Enter the number of child processes to create: Child process with PID: 37098 and Parent PID: 36608 is starting
+Child process with PID: 37098 has finished
+Enter the number of child processes to create: Child process with PID: 37100 and Parent PID: 36608 is starting
+Child process with PID: 37100 has finished
+Enter the number of child processes to create: Child process with PID: 37101 and Parent PID: 36608 is starting
+Child process with PID: 37101 has finished
+Enter the number of child processes to create: Child process with PID: 37104 and Parent PID: 36608 is starting
+Child process with PID: 37104 has finished
+Enter the number of child processes to create: Child process with PID: 37103 and Parent PID: 36608 is starting
+Child process with PID: 37103 has finished
+Enter the number of child processes to create: Child process with PID: 37105 and Parent PID: 36608 is starting
+Child process with PID: 37105 has finished
+Enter the number of child processes to create: Child process with PID: 37106 and Parent PID: 36608 is starting
+Child process with PID: 37106 has finished
+Enter the number of child processes to create: Child process with PID: 37107 and Parent PID: 36608 is starting
+Child process with PID: 37107 has finished
+Enter the number of child processes to create: Child process with PID: 37108 and Parent PID: 36608 is starting
+Child process with PID: 37108 has finished
+Enter the number of child processes to create: Child process with PID: 37109 and Parent PID: 36608 is starting
+Child process with PID: 37109 has finished
+Enter the number of child processes to create: Child process with PID: 37110 and Parent PID: 36608 is starting
+Child process with PID: 37110 has finished
+Enter the number of child processes to create: Child process with PID: 37112 and Parent PID: 36608 is starting
+Child process with PID: 37112 has finished
+Enter the number of child processes to create: Child process with PID: 37111 and Parent PID: 36608 is starting
+Child process with PID: 37111 has finished
+Enter the number of child processes to create: Child process with PID: 37114 and Parent PID: 36608 is starting
+Child process with PID: 37114 has finished
+Enter the number of child processes to create: Child process with PID: 37113 and Parent PID: 36608 is starting
+Child process with PID: 37113 has finished
+Enter the number of child processes to create: Child process with PID: 37115 and Parent PID: 36608 is starting
+Child process with PID: 37115 has finished
+Enter the number of child processes to create: Child process with PID: 37116 and Parent PID: 36608 is starting
+Child process with PID: 37116 has finished
+Enter the number of child processes to create: Child process with PID: 37118 and Parent PID: 36608 is starting
+Child process with PID: 37118 has finished
+Enter the number of child processes to create: Child process with PID: 37117 and Parent PID: 36608 is starting
+Child process with PID: 37117 has finished
+Enter the number of child processes to create: Child process with PID: 37119 and Parent PID: 36608 is starting
+Child process with PID: 37119 has finished
+Enter the number of child processes to create: Child process with PID: 37120 and Parent PID: 36608 is starting
+Child process with PID: 37120 has finished
+Enter the number of child processes to create: Child process with PID: 37121 and Parent PID: 36608 is starting
+Child process with PID: 37121 has finished
+Enter the number of child processes to create: Child process with PID: 37122 and Parent PID: 36608 is starting
+Child process with PID: 37122 has finished
+Enter the number of child processes to create: Child process with PID: 37123 and Parent PID: 36608 is starting
+Child process with PID: 37123 has finished
+Enter the number of child processes to create: Child process with PID: 37124 and Parent PID: 36608 is starting
+Child process with PID: 37124 has finished
+Enter the number of child processes to create: Child process with PID: 37126 and Parent PID: 36608 is starting
+Child process with PID: 37126 has finished
+Enter the number of child processes to create: Child process with PID: 37127 and Parent PID: 36608 is starting
+Child process with PID: 37127 has finished
+Enter the number of child processes to create: Child process with PID: 37125 and Parent PID: 36608 is starting
+Child process with PID: 37125 has finished
+Enter the number of child processes to create: Child process with PID: 37128 and Parent PID: 36608 is starting
+Child process with PID: 37128 has finished
+Enter the number of child processes to create: Child process with PID: 37129 and Parent PID: 36608 is starting
+Child process with PID: 37129 has finished
+Enter the number of child processes to create: Child process with PID: 37130 and Parent PID: 36608 is starting
+Child process with PID: 37130 has finished
+Enter the number of child processes to create: Child process with PID: 37133 and Parent PID: 36608 is starting
+Child process with PID: 37133 has finished
+Enter the number of child processes to create: Child process with PID: 37131 and Parent PID: 36608 is starting
+Child process with PID: 37131 has finished
+Enter the number of child processes to create: Child process with PID: 37132 and Parent PID: 36608 is starting
+Child process with PID: 37132 has finished
+Enter the number of child processes to create: Child process with PID: 37137 and Parent PID: 36608 is starting
+Child process with PID: 37137 has finished
+Enter the number of child processes to create: Child process with PID: 37134 and Parent PID: 36608 is starting
+Child process with PID: 37134 has finished
+Enter the number of child processes to create: Child process with PID: 37136 and Parent PID: 36608 is starting
+Child process with PID: 37136 has finished
+Enter the number of child processes to create: Child process with PID: 37135 and Parent PID: 36608 is starting
+Child process with PID: 37135 has finished
+Enter the number of child processes to create: Child process with PID: 37138 and Parent PID: 36608 is starting
+Child process with PID: 37138 has finished
+Enter the number of child processes to create: Child process with PID: 37140 and Parent PID: 36608 is starting
+Child process with PID: 37140 has finished
+Enter the number of child processes to create: Child process with PID: 37139 and Parent PID: 36608 is starting
+Child process with PID: 37139 has finished
+Enter the number of child processes to create: Child process with PID: 37141 and Parent PID: 36608 is starting
+Child process with PID: 37141 has finished
+Enter the number of child processes to create: Child process with PID: 37142 and Parent PID: 36608 is starting
+Child process with PID: 37142 has finished
+Enter the number of child processes to create: Child process with PID: 37143 and Parent PID: 36608 is starting
+Child process with PID: 37143 has finished
+Enter the number of child processes to create: Child process with PID: 37146 and Parent PID: 36608 is starting
+Child process with PID: 37146 has finished
+Enter the number of child processes to create: Child process with PID: 37145 and Parent PID: 36608 is starting
+Child process with PID: 37145 has finished
+Enter the number of child processes to create: Child process with PID: 37144 and Parent PID: 36608 is starting
+Child process with PID: 37144 has finished
+Enter the number of child processes to create: Child process with PID: 37147 and Parent PID: 36608 is starting
+Child process with PID: 37147 has finished
+Enter the number of child processes to create: Child process with PID: 37150 and Parent PID: 36608 is starting
+Child process with PID: 37150 has finished
+Enter the number of child processes to create: Child process with PID: 37148 and Parent PID: 36608 is starting
+Child process with PID: 37148 has finished
+Enter the number of child processes to create: Child process with PID: 37149 and Parent PID: 36608 is starting
+Child process with PID: 37149 has finished
+Enter the number of child processes to create: Child process with PID: 37151 and Parent PID: 36608 is starting
+Child process with PID: 37151 has finished
+Enter the number of child processes to create: Child process with PID: 37152 and Parent PID: 36608 is starting
+Child process with PID: 37152 has finished
+Enter the number of child processes to create: Child process with PID: 37153 and Parent PID: 36608 is starting
+Child process with PID: 37153 has finished
+Enter the number of child processes to create: Child process with PID: 37154 and Parent PID: 36608 is starting
+Child process with PID: 37154 has finished
+Enter the number of child processes to create: Child process with PID: 37155 and Parent PID: 36608 is starting
+Child process with PID: 37155 has finished
+Enter the number of child processes to create: Child process with PID: 37156 and Parent PID: 36608 is starting
+Child process with PID: 37156 has finished
+Enter the number of child processes to create: Child process with PID: 37157 and Parent PID: 36608 is starting
+Child process with PID: 37157 has finished
+Enter the number of child processes to create: Child process with PID: 37158 and Parent PID: 36608 is starting
+Child process with PID: 37158 has finished
+Enter the number of child processes to create: Child process with PID: 37159 and Parent PID: 36608 is starting
+Child process with PID: 37159 has finished
+Enter the number of child processes to create: Child process with PID: 37160 and Parent PID: 36608 is starting
+Child process with PID: 37160 has finished
+Enter the number of child processes to create: Child process with PID: 37162 and Parent PID: 36608 is starting
+Child process with PID: 37162 has finished
+Enter the number of child processes to create: Child process with PID: 37161 and Parent PID: 36608 is starting
+Child process with PID: 37161 has finished
+Enter the number of child processes to create: Child process with PID: 37163 and Parent PID: 36608 is starting
+Child process with PID: 37163 has finished
+Enter the number of child processes to create: Child process with PID: 37164 and Parent PID: 36608 is starting
+Child process with PID: 37164 has finished
+Enter the number of child processes to create: Child process with PID: 37166 and Parent PID: 36608 is starting
+Child process with PID: 37166 has finished
+Enter the number of child processes to create: Child process with PID: 37165 and Parent PID: 36608 is starting
+Child process with PID: 37165 has finished
+Enter the number of child processes to create: Child process with PID: 37167 and Parent PID: 36608 is starting
+Child process with PID: 37167 has finished
+Enter the number of child processes to create: Child process with PID: 37168 and Parent PID: 36608 is starting
+Child process with PID: 37168 has finished
+Enter the number of child processes to create: Child process with PID: 37169 and Parent PID: 36608 is starting
+Child process with PID: 37169 has finished
+Enter the number of child processes to create: Child process with PID: 37170 and Parent PID: 36608 is starting
+Child process with PID: 37170 has finished
+Enter the number of child processes to create: Child process with PID: 37171 and Parent PID: 36608 is starting
+Child process with PID: 37171 has finished
+Enter the number of child processes to create: Child process with PID: 37173 and Parent PID: 36608 is starting
+Child process with PID: 37173 has finished
+Enter the number of child processes to create: Child process with PID: 37172 and Parent PID: 36608 is starting
+Child process with PID: 37172 has finished
+Enter the number of child processes to create: Child process with PID: 37174 and Parent PID: 36608 is starting
+Child process with PID: 37174 has finished
+Enter the number of child processes to create: Child process with PID: 37175 and Parent PID: 36608 is starting
+Child process with PID: 37175 has finished
+Enter the number of child processes to create: Child process with PID: 37176 and Parent PID: 36608 is starting
+Child process with PID: 37176 has finished
+Enter the number of child processes to create: Child process with PID: 37178 and Parent PID: 36608 is starting
+Child process with PID: 37178 has finished
+Enter the number of child processes to create: Child process with PID: 37179 and Parent PID: 36608 is starting
+Child process with PID: 37179 has finished
+Enter the number of child processes to create: Child process with PID: 37177 and Parent PID: 36608 is starting
+Child process with PID: 37177 has finished
+Enter the number of child processes to create: Child process with PID: 37180 and Parent PID: 36608 is starting
+Child process with PID: 37180 has finished
+Enter the number of child processes to create: Child process with PID: 37181 and Parent PID: 36608 is starting
+Child process with PID: 37181 has finished
+Enter the number of child processes to create: Child process with PID: 37182 and Parent PID: 36608 is starting
+Child process with PID: 37182 has finished
+Enter the number of child processes to create: Child process with PID: 37183 and Parent PID: 36608 is starting
+Child process with PID: 37183 has finished
+Enter the number of child processes to create: Child process with PID: 37184 and Parent PID: 36608 is starting
+Child process with PID: 37184 has finished
+Enter the number of child processes to create: Child process with PID: 37185 and Parent PID: 36608 is starting
+Child process with PID: 37185 has finished
+Enter the number of child processes to create: Child process with PID: 37186 and Parent PID: 36608 is starting
+Child process with PID: 37186 has finished
+Enter the number of child processes to create: Child process with PID: 37187 and Parent PID: 36608 is starting
+Child process with PID: 37187 has finished
+Enter the number of child processes to create: Child process with PID: 37188 and Parent PID: 36608 is starting
+Child process with PID: 37188 has finished
+Enter the number of child processes to create: Child process with PID: 37190 and Parent PID: 36608 is starting
+Child process with PID: 37190 has finished
+Enter the number of child processes to create: Child process with PID: 37189 and Parent PID: 36608 is starting
+Child process with PID: 37189 has finished
+Enter the number of child processes to create: Child process with PID: 37191 and Parent PID: 36608 is starting
+Child process with PID: 37191 has finished
+Enter the number of child processes to create: Child process with PID: 37193 and Parent PID: 36608 is starting
+Child process with PID: 37193 has finished
+Enter the number of child processes to create: Child process with PID: 37192 and Parent PID: 36608 is starting
+Child process with PID: 37192 has finished
+Enter the number of child processes to create: Child process with PID: 37195 and Parent PID: 36608 is starting
+Child process with PID: 37195 has finished
+Enter the number of child processes to create: Child process with PID: 37194 and Parent PID: 36608 is starting
+Child process with PID: 37194 has finished
+Enter the number of child processes to create: Child process with PID: 37196 and Parent PID: 36608 is starting
+Child process with PID: 37196 has finished
+Enter the number of child processes to create: Child process with PID: 37198 and Parent PID: 36608 is starting
+Child process with PID: 37198 has finished
+Enter the number of child processes to create: Child process with PID: 37197 and Parent PID: 36608 is starting
+Child process with PID: 37197 has finished
+Enter the number of child processes to create: Child process with PID: 37199 and Parent PID: 36608 is starting
+Child process with PID: 37199 has finished
+Enter the number of child processes to create: Child process with PID: 37200 and Parent PID: 36608 is starting
+Child process with PID: 37200 has finished
+Enter the number of child processes to create: Child process with PID: 37202 and Parent PID: 36608 is starting
+Child process with PID: 37202 has finished
+Enter the number of child processes to create: Child process with PID: 37201 and Parent PID: 36608 is starting
+Child process with PID: 37201 has finished
+Enter the number of child processes to create: Child process with PID: 37203 and Parent PID: 36608 is starting
+Child process with PID: 37203 has finished
+Enter the number of child processes to create: Child process with PID: 37204 and Parent PID: 36608 is starting
+Child process with PID: 37204 has finished
+Enter the number of child processes to create: Child process with PID: 37205 and Parent PID: 36608 is starting
+Child process with PID: 37205 has finished
+Enter the number of child processes to create: Child process with PID: 37206 and Parent PID: 36608 is starting
+Child process with PID: 37206 has finished
+Enter the number of child processes to create: Child process with PID: 37207 and Parent PID: 36608 is starting
+Child process with PID: 37207 has finished
+Enter the number of child processes to create: Child process with PID: 37209 and Parent PID: 36608 is starting
+Child process with PID: 37209 has finished
+Enter the number of child processes to create: Child process with PID: 37211 and Parent PID: 36608 is starting
+Child process with PID: 37211 has finished
+Enter the number of child processes to create: Child process with PID: 37210 and Parent PID: 36608 is starting
+Child process with PID: 37210 has finished
+Enter the number of child processes to create: Child process with PID: 37208 and Parent PID: 36608 is starting
+Child process with PID: 37208 has finished
+Enter the number of child processes to create: Child process with PID: 37212 and Parent PID: 36608 is starting
+Child process with PID: 37212 has finished
+Enter the number of child processes to create: Child process with PID: 37213 and Parent PID: 36608 is starting
+Child process with PID: 37213 has finished
+Enter the number of child processes to create: Child process with PID: 37215 and Parent PID: 36608 is starting
+Child process with PID: 37215 has finished
+Enter the number of child processes to create: Child process with PID: 37214 and Parent PID: 36608 is starting
+Child process with PID: 37214 has finished
+Enter the number of child processes to create: Child process with PID: 37216 and Parent PID: 36608 is starting
+Child process with PID: 37216 has finished
+Enter the number of child processes to create: Child process with PID: 37217 and Parent PID: 36608 is starting
+Child process with PID: 37217 has finished
+Enter the number of child processes to create: Child process with PID: 37218 and Parent PID: 36608 is starting
+Child process with PID: 37218 has finished
+Enter the number of child processes to create: Child process with PID: 37219 and Parent PID: 36608 is starting
+Child process with PID: 37219 has finished
+Enter the number of child processes to create: Child process with PID: 37221 and Parent PID: 36608 is starting
+Child process with PID: 37221 has finished
+Enter the number of child processes to create: Child process with PID: 37222 and Parent PID: 36608 is starting
+Child process with PID: 37222 has finished
+Enter the number of child processes to create: Child process with PID: 37220 and Parent PID: 36608 is starting
+Child process with PID: 37220 has finished
+Enter the number of child processes to create: Child process with PID: 37223 and Parent PID: 36608 is starting
+Child process with PID: 37223 has finished
+Enter the number of child processes to create: Child process with PID: 37224 and Parent PID: 36608 is starting
+Child process with PID: 37224 has finished
+Enter the number of child processes to create: Child process with PID: 37225 and Parent PID: 36608 is starting
+Child process with PID: 37225 has finished
+Enter the number of child processes to create: Child process with PID: 37226 and Parent PID: 36608 is starting
+Child process with PID: 37226 has finished
+Enter the number of child processes to create: Child process with PID: 37228 and Parent PID: 36608 is starting
+Child process with PID: 37228 has finished
+Enter the number of child processes to create: Child process with PID: 37227 and Parent PID: 36608 is starting
+Child process with PID: 37227 has finished
+Enter the number of child processes to create: Child process with PID: 37230 and Parent PID: 36608 is starting
+Child process with PID: 37230 has finished
+Enter the number of child processes to create: Child process with PID: 37229 and Parent PID: 36608 is starting
+Child process with PID: 37229 has finished
+Enter the number of child processes to create: Child process with PID: 37231 and Parent PID: 36608 is starting
+Child process with PID: 37231 has finished
+Enter the number of child processes to create: Child process with PID: 37232 and Parent PID: 36608 is starting
+Child process with PID: 37232 has finished
+Enter the number of child processes to create: Child process with PID: 37234 and Parent PID: 36608 is starting
+Child process with PID: 37234 has finished
+Enter the number of child processes to create: Child process with PID: 37233 and Parent PID: 36608 is starting
+Child process with PID: 37233 has finished
+Enter the number of child processes to create: Child process with PID: 37235 and Parent PID: 36608 is starting
+Child process with PID: 37235 has finished
+Enter the number of child processes to create: Child process with PID: 37236 and Parent PID: 36608 is starting
+Child process with PID: 37236 has finished
+Enter the number of child processes to create: Child process with PID: 37237 and Parent PID: 36608 is starting
+Child process with PID: 37237 has finished
+Enter the number of child processes to create: Child process with PID: 37238 and Parent PID: 36608 is starting
+Child process with PID: 37238 has finished
+Enter the number of child processes to create: Child process with PID: 37240 and Parent PID: 36608 is starting
+Child process with PID: 37240 has finished
+Enter the number of child processes to create: Child process with PID: 37239 and Parent PID: 36608 is starting
+Child process with PID: 37239 has finished
+Enter the number of child processes to create: Child process with PID: 37241 and Parent PID: 36608 is starting
+Child process with PID: 37241 has finished
+Enter the number of child processes to create: Child process with PID: 37242 and Parent PID: 36608 is starting
+Child process with PID: 37242 has finished
+Enter the number of child processes to create: Child process with PID: 37244 and Parent PID: 36608 is starting
+Child process with PID: 37244 has finished
+Enter the number of child processes to create: Child process with PID: 37243 and Parent PID: 36608 is starting
+Child process with PID: 37243 has finished
+Enter the number of child processes to create: Child process with PID: 37245 and Parent PID: 36608 is starting
+Child process with PID: 37245 has finished
+Enter the number of child processes to create: Child process with PID: 37247 and Parent PID: 36608 is starting
+Child process with PID: 37247 has finished
+Enter the number of child processes to create: Child process with PID: 37246 and Parent PID: 36608 is starting
+Child process with PID: 37246 has finished
+Enter the number of child processes to create: Child process with PID: 37248 and Parent PID: 36608 is starting
+Child process with PID: 37248 has finished
+Enter the number of child processes to create: Child process with PID: 37250 and Parent PID: 36608 is starting
+Child process with PID: 37250 has finished
+Enter the number of child processes to create: Child process with PID: 37249 and Parent PID: 36608 is starting
+Child process with PID: 37249 has finished
+Enter the number of child processes to create: Child process with PID: 37253 and Parent PID: 36608 is starting
+Child process with PID: 37253 has finished
+Enter the number of child processes to create: Child process with PID: 37251 and Parent PID: 36608 is starting
+Child process with PID: 37251 has finished
+Enter the number of child processes to create: Child process with PID: 37252 and Parent PID: 36608 is starting
+Child process with PID: 37252 has finished
+Enter the number of child processes to create: Child process with PID: 37254 and Parent PID: 36608 is starting
+Child process with PID: 37254 has finished
+Enter the number of child processes to create: Child process with PID: 37256 and Parent PID: 36608 is starting
+Child process with PID: 37256 has finished
+Enter the number of child processes to create: Child process with PID: 37255 and Parent PID: 36608 is starting
+Child process with PID: 37255 has finished
+Enter the number of child processes to create: Child process with PID: 37257 and Parent PID: 36608 is starting
+Child process with PID: 37257 has finished
+Enter the number of child processes to create: Child process with PID: 37258 and Parent PID: 36608 is starting
+Child process with PID: 37258 has finished
+Enter the number of child processes to create: Child process with PID: 37259 and Parent PID: 36608 is starting
+Child process with PID: 37259 has finished
+Enter the number of child processes to create: Child process with PID: 37260 and Parent PID: 36608 is starting
+Child process with PID: 37260 has finished
+Enter the number of child processes to create: Child process with PID: 37261 and Parent PID: 36608 is starting
+Child process with PID: 37261 has finished
+Enter the number of child processes to create: Child process with PID: 37265 and Parent PID: 36608 is starting
+Child process with PID: 37265 has finished
+Enter the number of child processes to create: Child process with PID: 37262 and Parent PID: 36608 is starting
+Child process with PID: 37262 has finished
+Enter the number of child processes to create: Child process with PID: 37264 and Parent PID: 36608 is starting
+Child process with PID: 37264 has finished
+Enter the number of child processes to create: Child process with PID: 37268 and Parent PID: 36608 is starting
+Child process with PID: 37268 has finished
+Enter the number of child processes to create: Child process with PID: 37263 and Parent PID: 36608 is starting
+Child process with PID: 37263 has finished
+Enter the number of child processes to create: Child process with PID: 37266 and Parent PID: 36608 is starting
+Child process with PID: 37266 has finished
+Enter the number of child processes to create: Child process with PID: 37267 and Parent PID: 36608 is starting
+Child process with PID: 37267 has finished
+Enter the number of child processes to create: Child process with PID: 37269 and Parent PID: 36608 is starting
+Child process with PID: 37269 has finished
+Enter the number of child processes to create: Child process with PID: 37270 and Parent PID: 36608 is starting
+Child process with PID: 37270 has finished
+Enter the number of child processes to create: Child process with PID: 37271 and Parent PID: 36608 is starting
+Child process with PID: 37271 has finished
+Enter the number of child processes to create: Child process with PID: 37272 and Parent PID: 36608 is starting
+Child process with PID: 37272 has finished
+Enter the number of child processes to create: Child process with PID: 37274 and Parent PID: 36608 is starting
+Child process with PID: 37274 has finished
+Enter the number of child processes to create: Child process with PID: 37273 and Parent PID: 36608 is starting
+Child process with PID: 37273 has finished
+Enter the number of child processes to create: Child process with PID: 37275 and Parent PID: 36608 is starting
+Child process with PID: 37275 has finished
+Enter the number of child processes to create: Child process with PID: 37276 and Parent PID: 36608 is starting
+Child process with PID: 37276 has finished
+Enter the number of child processes to create: Child process with PID: 37279 and Parent PID: 36608 is starting
+Child process with PID: 37279 has finished
+Enter the number of child processes to create: Child process with PID: 37278 and Parent PID: 36608 is starting
+Child process with PID: 37278 has finished
+Enter the number of child processes to create: Child process with PID: 37277 and Parent PID: 36608 is starting
+Child process with PID: 37277 has finished
+Enter the number of child processes to create: Child process with PID: 37280 and Parent PID: 36608 is starting
+Child process with PID: 37280 has finished
+Enter the number of child processes to create: Child process with PID: 37284 and Parent PID: 36608 is starting
+Child process with PID: 37284 has finished
+Enter the number of child processes to create: Child process with PID: 37281 and Parent PID: 36608 is starting
+Child process with PID: 37281 has finished
+Enter the number of child processes to create: Child process with PID: 37282 and Parent PID: 36608 is starting
+Child process with PID: 37282 has finished
+Enter the number of child processes to create: Child process with PID: 37283 and Parent PID: 36608 is starting
+Child process with PID: 37283 has finished
+Enter the number of child processes to create: Child process with PID: 37285 and Parent PID: 36608 is starting
+Child process with PID: 37285 has finished
+Enter the number of child processes to create: Child process with PID: 37286 and Parent PID: 36608 is starting
+Child process with PID: 37286 has finished
+Enter the number of child processes to create: Child process with PID: 37287 and Parent PID: 36608 is starting
+Child process with PID: 37287 has finished
+Enter the number of child processes to create: Child process with PID: 37288 and Parent PID: 36608 is starting
+Child process with PID: 37288 has finished
+Enter the number of child processes to create: Child process with PID: 37289 and Parent PID: 36608 is starting
+Child process with PID: 37289 has finished
+Enter the number of child processes to create: Child process with PID: 37290 and Parent PID: 36608 is starting
+Child process with PID: 37290 has finished
+Enter the number of child processes to create: Child process with PID: 37291 and Parent PID: 36608 is starting
+Child process with PID: 37291 has finished
+Enter the number of child processes to create: Child process with PID: 37293 and Parent PID: 36608 is starting
+Child process with PID: 37293 has finished
+Enter the number of child processes to create: Child process with PID: 37292 and Parent PID: 36608 is starting
+Child process with PID: 37292 has finished
+Enter the number of child processes to create: Child process with PID: 37294 and Parent PID: 36608 is starting
+Child process with PID: 37294 has finished
+Enter the number of child processes to create: Child process with PID: 37295 and Parent PID: 36608 is starting
+Child process with PID: 37295 has finished
+Enter the number of child processes to create: Child process with PID: 37298 and Parent PID: 36608 is starting
+Child process with PID: 37298 has finished
+Enter the number of child processes to create: Child process with PID: 37299 and Parent PID: 36608 is starting
+Child process with PID: 37299 has finished
+Enter the number of child processes to create: Child process with PID: 37296 and Parent PID: 36608 is starting
+Child process with PID: 37296 has finished
+Enter the number of child processes to create: Child process with PID: 37297 and Parent PID: 36608 is starting
+Child process with PID: 37297 has finished
+Enter the number of child processes to create: Child process with PID: 37300 and Parent PID: 36608 is starting
+Child process with PID: 37300 has finished
+Enter the number of child processes to create: Child process with PID: 37302 and Parent PID: 36608 is starting
+Child process with PID: 37302 has finished
+Enter the number of child processes to create: Child process with PID: 37301 and Parent PID: 36608 is starting
+Child process with PID: 37301 has finished
+Enter the number of child processes to create: Child process with PID: 37303 and Parent PID: 36608 is starting
+Child process with PID: 37303 has finished
+Enter the number of child processes to create: Child process with PID: 37305 and Parent PID: 36608 is starting
+Child process with PID: 37305 has finished
+Enter the number of child processes to create: Child process with PID: 37304 and Parent PID: 36608 is starting
+Child process with PID: 37304 has finished
+Enter the number of child processes to create: Child process with PID: 37306 and Parent PID: 36608 is starting
+Child process with PID: 37306 has finished
+Enter the number of child processes to create: Child process with PID: 37307 and Parent PID: 36608 is starting
+Child process with PID: 37307 has finished
+Enter the number of child processes to create: Child process with PID: 37308 and Parent PID: 36608 is starting
+Child process with PID: 37308 has finished
+Enter the number of child processes to create: Child process with PID: 37309 and Parent PID: 36608 is starting
+Child process with PID: 37309 has finished
+Enter the number of child processes to create: Child process with PID: 37311 and Parent PID: 36608 is starting
+Child process with PID: 37311 has finished
+Enter the number of child processes to create: Child process with PID: 37312 and Parent PID: 36608 is starting
+Child process with PID: 37312 has finished
+Enter the number of child processes to create: Child process with PID: 37310 and Parent PID: 36608 is starting
+Child process with PID: 37310 has finished
+Enter the number of child processes to create: Child process with PID: 37313 and Parent PID: 36608 is starting
+Child process with PID: 37313 has finished
+Enter the number of child processes to create: Child process with PID: 37315 and Parent PID: 36608 is starting
+Child process with PID: 37315 has finished
+Enter the number of child processes to create: Child process with PID: 37314 and Parent PID: 36608 is starting
+Child process with PID: 37314 has finished
+Enter the number of child processes to create: Child process with PID: 37316 and Parent PID: 36608 is starting
+Child process with PID: 37316 has finished
+Enter the number of child processes to create: Child process with PID: 37319 and Parent PID: 36608 is starting
+Child process with PID: 37319 has finished
+Enter the number of child processes to create: Child process with PID: 37317 and Parent PID: 36608 is starting
+Child process with PID: 37317 has finished
+Enter the number of child processes to create: Child process with PID: 37318 and Parent PID: 36608 is starting
+Child process with PID: 37318 has finished
+Enter the number of child processes to create: Child process with PID: 37322 and Parent PID: 36608 is starting
+Child process with PID: 37322 has finished
+Enter the number of child processes to create: Child process with PID: 37320 and Parent PID: 36608 is starting
+Child process with PID: 37320 has finished
+Enter the number of child processes to create: Child process with PID: 37321 and Parent PID: 36608 is starting
+Child process with PID: 37321 has finished
+Enter the number of child processes to create: Child process with PID: 37326 and Parent PID: 36608 is starting
+Child process with PID: 37326 has finished
+Enter the number of child processes to create: Child process with PID: 37323 and Parent PID: 36608 is starting
+Child process with PID: 37323 has finished
+Enter the number of child processes to create: Child process with PID: 37324 and Parent PID: 36608 is starting
+Child process with PID: 37324 has finished
+Enter the number of child processes to create: Child process with PID: 37325 and Parent PID: 36608 is starting
+Child process with PID: 37325 has finished
+Enter the number of child processes to create: Child process with PID: 37328 and Parent PID: 36608 is starting
+Child process with PID: 37328 has finished
+Enter the number of child processes to create: Child process with PID: 37330 and Parent PID: 36608 is starting
+Child process with PID: 37330 has finished
+Enter the number of child processes to create: Child process with PID: 37327 and Parent PID: 36608 is starting
+Child process with PID: 37327 has finished
+Enter the number of child processes to create: Child process with PID: 37329 and Parent PID: 36608 is starting
+Child process with PID: 37329 has finished
+Enter the number of child processes to create: Child process with PID: 37336 and Parent PID: 36608 is starting
+Child process with PID: 37336 has finished
+Enter the number of child processes to create: Child process with PID: 37331 and Parent PID: 36608 is starting
+Child process with PID: 37331 has finished
+Enter the number of child processes to create: Child process with PID: 37332 and Parent PID: 36608 is starting
+Child process with PID: 37332 has finished
+Enter the number of child processes to create: Child process with PID: 37337 and Parent PID: 36608 is starting
+Child process with PID: 37337 has finished
+Enter the number of child processes to create: Child process with PID: 37334 and Parent PID: 36608 is starting
+Child process with PID: 37334 has finished
+Enter the number of child processes to create: Child process with PID: 37335 and Parent PID: 36608 is starting
+Child process with PID: 37335 has finished
+Enter the number of child processes to create: Child process with PID: 37333 and Parent PID: 36608 is starting
+Child process with PID: 37333 has finished
+Enter the number of child processes to create: Child process with PID: 37338 and Parent PID: 36608 is starting
+Child process with PID: 37338 has finished
+Enter the number of child processes to create: Child process with PID: 37339 and Parent PID: 36608 is starting
+Child process with PID: 37339 has finished
+Enter the number of child processes to create: Child process with PID: 37340 and Parent PID: 36608 is starting
+Child process with PID: 37340 has finished
+Enter the number of child processes to create: Child process with PID: 37341 and Parent PID: 36608 is starting
+Child process with PID: 37341 has finished
+Enter the number of child processes to create: Child process with PID: 37342 and Parent PID: 36608 is starting
+Child process with PID: 37342 has finished
+Enter the number of child processes to create: Child process with PID: 37343 and Parent PID: 36608 is starting
+Child process with PID: 37343 has finished
+Enter the number of child processes to create: Child process with PID: 37344 and Parent PID: 36608 is starting
+Child process with PID: 37344 has finished
+Enter the number of child processes to create: Child process with PID: 37345 and Parent PID: 36608 is starting
+Child process with PID: 37345 has finished
+Enter the number of child processes to create: Child process with PID: 37346 and Parent PID: 36608 is starting
+Child process with PID: 37346 has finished
+Enter the number of child processes to create: Child process with PID: 37347 and Parent PID: 36608 is starting
+Child process with PID: 37347 has finished
+Enter the number of child processes to create: Child process with PID: 37348 and Parent PID: 36608 is starting
+Child process with PID: 37348 has finished
+Enter the number of child processes to create: Child process with PID: 37349 and Parent PID: 36608 is starting
+Child process with PID: 37349 has finished
+Enter the number of child processes to create: Child process with PID: 37350 and Parent PID: 36608 is starting
+Child process with PID: 37350 has finished
+Enter the number of child processes to create: Child process with PID: 37351 and Parent PID: 36608 is starting
+Child process with PID: 37351 has finished
+Enter the number of child processes to create: Child process with PID: 37352 and Parent PID: 36608 is starting
+Child process with PID: 37352 has finished
+Enter the number of child processes to create: Child process with PID: 37353 and Parent PID: 36608 is starting
+Child process with PID: 37353 has finished
+Enter the number of child processes to create: Child process with PID: 37354 and Parent PID: 36608 is starting
+Child process with PID: 37354 has finished
+Enter the number of child processes to create: Child process with PID: 37355 and Parent PID: 36608 is starting
+Child process with PID: 37355 has finished
+Enter the number of child processes to create: Child process with PID: 37356 and Parent PID: 36608 is starting
+Child process with PID: 37356 has finished
+Enter the number of child processes to create: Child process with PID: 37357 and Parent PID: 36608 is starting
+Child process with PID: 37357 has finished
+Enter the number of child processes to create: Child process with PID: 37358 and Parent PID: 36608 is starting
+Child process with PID: 37358 has finished
+Enter the number of child processes to create: Child process with PID: 37359 and Parent PID: 36608 is starting
+Child process with PID: 37359 has finished
+Enter the number of child processes to create: Child process with PID: 37361 and Parent PID: 36608 is starting
+Child process with PID: 37361 has finished
+Enter the number of child processes to create: Child process with PID: 37360 and Parent PID: 36608 is starting
+Child process with PID: 37360 has finished
+Enter the number of child processes to create: Child process with PID: 37362 and Parent PID: 36608 is starting
+Child process with PID: 37362 has finished
+Enter the number of child processes to create: Child process with PID: 37363 and Parent PID: 36608 is starting
+Child process with PID: 37363 has finished
+Enter the number of child processes to create: Child process with PID: 37364 and Parent PID: 36608 is starting
+Child process with PID: 37364 has finished
+Enter the number of child processes to create: Child process with PID: 37365 and Parent PID: 36608 is starting
+Child process with PID: 37365 has finished
+Enter the number of child processes to create: Child process with PID: 37366 and Parent PID: 36608 is starting
+Child process with PID: 37366 has finished
+Enter the number of child processes to create: Child process with PID: 37369 and Parent PID: 36608 is starting
+Child process with PID: 37369 has finished
+Enter the number of child processes to create: Child process with PID: 37368 and Parent PID: 36608 is starting
+Child process with PID: 37368 has finished
+Enter the number of child processes to create: Child process with PID: 37367 and Parent PID: 36608 is starting
+Child process with PID: 37367 has finished
+Enter the number of child processes to create: Child process with PID: 37371 and Parent PID: 36608 is starting
+Child process with PID: 37371 has finished
+Enter the number of child processes to create: Child process with PID: 37372 and Parent PID: 36608 is starting
+Child process with PID: 37372 has finished
+Enter the number of child processes to create: Child process with PID: 37373 and Parent PID: 36608 is starting
+Child process with PID: 37373 has finished
+Enter the number of child processes to create: Child process with PID: 37370 and Parent PID: 36608 is starting
+Child process with PID: 37370 has finished
+Enter the number of child processes to create: Child process with PID: 37375 and Parent PID: 36608 is starting
+Child process with PID: 37375 has finished
+Enter the number of child processes to create: Child process with PID: 37374 and Parent PID: 36608 is starting
+Child process with PID: 37374 has finished
+Enter the number of child processes to create: Child process with PID: 37376 and Parent PID: 36608 is starting
+Child process with PID: 37376 has finished
+Enter the number of child processes to create: Child process with PID: 37378 and Parent PID: 36608 is starting
+Child process with PID: 37378 has finished
+Enter the number of child processes to create: Child process with PID: 37379 and Parent PID: 36608 is starting
+Child process with PID: 37379 has finished
+Enter the number of child processes to create: Child process with PID: 37377 and Parent PID: 36608 is starting
+Child process with PID: 37377 has finished
+Enter the number of child processes to create: Child process with PID: 37380 and Parent PID: 36608 is starting
+Child process with PID: 37380 has finished
+Enter the number of child processes to create: Child process with PID: 37382 and Parent PID: 36608 is starting
+Child process with PID: 37382 has finished
+Enter the number of child processes to create: Child process with PID: 37381 and Parent PID: 36608 is starting
+Child process with PID: 37381 has finished
+Enter the number of child processes to create: Child process with PID: 37383 and Parent PID: 36608 is starting
+Child process with PID: 37383 has finished
+Enter the number of child processes to create: Child process with PID: 37384 and Parent PID: 36608 is starting
+Child process with PID: 37384 has finished
+Enter the number of child processes to create: Child process with PID: 37385 and Parent PID: 36608 is starting
+Child process with PID: 37385 has finished
+Enter the number of child processes to create: Child process with PID: 37386 and Parent PID: 36608 is starting
+Child process with PID: 37386 has finished
+Enter the number of child processes to create: Child process with PID: 37387 and Parent PID: 36608 is starting
+Child process with PID: 37387 has finished
+Enter the number of child processes to create: Child process with PID: 37388 and Parent PID: 36608 is starting
+Child process with PID: 37388 has finished
+Enter the number of child processes to create: Child process with PID: 37390 and Parent PID: 36608 is starting
+Child process with PID: 37390 has finished
+Enter the number of child processes to create: Child process with PID: 37389 and Parent PID: 36608 is starting
+Child process with PID: 37389 has finished
+Enter the number of child processes to create: Child process with PID: 37391 and Parent PID: 36608 is starting
+Child process with PID: 37391 has finished
+Enter the number of child processes to create: Child process with PID: 37393 and Parent PID: 36608 is starting
+Child process with PID: 37393 has finished
+Enter the number of child processes to create: Child process with PID: 37392 and Parent PID: 36608 is starting
+Child process with PID: 37392 has finished
+Enter the number of child processes to create: Child process with PID: 37395 and Parent PID: 36608 is starting
+Child process with PID: 37395 has finished
+Enter the number of child processes to create: Child process with PID: 37394 and Parent PID: 36608 is starting
+Child process with PID: 37394 has finished
+Enter the number of child processes to create: Child process with PID: 37396 and Parent PID: 36608 is starting
+Child process with PID: 37396 has finished
+Enter the number of child processes to create: Child process with PID: 37398 and Parent PID: 36608 is starting
+Child process with PID: 37398 has finished
+Enter the number of child processes to create: Child process with PID: 37397 and Parent PID: 36608 is starting
+Child process with PID: 37397 has finished
+Enter the number of child processes to create: Child process with PID: 37399 and Parent PID: 36608 is starting
+Child process with PID: 37399 has finished
+Enter the number of child processes to create: Child process with PID: 37400 and Parent PID: 36608 is starting
+Child process with PID: 37400 has finished
+Enter the number of child processes to create: Child process with PID: 37401 and Parent PID: 36608 is starting
+Child process with PID: 37401 has finished
+Enter the number of child processes to create: Child process with PID: 37402 and Parent PID: 36608 is starting
+Child process with PID: 37402 has finished
+Enter the number of child processes to create: Child process with PID: 37403 and Parent PID: 36608 is starting
+Child process with PID: 37403 has finished
+Enter the number of child processes to create: Child process with PID: 37404 and Parent PID: 36608 is starting
+Child process with PID: 37404 has finished
+Enter the number of child processes to create: Child process with PID: 37405 and Parent PID: 36608 is starting
+Child process with PID: 37405 has finished
+Enter the number of child processes to create: Child process with PID: 37406 and Parent PID: 36608 is starting
+Child process with PID: 37406 has finished
+Enter the number of child processes to create: Child process with PID: 37407 and Parent PID: 36608 is starting
+Child process with PID: 37407 has finished
+Enter the number of child processes to create: Child process with PID: 37408 and Parent PID: 36608 is starting
+Child process with PID: 37408 has finished
+Enter the number of child processes to create: Child process with PID: 37409 and Parent PID: 36608 is starting
+Child process with PID: 37409 has finished
+Enter the number of child processes to create: Child process with PID: 37410 and Parent PID: 36608 is starting
+Child process with PID: 37410 has finished
+Enter the number of child processes to create: Child process with PID: 37411 and Parent PID: 36608 is starting
+Child process with PID: 37411 has finished
+Enter the number of child processes to create: Child process with PID: 37412 and Parent PID: 36608 is starting
+Child process with PID: 37412 has finished
+Enter the number of child processes to create: Child process with PID: 37413 and Parent PID: 36608 is starting
+Child process with PID: 37413 has finished
+Enter the number of child processes to create: Child process with PID: 37415 and Parent PID: 36608 is starting
+Child process with PID: 37415 has finished
+Enter the number of child processes to create: Child process with PID: 37414 and Parent PID: 36608 is starting
+Child process with PID: 37414 has finished
+Enter the number of child processes to create: Child process with PID: 37416 and Parent PID: 36608 is starting
+Child process with PID: 37416 has finished
+Enter the number of child processes to create: Child process with PID: 37417 and Parent PID: 36608 is starting
+Child process with PID: 37417 has finished
+Enter the number of child processes to create: Child process with PID: 37418 and Parent PID: 36608 is starting
+Child process with PID: 37418 has finished
+Enter the number of child processes to create: Child process with PID: 37419 and Parent PID: 36608 is starting
+Child process with PID: 37419 has finished
+Enter the number of child processes to create: Child process with PID: 37421 and Parent PID: 36608 is starting
+Child process with PID: 37421 has finished
+Enter the number of child processes to create: Child process with PID: 37420 and Parent PID: 36608 is starting
+Child process with PID: 37420 has finished
+Enter the number of child processes to create: Child process with PID: 37422 and Parent PID: 36608 is starting
+Child process with PID: 37422 has finished
+Enter the number of child processes to create: Child process with PID: 37424 and Parent PID: 36608 is starting
+Child process with PID: 37424 has finished
+Enter the number of child processes to create: Child process with PID: 37425 and Parent PID: 36608 is starting
+Child process with PID: 37425 has finished
+Enter the number of child processes to create: Child process with PID: 37423 and Parent PID: 36608 is starting
+Child process with PID: 37423 has finished
+Enter the number of child processes to create: Child process with PID: 37426 and Parent PID: 36608 is starting
+Child process with PID: 37426 has finished
+Enter the number of child processes to create: Child process with PID: 37427 and Parent PID: 36608 is starting
+Child process with PID: 37427 has finished
+Enter the number of child processes to create: Child process with PID: 37428 and Parent PID: 36608 is starting
+Child process with PID: 37428 has finished
+Enter the number of child processes to create: Child process with PID: 37430 and Parent PID: 36608 is starting
+Child process with PID: 37430 has finished
+Enter the number of child processes to create: Child process with PID: 37429 and Parent PID: 36608 is starting
+Child process with PID: 37429 has finished
+Enter the number of child processes to create: Child process with PID: 37432 and Parent PID: 36608 is starting
+Child process with PID: 37432 has finished
+Enter the number of child processes to create: Child process with PID: 37431 and Parent PID: 36608 is starting
+Child process with PID: 37431 has finished
+Enter the number of child processes to create: Child process with PID: 37433 and Parent PID: 36608 is starting
+Child process with PID: 37433 has finished
+Enter the number of child processes to create: Child process with PID: 37434 and Parent PID: 36608 is starting
+Child process with PID: 37434 has finished
+Enter the number of child processes to create: Child process with PID: 37435 and Parent PID: 36608 is starting
+Child process with PID: 37435 has finished
+Enter the number of child processes to create: Child process with PID: 37436 and Parent PID: 36608 is starting
+Child process with PID: 37436 has finished
+Enter the number of child processes to create: Child process with PID: 37439 and Parent PID: 36608 is starting
+Child process with PID: 37439 has finished
+Enter the number of child processes to create: Child process with PID: 37438 and Parent PID: 36608 is starting
+Child process with PID: 37438 has finished
+Enter the number of child processes to create: Child process with PID: 37437 and Parent PID: 36608 is starting
+Child process with PID: 37437 has finished
+Enter the number of child processes to create: Child process with PID: 37440 and Parent PID: 36608 is starting
+Child process with PID: 37440 has finished
+Enter the number of child processes to create: Child process with PID: 37441 and Parent PID: 36608 is starting
+Child process with PID: 37441 has finished
+Enter the number of child processes to create: Child process with PID: 37442 and Parent PID: 36608 is starting
+Child process with PID: 37442 has finished
+Enter the number of child processes to create: Child process with PID: 37443 and Parent PID: 36608 is starting
+Child process with PID: 37443 has finished
+Enter the number of child processes to create: Child process with PID: 37445 and Parent PID: 36608 is starting
+Child process with PID: 37445 has finished
+Enter the number of child processes to create: Child process with PID: 37444 and Parent PID: 36608 is starting
+Child process with PID: 37444 has finished
+Enter the number of child processes to create: Child process with PID: 37446 and Parent PID: 36608 is starting
+Child process with PID: 37446 has finished
+Enter the number of child processes to create: Child process with PID: 37447 and Parent PID: 36608 is starting
+Child process with PID: 37447 has finished
+Enter the number of child processes to create: Child process with PID: 37448 and Parent PID: 36608 is starting
+Child process with PID: 37448 has finished
+Enter the number of child processes to create: Child process with PID: 37449 and Parent PID: 36608 is starting
+Child process with PID: 37449 has finished
+Enter the number of child processes to create: Child process with PID: 37450 and Parent PID: 36608 is starting
+Child process with PID: 37450 has finished
+Enter the number of child processes to create: Child process with PID: 37452 and Parent PID: 36608 is starting
+Child process with PID: 37452 has finished
+Enter the number of child processes to create: Child process with PID: 37453 and Parent PID: 36608 is starting
+Child process with PID: 37453 has finished
+Enter the number of child processes to create: Child process with PID: 37451 and Parent PID: 36608 is starting
+Child process with PID: 37451 has finished
+Enter the number of child processes to create: Child process with PID: 37454 and Parent PID: 36608 is starting
+Child process with PID: 37454 has finished
+Enter the number of child processes to create: Child process with PID: 37455 and Parent PID: 36608 is starting
+Child process with PID: 37455 has finished
+Enter the number of child processes to create: Child process with PID: 37456 and Parent PID: 36608 is starting
+Child process with PID: 37456 has finished
+Enter the number of child processes to create: Child process with PID: 37458 and Parent PID: 36608 is starting
+Child process with PID: 37458 has finished
+Enter the number of child processes to create: Child process with PID: 37457 and Parent PID: 36608 is starting
+Child process with PID: 37457 has finished
+Enter the number of child processes to create: Child process with PID: 37459 and Parent PID: 36608 is starting
+Child process with PID: 37459 has finished
+Enter the number of child processes to create: Child process with PID: 37461 and Parent PID: 36608 is starting
+Child process with PID: 37461 has finished
+Enter the number of child processes to create: Child process with PID: 37460 and Parent PID: 36608 is starting
+Child process with PID: 37460 has finished
+Enter the number of child processes to create: Child process with PID: 37462 and Parent PID: 36608 is starting
+Child process with PID: 37462 has finished
+Enter the number of child processes to create: Child process with PID: 37463 and Parent PID: 36608 is starting
+Child process with PID: 37463 has finished
+Enter the number of child processes to create: Child process with PID: 37464 and Parent PID: 36608 is starting
+Child process with PID: 37464 has finished
+Enter the number of child processes to create: Child process with PID: 37465 and Parent PID: 36608 is starting
+Child process with PID: 37465 has finished
+Enter the number of child processes to create: Child process with PID: 37467 and Parent PID: 36608 is starting
+Child process with PID: 37467 has finished
+Enter the number of child processes to create: Child process with PID: 37466 and Parent PID: 36608 is starting
+Child process with PID: 37466 has finished
+Enter the number of child processes to create: Child process with PID: 37468 and Parent PID: 36608 is starting
+Child process with PID: 37468 has finished
+Enter the number of child processes to create: Child process with PID: 37469 and Parent PID: 36608 is starting
+Child process with PID: 37469 has finished
+Enter the number of child processes to create: Child process with PID: 37470 and Parent PID: 36608 is starting
+Child process with PID: 37470 has finished
+Enter the number of child processes to create: Child process with PID: 37471 and Parent PID: 36608 is starting
+Child process with PID: 37471 has finished
+Enter the number of child processes to create: Child process with PID: 37473 and Parent PID: 36608 is starting
+Child process with PID: 37473 has finished
+Enter the number of child processes to create: Child process with PID: 37472 and Parent PID: 36608 is starting
+Child process with PID: 37472 has finished
+Enter the number of child processes to create: Child process with PID: 37474 and Parent PID: 36608 is starting
+Child process with PID: 37474 has finished
+Enter the number of child processes to create: Child process with PID: 37475 and Parent PID: 36608 is starting
+Child process with PID: 37475 has finished
+Enter the number of child processes to create: Child process with PID: 37477 and Parent PID: 36608 is starting
+Child process with PID: 37477 has finished
+Enter the number of child processes to create: Child process with PID: 37476 and Parent PID: 36608 is starting
+Child process with PID: 37476 has finished
+Enter the number of child processes to create: Child process with PID: 37479 and Parent PID: 36608 is starting
+Child process with PID: 37479 has finished
+Enter the number of child processes to create: Child process with PID: 37478 and Parent PID: 36608 is starting
+Child process with PID: 37478 has finished
+Enter the number of child processes to create: Child process with PID: 37480 and Parent PID: 36608 is starting
+Child process with PID: 37480 has finished
+Enter the number of child processes to create: Child process with PID: 37481 and Parent PID: 36608 is starting
+Child process with PID: 37481 has finished
+Enter the number of child processes to create: Child process with PID: 37482 and Parent PID: 36608 is starting
+Child process with PID: 37482 has finished
+Enter the number of child processes to create: Child process with PID: 37483 and Parent PID: 36608 is starting
+Child process with PID: 37483 has finished
+Enter the number of child processes to create: Child process with PID: 37486 and Parent PID: 36608 is starting
+Child process with PID: 37486 has finished
+Enter the number of child processes to create: Child process with PID: 37484 and Parent PID: 36608 is starting
+Child process with PID: 37484 has finished
+Enter the number of child processes to create: Child process with PID: 37485 and Parent PID: 36608 is starting
+Child process with PID: 37485 has finished
+Enter the number of child processes to create: Child process with PID: 37487 and Parent PID: 36608 is starting
+Child process with PID: 37487 has finished
+Enter the number of child processes to create: Child process with PID: 37490 and Parent PID: 36608 is starting
+Child process with PID: 37490 has finished
+Enter the number of child processes to create: Child process with PID: 37488 and Parent PID: 36608 is starting
+Child process with PID: 37488 has finished
+Enter the number of child processes to create: Child process with PID: 37489 and Parent PID: 36608 is starting
+Child process with PID: 37489 has finished
+Enter the number of child processes to create: Child process with PID: 37491 and Parent PID: 36608 is starting
+Child process with PID: 37491 has finished
+Enter the number of child processes to create: Child process with PID: 37494 and Parent PID: 36608 is starting
+Child process with PID: 37494 has finished
+Enter the number of child processes to create: Child process with PID: 37492 and Parent PID: 36608 is starting
+Child process with PID: 37492 has finished
+Enter the number of child processes to create: Child process with PID: 37496 and Parent PID: 36608 is starting
+Child process with PID: 37496 has finished
+Enter the number of child processes to create: Child process with PID: 37493 and Parent PID: 36608 is starting
+Child process with PID: 37493 has finished
+Enter the number of child processes to create: Child process with PID: 37495 and Parent PID: 36608 is starting
+Child process with PID: 37495 has finished
+Enter the number of child processes to create: Child process with PID: 37497 and Parent PID: 36608 is starting
+Child process with PID: 37497 has finished
+Enter the number of child processes to create: Child process with PID: 37498 and Parent PID: 36608 is starting
+Child process with PID: 37498 has finished
+Enter the number of child processes to create: Child process with PID: 37499 and Parent PID: 36608 is starting
+Child process with PID: 37499 has finished
+Enter the number of child processes to create: Child process with PID: 37500 and Parent PID: 36608 is starting
+Child process with PID: 37500 has finished
+Enter the number of child processes to create: Child process with PID: 37502 and Parent PID: 36608 is starting
+Child process with PID: 37502 has finished
+Enter the number of child processes to create: Child process with PID: 37501 and Parent PID: 36608 is starting
+Child process with PID: 37501 has finished
+Enter the number of child processes to create: Child process with PID: 37505 and Parent PID: 36608 is starting
+Child process with PID: 37505 has finished
+Enter the number of child processes to create: Child process with PID: 37504 and Parent PID: 36608 is starting
+Child process with PID: 37504 has finished
+Enter the number of child processes to create: Child process with PID: 37503 and Parent PID: 36608 is starting
+Child process with PID: 37503 has finished
+Enter the number of child processes to create: Child process with PID: 37510 and Parent PID: 36608 is starting
+Child process with PID: 37510 has finished
+Enter the number of child processes to create: Child process with PID: 37509 and Parent PID: 36608 is starting
+Child process with PID: 37509 has finished
+Enter the number of child processes to create: Child process with PID: 37506 and Parent PID: 36608 is starting
+Child process with PID: 37506 has finished
+Enter the number of child processes to create: Child process with PID: 37513 and Parent PID: 36608 is starting
+Child process with PID: 37513 has finished
+Enter the number of child processes to create: Child process with PID: 37507 and Parent PID: 36608 is starting
+Child process with PID: 37507 has finished
+Enter the number of child processes to create: Child process with PID: 37508 and Parent PID: 36608 is starting
+Child process with PID: 37508 has finished
+Enter the number of child processes to create: Child process with PID: 37511 and Parent PID: 36608 is starting
+Child process with PID: 37511 has finished
+Enter the number of child processes to create: Child process with PID: 37512 and Parent PID: 36608 is starting
+Child process with PID: 37512 has finished
+Enter the number of child processes to create: Child process with PID: 37514 and Parent PID: 36608 is starting
+Child process with PID: 37514 has finished
+Enter the number of child processes to create: Child process with PID: 37515 and Parent PID: 36608 is starting
+Child process with PID: 37515 has finished
+Enter the number of child processes to create: Child process with PID: 37516 and Parent PID: 36608 is starting
+Child process with PID: 37516 has finished
+Enter the number of child processes to create: Child process with PID: 37517 and Parent PID: 36608 is starting
+Child process with PID: 37517 has finished
+Enter the number of child processes to create: Child process with PID: 37518 and Parent PID: 36608 is starting
+Child process with PID: 37518 has finished
+Enter the number of child processes to create: Child process with PID: 37520 and Parent PID: 36608 is starting
+Child process with PID: 37520 has finished
+Enter the number of child processes to create: Child process with PID: 37519 and Parent PID: 36608 is starting
+Child process with PID: 37519 has finished
+Enter the number of child processes to create: Child process with PID: 37521 and Parent PID: 36608 is starting
+Child process with PID: 37521 has finished
+Enter the number of child processes to create: Child process with PID: 37522 and Parent PID: 36608 is starting
+Child process with PID: 37522 has finished
+Enter the number of child processes to create: Child process with PID: 37524 and Parent PID: 36608 is starting
+Child process with PID: 37524 has finished
+Enter the number of child processes to create: Child process with PID: 37523 and Parent PID: 36608 is starting
+Child process with PID: 37523 has finished
+Enter the number of child processes to create: Child process with PID: 37525 and Parent PID: 36608 is starting
+Child process with PID: 37525 has finished
+Enter the number of child processes to create: Child process with PID: 37526 and Parent PID: 36608 is starting
+Child process with PID: 37526 has finished
+Enter the number of child processes to create: Child process with PID: 37527 and Parent PID: 36608 is starting
+Child process with PID: 37527 has finished
+Enter the number of child processes to create: Child process with PID: 37528 and Parent PID: 36608 is starting
+Child process with PID: 37528 has finished
+Enter the number of child processes to create: Child process with PID: 37530 and Parent PID: 36608 is starting
+Child process with PID: 37530 has finished
+Enter the number of child processes to create: Child process with PID: 37529 and Parent PID: 36608 is starting
+Child process with PID: 37529 has finished
+Enter the number of child processes to create: Child process with PID: 37531 and Parent PID: 36608 is starting
+Child process with PID: 37531 has finished
+Enter the number of child processes to create: Child process with PID: 37532 and Parent PID: 36608 is starting
+Child process with PID: 37532 has finished
+Enter the number of child processes to create: Child process with PID: 37534 and Parent PID: 36608 is starting
+Child process with PID: 37534 has finished
+Enter the number of child processes to create: Child process with PID: 37533 and Parent PID: 36608 is starting
+Child process with PID: 37533 has finished
+Enter the number of child processes to create: Child process with PID: 37535 and Parent PID: 36608 is starting
+Child process with PID: 37535 has finished
+Enter the number of child processes to create: Child process with PID: 37538 and Parent PID: 36608 is starting
+Child process with PID: 37538 has finished
+Enter the number of child processes to create: Child process with PID: 37539 and Parent PID: 36608 is starting
+Child process with PID: 37539 has finished
+Enter the number of child processes to create: Child process with PID: 37536 and Parent PID: 36608 is starting
+Child process with PID: 37536 has finished
+Enter the number of child processes to create: Child process with PID: 37537 and Parent PID: 36608 is starting
+Child process with PID: 37537 has finished
+Enter the number of child processes to create: Child process with PID: 37541 and Parent PID: 36608 is starting
+Child process with PID: 37541 has finished
+Enter the number of child processes to create: Child process with PID: 37540 and Parent PID: 36608 is starting
+Child process with PID: 37540 has finished
+Enter the number of child processes to create: Child process with PID: 37542 and Parent PID: 36608 is starting
+Child process with PID: 37542 has finished
+Enter the number of child processes to create: Child process with PID: 37543 and Parent PID: 36608 is starting
+Child process with PID: 37543 has finished
+Enter the number of child processes to create: Child process with PID: 37544 and Parent PID: 36608 is starting
+Child process with PID: 37544 has finished
+Enter the number of child processes to create: Child process with PID: 37546 and Parent PID: 36608 is starting
+Child process with PID: 37546 has finished
+Enter the number of child processes to create: Child process with PID: 37548 and Parent PID: 36608 is starting
+Child process with PID: 37548 has finished
+Enter the number of child processes to create: Child process with PID: 37545 and Parent PID: 36608 is starting
+Child process with PID: 37545 has finished
+Enter the number of child processes to create: Child process with PID: 37547 and Parent PID: 36608 is starting
+Child process with PID: 37547 has finished
+Enter the number of child processes to create: Child process with PID: 37550 and Parent PID: 36608 is starting
+Child process with PID: 37550 has finished
+Enter the number of child processes to create: Child process with PID: 37549 and Parent PID: 36608 is starting
+Child process with PID: 37549 has finished
+Enter the number of child processes to create: Child process with PID: 37552 and Parent PID: 36608 is starting
+Child process with PID: 37552 has finished
+Enter the number of child processes to create: Child process with PID: 37553 and Parent PID: 36608 is starting
+Child process with PID: 37553 has finished
+Enter the number of child processes to create: Child process with PID: 37551 and Parent PID: 36608 is starting
+Child process with PID: 37551 has finished
+Enter the number of child processes to create: Child process with PID: 37554 and Parent PID: 36608 is starting
+Child process with PID: 37554 has finished
+Enter the number of child processes to create: Child process with PID: 37555 and Parent PID: 36608 is starting
+Child process with PID: 37555 has finished
+Enter the number of child processes to create: Child process with PID: 37556 and Parent PID: 36608 is starting
+Child process with PID: 37556 has finished
+Enter the number of child processes to create: Child process with PID: 37558 and Parent PID: 36608 is starting
+Child process with PID: 37558 has finished
+Enter the number of child processes to create: Child process with PID: 37557 and Parent PID: 36608 is starting
+Child process with PID: 37557 has finished
+Enter the number of child processes to create: Child process with PID: 37559 and Parent PID: 36608 is starting
+Child process with PID: 37559 has finished
+Enter the number of child processes to create: Child process with PID: 37562 and Parent PID: 36608 is starting
+Child process with PID: 37562 has finished
+Enter the number of child processes to create: Child process with PID: 37560 and Parent PID: 36608 is starting
+Child process with PID: 37560 has finished
+Enter the number of child processes to create: Child process with PID: 37563 and Parent PID: 36608 is starting
+Child process with PID: 37563 has finished
+Enter the number of child processes to create: Child process with PID: 37561 and Parent PID: 36608 is starting
+Child process with PID: 37561 has finished
+Enter the number of child processes to create: Child process with PID: 37565 and Parent PID: 36608 is starting
+Child process with PID: 37565 has finished
+Enter the number of child processes to create: Child process with PID: 37564 and Parent PID: 36608 is starting
+Child process with PID: 37564 has finished
+Enter the number of child processes to create: Child process with PID: 37566 and Parent PID: 36608 is starting
+Child process with PID: 37566 has finished
+Enter the number of child processes to create: Child process with PID: 37567 and Parent PID: 36608 is starting
+Child process with PID: 37567 has finished
+Enter the number of child processes to create: Child process with PID: 37568 and Parent PID: 36608 is starting
+Child process with PID: 37568 has finished
+Enter the number of child processes to create: Child process with PID: 37571 and Parent PID: 36608 is starting
+Child process with PID: 37571 has finished
+Enter the number of child processes to create: Child process with PID: 37572 and Parent PID: 36608 is starting
+Child process with PID: 37572 has finished
+Enter the number of child processes to create: Child process with PID: 37569 and Parent PID: 36608 is starting
+Child process with PID: 37569 has finished
+Enter the number of child processes to create: Child process with PID: 37570 and Parent PID: 36608 is starting
+Child process with PID: 37570 has finished
+Enter the number of child processes to create: Child process with PID: 37573 and Parent PID: 36608 is starting
+Child process with PID: 37573 has finished
+Enter the number of child processes to create: Child process with PID: 37574 and Parent PID: 36608 is starting
+Child process with PID: 37574 has finished
+Enter the number of child processes to create: Child process with PID: 37576 and Parent PID: 36608 is starting
+Child process with PID: 37576 has finished
+Enter the number of child processes to create: Child process with PID: 37575 and Parent PID: 36608 is starting
+Child process with PID: 37575 has finished
+Enter the number of child processes to create: Child process with PID: 37577 and Parent PID: 36608 is starting
+Child process with PID: 37577 has finished
+Enter the number of child processes to create: Child process with PID: 37578 and Parent PID: 36608 is starting
+Child process with PID: 37578 has finished
+Enter the number of child processes to create: Child process with PID: 37580 and Parent PID: 36608 is starting
+Child process with PID: 37580 has finished
+Enter the number of child processes to create: Child process with PID: 37579 and Parent PID: 36608 is starting
+Child process with PID: 37579 has finished
+Enter the number of child processes to create: Child process with PID: 37581 and Parent PID: 36608 is starting
+Child process with PID: 37581 has finished
+Enter the number of child processes to create: Child process with PID: 37583 and Parent PID: 36608 is starting
+Child process with PID: 37583 has finished
+Enter the number of child processes to create: Child process with PID: 37584 and Parent PID: 36608 is starting
+Child process with PID: 37584 has finished
+Enter the number of child processes to create: Child process with PID: 37586 and Parent PID: 36608 is starting
+Child process with PID: 37586 has finished
+Enter the number of child processes to create: Child process with PID: 37582 and Parent PID: 36608 is starting
+Child process with PID: 37582 has finished
+Enter the number of child processes to create: Child process with PID: 37588 and Parent PID: 36608 is starting
+Child process with PID: 37588 has finished
+Enter the number of child processes to create: Child process with PID: 37587 and Parent PID: 36608 is starting
+Child process with PID: 37587 has finished
+Enter the number of child processes to create: Child process with PID: 37589 and Parent PID: 36608 is starting
+Child process with PID: 37589 has finished
+Enter the number of child processes to create: Child process with PID: 37590 and Parent PID: 36608 is starting
+Child process with PID: 37590 has finished
+Enter the number of child processes to create: Child process with PID: 37585 and Parent PID: 36608 is starting
+Child process with PID: 37585 has finished
+Enter the number of child processes to create: Child process with PID: 37592 and Parent PID: 36608 is starting
+Child process with PID: 37592 has finished
+Enter the number of child processes to create: Child process with PID: 37591 and Parent PID: 36608 is starting
+Child process with PID: 37591 has finished
+Enter the number of child processes to create: Child process with PID: 37593 and Parent PID: 36608 is starting
+Child process with PID: 37593 has finished
+Enter the number of child processes to create: Child process with PID: 37594 and Parent PID: 36608 is starting
+Child process with PID: 37594 has finished
+Enter the number of child processes to create: Child process with PID: 37595 and Parent PID: 36608 is starting
+Child process with PID: 37595 has finished
+Enter the number of child processes to create: Child process with PID: 37596 and Parent PID: 36608 is starting
+Child process with PID: 37596 has finished
+Enter the number of child processes to create: Child process with PID: 37599 and Parent PID: 36608 is starting
+Child process with PID: 37599 has finished
+Enter the number of child processes to create: Child process with PID: 37600 and Parent PID: 36608 is starting
+Child process with PID: 37600 has finished
+Enter the number of child processes to create: Child process with PID: 37602 and Parent PID: 36608 is starting
+Child process with PID: 37602 has finished
+Enter the number of child processes to create: Child process with PID: 37597 and Parent PID: 36608 is starting
+Child process with PID: 37597 has finished
+Enter the number of child processes to create: Child process with PID: 37598 and Parent PID: 36608 is starting
+Child process with PID: 37598 has finished
+Enter the number of child processes to create: Child process with PID: 37601 and Parent PID: 36608 is starting
+Child process with PID: 37601 has finished
+Enter the number of child processes to create: Child process with PID: 37603 and Parent PID: 36608 is starting
+Child process with PID: 37603 has finished
+Enter the number of child processes to create: Child process with PID: 37604 and Parent PID: 36608 is starting
+Child process with PID: 37604 has finished
+Enter the number of child processes to create: Child process with PID: 37605 and Parent PID: 36608 is starting
+Child process with PID: 37605 has finished
+Enter the number of child processes to create: Child process with PID: 37606 and Parent PID: 36608 is starting
+Child process with PID: 37606 has finished
+Enter the number of child processes to create: Child process with PID: 37608 and Parent PID: 36608 is starting
+Child process with PID: 37608 has finished
+Enter the number of child processes to create: Child process with PID: 37607 and Parent PID: 36608 is starting
+Child process with PID: 37607 has finished
+Enter the number of child processes to create: All children have terminated. Parent process exiting.
