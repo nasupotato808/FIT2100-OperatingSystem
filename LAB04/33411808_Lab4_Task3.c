@@ -17,7 +17,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
-#include <time.h>
+// #include <time.h>
 
 // Struct to pass arguments to the thread function
 typedef struct {
@@ -26,7 +26,7 @@ typedef struct {
     int start_index; // the index in the array where this thread should start processing
     int chunk_size; // the bumber of elements this thread should process
     int *partial_sums;  // A shared array where the partial sum from each thread will be stored
-	pthread_mutex_t *mutex;
+	// pthread_mutex_t *mutex;
 } thread_args;
 
 // Thread function
@@ -42,14 +42,14 @@ void *partial_sum(void *args) {
         sum += targs->array[i];
     }
 
-	// lock the mutex before modifying the shared resource
-	pthread_mutex_lock(targs->mutex);
+	// // lock the mutex before modifying the shared resource
+	// pthread_mutex_lock(targs->mutex);
 
     // TODO: Store partial sum in partial_sums array
     targs->partial_sums[targs->thread_id] = sum;
     
-	// unlock the mutex after modification
-	pthread_mutex_unlock(targs->mutex);
+	// // unlock the mutex after modification
+	// pthread_mutex_unlock(targs->mutex);
     return NULL;
 }
 
@@ -71,7 +71,7 @@ int main(int argc, char *argv[]) {
     int *partial_sums = malloc(T * sizeof(int));
     pthread_t threads[T];
     thread_args targs[T];
-    pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
+    // pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
     // Initialize array with random integers
     srand(time(NULL));
     for (int i = 0; i < N; i++) {
@@ -85,7 +85,7 @@ int main(int argc, char *argv[]) {
         targs[i].start_index = i * (N / T);
         targs[i].chunk_size = N / T;
         targs[i].partial_sums = partial_sums;
-        targs[i].mutex = &mutex;
+        // targs[i].mutex = &mutex;
         pthread_create(&threads[i], NULL, partial_sum, &targs[i]);
     }
 	// wait for threads to finish
@@ -103,8 +103,8 @@ int main(int argc, char *argv[]) {
     // TODO: Print final sum
     printf("Final sum: %d\n", final_sum);
 
-	// clean up
-	pthread_mutex_destroy(&mutex);
+	// // clean up
+	// pthread_mutex_destroy(&mutex);
     free(array);
     free(partial_sums);
 
