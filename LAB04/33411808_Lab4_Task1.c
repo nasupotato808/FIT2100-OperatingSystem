@@ -42,11 +42,11 @@ int main(int argc, char *argv[]) {
 			exit(1);
 		}
 		fclose(file);
-		
+
 		// Execute the "cat" command to display contents of a file
 		execlp("cat", "cat", argv[2], NULL);
 		// If execlp failed
-		perror("Execlp command failed")
+		perror("Execlp command failed");
 		exit(1);
 	}
 
