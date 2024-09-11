@@ -41,6 +41,8 @@ int main(int argc, char *argv[]) {
 			perror("Failed to create or open file");
 			exit(1);
 		}
+		// Write some content to the file
+		fprintf(file, "This is a placeholder content.\n");
 		fclose(file);
 
 		// Execute the "cat" command to display contents of a file
