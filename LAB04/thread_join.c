@@ -7,8 +7,8 @@
 
 /* This function is to be executed by the new thread */
 void* print_hello(void* data) {
-  pthread_t tid = *data;   /* data received by thread */
-
+  //pthread_t tid = *data;   /* data received by thread */
+  pthread_t tid = *((pthread_t *)data);
   pthread_join(tid, NULL);            /* wait for thread: tid */
 
   printf("Hello from new thread %lu - got %lu\n", pthread_self(), tid);

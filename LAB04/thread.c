@@ -7,7 +7,8 @@
 
 /* This function is to be executed by the new thread */
 void* print_hello(void* data) {
-  long int my_data = *data; /* data received by thread */
+  //long int my_data = *data; /* data received by thread */
+  long int my_data = *((long int *)data); /* data received by thread */
 
   pthread_detach(pthread_self());
   printf("Hello from new thread - got %ld\n", my_data);
