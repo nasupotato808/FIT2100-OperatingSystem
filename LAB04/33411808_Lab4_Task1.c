@@ -24,7 +24,7 @@ int main(int argc, char *argv[]) {
 	} else if (pid == 0){
 		//In the child process
 		// execute the "date" command with format string
-		execlp("date", "date", "+%s", argv[1], NULL);
+		execlp("date", "date", argv[1], NULL);
 		// If execlp fails
 		perror("Execlp date command failed");
 		exit(1);
@@ -34,7 +34,15 @@ int main(int argc, char *argv[]) {
 		// Wait for the child to finish
 		int status;
 		waitpid(pid, &status, 0);
-
+		
+		// Ensure the file exists and is rewritten
+		FILE *file = fopen(argv[2], "w");
+		if (file == NULL) {
+			perror("Failed to create or open file");
+			exit(1);
+		}
+		fclose(file);
+		
 		// Execute the "cat" command to display contents of a file
 		execlp("cat", "cat", argv[2], NULL);
 		// If execlp failed
