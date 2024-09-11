@@ -3,10 +3,13 @@
 #include <unistd.h>
 #include <sys/types.h>
 
-int main(){
-	pid_t pid;
+int main(int argc, char *argv[]) {
+	if (argc != 3) {
+		printf("Usage: %s <date_format> <filename>\n", argv[0]);
+		exit(1);
+	}
 
-	pid = fork(); // Create a new process
+	pid_t pid = fork(); // Create a new process
 	
 	if ((pid < 0) {
 		perror("Fork failed");
@@ -14,19 +17,20 @@ int main(){
 	} else if (pid == 0){
 		//In the child process
 		// execute the "date" command with format string
-		execlp("date","date", "+%Y-%m-%d %H:%M:%S", NULL);
+		execlp("date", "date", "+%s", argv[1], NULL);
 		// If execlp fails
-		perror("Execlp date failed");
+		perror("Execlp date command failed");
 		exit(1);
 	} else {
 		// In the parent process
 		// Wait for the child to finish
-		wait(&status);
+		int status;
+		waitpid(pid, &status, 0);
 
 		// Execute the "cat" command to display contents of a file
-		execlp("cat", "cat", "sample.txt", NULL);
+		execlp("cat", "cat", argv[2], NULL);
 		// If execlp failed
-		perror("Execlp cat failed")
+		perror("Execlp command failed")
 		exit(1);
 	}
 

@@ -1,0 +1,33 @@
+# Analysis of Scheduling Program Behavior
+
+Based on the expected observations from running the scheduling program multiple times, here's an analysis of the process completion order and behavior:
+
+1. **Process Completion Order:**
+   The processes are unlikely to complete in the exact order they were initiated. This is due to the nature of operating system scheduling and the concurrent execution of child processes.
+
+2. **Reasons for Non-Sequential Completion:**
+   - **OS Scheduling:** The operating system's scheduler determines which process runs at any given time. It may not necessarily run processes in the order they were created.
+   - **Sleep Duration:** Each child process sleeps for 3 seconds, but the exact wake-up time can vary slightly due to system load and scheduling decisions.
+   - **System Resources:** Available CPU cores and current system load can affect how processes are scheduled and executed.
+
+3. **Consistency Across Runs:**
+   - You may notice that the order of process completion is not consistent across different runs, even with the same number of child processes.
+   - Process IDs (PIDs) will likely be different in each run, as they are assigned by the operating system based on availability.
+
+4. **Behavior with Different Numbers of Processes:**
+   - With 4 processes, you might see more consistent behavior if you have a quad-core CPU, as each process could potentially run on its own core.
+   - With 10 processes, especially on a system with fewer than 10 cores, you're more likely to see varied completion orders due to time-sharing between processes.
+
+5. **Parent Process Behavior:**
+   - The parent process creates all child processes in quick succession and then waits for all of them to complete.
+   - You'll notice that the "All children have terminated" message appears only after all child processes have finished.
+
+6. **Process ID Patterns:**
+   - Child process PIDs are typically sequential or close to sequential, as they're created one after another.
+   - However, the exact PIDs can vary between runs and depend on system activity.
+
+7. **Potential Variations:**
+   - On a heavily loaded system, you might observe more randomness in the completion order.
+   - On a lightly loaded system with many cores, the completion order might more closely match the creation order, especially with fewer processes.
+
+This behavior demonstrates key concepts in operating systems such as process scheduling, concurrency, and the non-deterministic nature of multi-process execution in a time-sharing environment.
