@@ -77,6 +77,13 @@ int main(int argc, char *argv[]) {
     for (int i = 0; i < N; i++) {
         array[i] = rand() % 100;
     }
+    
+    // Print the array
+    printf("Array elements:\n");
+    for (int i = 0; i < N; i++) {
+        printf("%d ", array[i]);
+    }
+    printf("\n");
 
     // Create threads
     for (int i = 0; i < T; i++) {
