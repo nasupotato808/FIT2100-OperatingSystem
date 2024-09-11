@@ -20,11 +20,11 @@
 
 // Struct to pass arguments to the thread function
 typedef struct {
-    int thread_id;
-    int *array;
-    int start_index;
-    int chunk_size;
-    int *partial_sums;
+    int thread_id; // the ID of the thread
+    int *array;     // A pointer to the shared array of integers
+    int start_index; // the index in the array where this thread should start processing
+    int chunk_size; // the bumber of elements this thread should process
+    int *partial_sums;  // A shared array where the partial sum from each thread will be stored
 } thread_args;
 
 // Thread function
@@ -52,8 +52,8 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    int N = atoi(argv[1]);
-    int T = atoi(argv[2]);
+    int N = atoi(argv[1]);  // Array size
+    int T = atoi(argv[2]);  // Number of threads
 
     if (N % T != 0) {
         printf("Array size must be evenly divisible by number of threads.\n");
@@ -64,8 +64,6 @@ int main(int argc, char *argv[]) {
     int *partial_sums = malloc(T * sizeof(int));
     pthread_t threads[T];
     thread_args targs[T];
-    threads = malloc(T * sizeof(pthread_t));
-    targs = malloc(T * sizeof(thread_args));
     
     // Initialize array with random integers
     srand(time(NULL));
@@ -84,6 +82,7 @@ int main(int argc, char *argv[]) {
     }
 
     // Wait for threads to finish
+    // main threa waits for all threads to finish
     for (int i = 0; i < T; i++) {
         pthread_join(threads[i], NULL);
     }
@@ -100,9 +99,6 @@ int main(int argc, char *argv[]) {
 
     free(array);
     free(partial_sums);
-    // free
-    free(threads);
-    free(targs);
 
     return 0;
 }

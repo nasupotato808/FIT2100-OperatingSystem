@@ -1,7 +1,13 @@
 /* Lab 4 Task 1 */
+/*
+* To compile the code: gcc -o task1 33411808_Lab4_Task1.c 
+* To run the code: ./task1 <date_format> <filename>
+* Example: ./task1 "+%Y-%m-%d" task1.txt
+*/
 #include <stdio.h>
 #include <unistd.h>
-#include <sys/types.h>
+#include <stdlib.h>
+#include <sys/wait.h>
 
 int main(int argc, char *argv[]) {
 	if (argc != 3) {
@@ -14,6 +20,7 @@ int main(int argc, char *argv[]) {
 	if ((pid < 0) {
 		perror("Fork failed");
 		exit(1);
+
 	} else if (pid == 0){
 		//In the child process
 		// execute the "date" command with format string
@@ -21,6 +28,7 @@ int main(int argc, char *argv[]) {
 		// If execlp fails
 		perror("Execlp date command failed");
 		exit(1);
+
 	} else {
 		// In the parent process
 		// Wait for the child to finish
