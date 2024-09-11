@@ -1,6 +1,6 @@
 /*
  * Author: Wong Jia Xuan
- * Student ID: [33411808
+ * Student ID: 33411808
  * Unit: FIT2100 Operating Systems
  * Description: This program demonstrates the use of threads for concurrent processing by dividing an array of integers into chunks, 
  * each processed by a separate thread to compute a partial sum, and then combining the partial sums to get the final sum.
@@ -85,6 +85,7 @@ int main(int argc, char *argv[]) {
         targs[i].start_index = i * (N / T);
         targs[i].chunk_size = N / T;
         targs[i].partial_sums = partial_sums;
+        targs[i].mutex = &mutex;
         pthread_create(&threads[i], NULL, partial_sum, &targs[i]);
     }
 	// wait for threads to finish
