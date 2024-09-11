@@ -17,7 +17,7 @@ int main(int argc, char *argv[]) {
 
 	pid_t pid = fork(); // Create a new process
 	
-	if ((pid < 0) {
+	if (pid < 0) {
 		perror("Fork failed");
 		exit(1);
 

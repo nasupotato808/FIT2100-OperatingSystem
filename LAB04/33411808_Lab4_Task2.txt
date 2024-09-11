@@ -22,9 +22,7 @@ Child process with PID: 36884 has finished
         - but it still occupies memory and other system resources allocated to it.
 
 
-7. Potential Variations:
-   - On a heavily loaded system, you might observe more randomness in the completion order.
-   - On a lightly loaded system with many cores, the completion order might more closely match the creation order, especially with fewer processes.
+
 
 
 
@@ -50,6 +48,80 @@ called with NULL, discard informaiton about the child's termination status
 
 
 Reference:
+1. 
+Enter the number of child processes to create: 4
+Child process with PID: 41205 and Parent PID: 41204 is starting
+Child process with PID: 41206 and Parent PID: 41204 is starting
+Child process with PID: 41207 and Parent PID: 41204 is starting
+Child process with PID: 41208 and Parent PID: 41204 is starting
+Child process with PID: 41205 has finished
+Child process with PID: 41206 has finished
+Child process with PID: 41207 has finished
+Child process with PID: 41208 has finished
+All children have terminated. Parent process exiting.
+2. 
+./task2
+Enter the number of child processes to create: 4
+Child process with PID: 41214 and Parent PID: 41212 is starting
+Child process with PID: 41215 and Parent PID: 41212 is starting
+Child process with PID: 41216 and Parent PID: 41212 is starting
+Child process with PID: 41217 and Parent PID: 41212 is starting
+Child process with PID: 41214 has finished
+Child process with PID: 41215 has finished
+Child process with PID: 41216 has finished
+Child process with PID: 41217 has finished
+All children have terminated. Parent process exiting.
+3.
+Enter the number of child processes to create: 10
+Child process with PID: 41220 and Parent PID: 41219 is starting
+Child process with PID: 41221 and Parent PID: 41219 is starting
+Child process with PID: 41222 and Parent PID: 41219 is starting
+Child process with PID: 41223 and Parent PID: 41219 is starting
+Child process with PID: 41224 and Parent PID: 41219 is starting
+Child process with PID: 41225 and Parent PID: 41219 is starting
+Child process with PID: 41226 and Parent PID: 41219 is starting
+Child process with PID: 41227 and Parent PID: 41219 is starting
+Child process with PID: 41228 and Parent PID: 41219 is starting
+Child process with PID: 41229 and Parent PID: 41219 is starting
+Child process with PID: 41220 has finished
+Child process with PID: 41221 has finished
+Child process with PID: 41222 has finished
+Child process with PID: 41225 has finished
+Child process with PID: 41223 has finished
+Child process with PID: 41224 has finished
+Child process with PID: 41226 has finished
+Child process with PID: 41227 has finished
+Child process with PID: 41228 has finished
+Child process with PID: 41229 has finished
+All children have terminated. Parent process exiting.
+4. 
+./task2
+Enter the number of child processes to create: 10
+Child process with PID: 41234 and Parent PID: 41232 is starting
+Child process with PID: 41235 and Parent PID: 41232 is starting
+Child process with PID: 41236 and Parent PID: 41232 is starting
+Child process with PID: 41237 and Parent PID: 41232 is starting
+Child process with PID: 41238 and Parent PID: 41232 is starting
+Child process with PID: 41239 and Parent PID: 41232 is starting
+Child process with PID: 41240 and Parent PID: 41232 is starting
+Child process with PID: 41241 and Parent PID: 41232 is starting
+Child process with PID: 41242 and Parent PID: 41232 is starting
+Child process with PID: 41243 and Parent PID: 41232 is starting
+Child process with PID: 41234 has finished
+Child process with PID: 41235 has finished
+Child process with PID: 41236 has finished
+Child process with PID: 41237 has finished
+Child process with PID: 41238 has finished
+Child process with PID: 41239 has finished
+Child process with PID: 41240 has finished
+Child process with PID: 41241 has finished
+Child process with PID: 41242 has finished
+Child process with PID: 41243 has finished
+All children have terminated. Parent process exiting.
+
+
+
+
 n = 100:
 Enter the number of child processes to create: 100
 Child process with PID: 36397 and Parent PID: 36396 is starting

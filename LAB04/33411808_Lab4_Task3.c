@@ -36,6 +36,8 @@ void *partial_sum(void *args) {
     int end = start + targs->chunk_size;
     int sum = 0;
     
+    // Simulating some delay in the thread to see the effect of pthread_join
+    printf("Thread %d started\n", targs->thread_id);
     // Compute partial sum for this thread's chunk
     for (int i = start; i < end; i++) {
         // TODO: Compute partial sum
@@ -77,7 +79,7 @@ int main(int argc, char *argv[]) {
     for (int i = 0; i < N; i++) {
         array[i] = rand() % 100;
     }
-    
+
     // Print the array
     printf("Array elements:\n");
     for (int i = 0; i < N; i++) {
@@ -98,6 +100,12 @@ int main(int argc, char *argv[]) {
 	// wait for threads to finish
     for (int i = 0; i < T; i++) {
         pthread_join(threads[i], NULL);
+    }
+
+    // Print partial sums for each thread
+    printf("Partial sums:\n");
+    for (int i = 0; i < T; i++) {
+        printf("Thread %d partial sum: %d\n", i, partial_sums[i]);
     }
 
     // TODO: Compute final sum
