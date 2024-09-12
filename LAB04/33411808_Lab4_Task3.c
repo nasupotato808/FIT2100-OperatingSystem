@@ -8,7 +8,7 @@
  * Each thread computes the sum of its chunk of the array and stores the result in a shared array of partial sums. 
  * The main thread then computes the final sum by adding up the partial sums.
  *
- * Compiling: gcc -o sum sum.c -lpthread
+ * Compiling: gcc -o sum 33411808_Lab4_Task3.c -lpthread
  * Running: ./sum <array_size> <num_threads>
  * Example: ./sum 1000 4
  */

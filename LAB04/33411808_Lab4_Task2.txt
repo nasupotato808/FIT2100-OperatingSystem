@@ -1,25 +1,17 @@
 /* Lab 4 Task 2*/
 1. The processes are unlikely to complete in the exact order they were initiated. This is due to the nature of operating system schedulling and the concurrent execution of child processes.
--  
-Child process with PID: 36882 has finished
-Enter the number of child processes to create: Child process with PID: 36883 and Parent PID: 36608 is starting
-Child process with PID: 36883 has finished
-Enter the number of child processes to create: Child process with PID: 36886 and Parent PID: 36608 is starting
-Child process with PID: 36886 has finished
-Enter the number of child processes to create: Child process with PID: 36885 and Parent PID: 36608 is starting
-Child process with PID: 36885 has finished
-Enter the number of child processes to create: Child process with PID: 36881 and Parent PID: 36608 is starting
-Child process with PID: 36881 has finished
-Enter the number of child processes to create: Child process with PID: 36884 and Parent PID: 36608 is starting
-Child process with PID: 36884 has finished
-
-2. Reason for Non-Sequential Completion:
+2. During executing 
+	- The child PID came after the parent PID
+	- The child PID and parent PID are printed together before stating the child process finished. (because of sleep)
+	
+3. Reason for Non-Sequential Completion:
 - OS scheduling: The operating system's scheduler determines the process.
     - Sleep:
         - simulates some form of work or processing time for each child process
         - the process is in a blocked state
         - not consume CPU time, allowing other process to run
         - but it still occupies memory and other system resources allocated to it.
+		- if the sleep is removed, same as lab03, some child process might finished earlier
 
 
 

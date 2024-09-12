@@ -19,7 +19,7 @@ int main() {
             // Child process
             printf("Child process with PID: %d and Parent PID: %d is starting\n", getpid(), getppid());
             // Simulating some work by sleeping for a fixed time
-            sleep(3);
+            sleep(30);
             printf("Child process with PID: %d has finished\n", getpid());
             exit(0);
         } else {
