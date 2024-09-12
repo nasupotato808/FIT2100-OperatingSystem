@@ -1,24 +1,34 @@
 /* Lab 4 Task 2*/
-1. The processes are unlikely to complete in the exact order they were initiated. This is due to the nature of operating system schedulling and the concurrent execution of child processes.
-2. During executing 
-	- The child PID came after the parent PID
-	- The child PID and parent PID are printed together before stating the child process finished. (because of sleep)
-	
-3. Reason for Non-Sequential Completion:
-- OS scheduling: The operating system's scheduler determines the process.
-    - Sleep:
-        - simulates some form of work or processing time for each child process
-        - the process is in a blocked state
-        - not consume CPU time, allowing other process to run
-        - but it still occupies memory and other system resources allocated to it.
-		- if the sleep is removed, same as lab03, some child process might finished earlier
+1. Process Completion Order:
+   The processes are unlikely to complete in the exact order they were initiated. This is due to the nature of operating system scheduling and the concurrent execution of child processes.
+
+2. Reasons for Non-Sequential Completion:
+   - OS Scheduling: The operating system's scheduler determines which process runs at any given time. It may not necessarily run processes in the order they were created.
+   - Sleep Duration: Each child process sleeps for 3 seconds, but the exact wake-up time can vary slightly due to system load and scheduling decisions.
+   - System Resources: Available CPU cores and current system load can affect how processes are scheduled and execute
+
+3. Consistency Across Runs:
+   - The order of process completion is not consistent across different runs, even with the same number of child processes.
+   - Process IDs (PIDs) will likely be different in each run, as they are assigned by the operating system based on availability.
+
+4. Behavior with Different Numbers of Processes:
+   - With 4 processes, more consistent behavior if the system have a quad-core CPU, as each process could potentially run on its own core.
+   - With 10 processes, especially on a system with fewer than 10 cores, more likely to see varied completion orders due to time-sharing between processes.
+
+5. Parent Process Behavior:
+   - The parent process creates all child processes in quick succession and then waits for all of them to complete.
+   - "All children have terminated" message appears only after all child processes have finished.
+
+6. Process ID Patterns:
+   - Child process PIDs are typically sequential or close to sequential, as they're created one after another.
+   - However, the exact PIDs can vary between runs and depend on system activity.
+
+7. Potential Variations:
+   - On a heavily loaded system (n = 10000), more randomness in the completion order.
+   - On a lightly loaded system with many cores, the completion order might more closely match the creation order, especially with fewer processes.
 
 
 
-
-
-
-(echo "4" | ./scheduling) > scheduling_output.txt 2>&1
 Code:
 if pid < 0, exit with a false value
 In the first for loop, the parent forks multiple child according to user input.
@@ -34,9 +44,12 @@ wait(NULL) function call is used in the parent process to wait for child process
 pid wait(int *status)
 called with NULL, discard informaiton about the child's termination status
 
-
-
-
+- Sleep:
+      - simulates some form of work or processing time for each child process
+      - the process is in a blocked state
+      - not consume CPU time, allowing other process to run
+      - but it still occupies memory and other system resources allocated to it.
+   - if the sleep is removed, same as lab03, some child process might finished earlier
 
 
 Reference:
@@ -110,265 +123,5 @@ Child process with PID: 41241 has finished
 Child process with PID: 41242 has finished
 Child process with PID: 41243 has finished
 All children have terminated. Parent process exiting.
-
-
-
-
-n = 100:
-Enter the number of child processes to create: 100
-Child process with PID: 36397 and Parent PID: 36396 is starting
-Child process with PID: 36398 and Parent PID: 36396 is starting
-Child process with PID: 36399 and Parent PID: 36396 is starting
-Child process with PID: 36400 and Parent PID: 36396 is starting
-Child process with PID: 36401 and Parent PID: 36396 is starting
-Child process with PID: 36403 and Parent PID: 36396 is starting
-Child process with PID: 36404 and Parent PID: 36396 is starting
-Child process with PID: 36405 and Parent PID: 36396 is starting
-Child process with PID: 36407 and Parent PID: 36396 is starting
-Child process with PID: 36408 and Parent PID: 36396 is starting
-Child process with PID: 36409 and Parent PID: 36396 is starting
-Child process with PID: 36402 and Parent PID: 36396 is starting
-Child process with PID: 36406 and Parent PID: 36396 is starting
-Child process with PID: 36411 and Parent PID: 36396 is starting
-Child process with PID: 36410 and Parent PID: 36396 is starting
-Child process with PID: 36412 and Parent PID: 36396 is starting
-Child process with PID: 36414 and Parent PID: 36396 is starting
-Child process with PID: 36415 and Parent PID: 36396 is starting
-Child process with PID: 36413 and Parent PID: 36396 is starting
-Child process with PID: 36417 and Parent PID: 36396 is starting
-Child process with PID: 36416 and Parent PID: 36396 is starting
-Child process with PID: 36418 and Parent PID: 36396 is starting
-Child process with PID: 36419 and Parent PID: 36396 is starting
-Child process with PID: 36421 and Parent PID: 36396 is starting
-Child process with PID: 36420 and Parent PID: 36396 is starting
-Child process with PID: 36422 and Parent PID: 36396 is starting
-Child process with PID: 36423 and Parent PID: 36396 is starting
-Child process with PID: 36424 and Parent PID: 36396 is starting
-Child process with PID: 36425 and Parent PID: 36396 is starting
-Child process with PID: 36428 and Parent PID: 36396 is starting
-Child process with PID: 36427 and Parent PID: 36396 is starting
-Child process with PID: 36426 and Parent PID: 36396 is starting
-Child process with PID: 36429 and Parent PID: 36396 is starting
-Child process with PID: 36430 and Parent PID: 36396 is starting
-Child process with PID: 36431 and Parent PID: 36396 is starting
-Child process with PID: 36433 and Parent PID: 36396 is starting
-Child process with PID: 36434 and Parent PID: 36396 is starting
-Child process with PID: 36432 and Parent PID: 36396 is starting
-Child process with PID: 36436 and Parent PID: 36396 is starting
-Child process with PID: 36435 and Parent PID: 36396 is starting
-Child process with PID: 36439 and Parent PID: 36396 is starting
-Child process with PID: 36437 and Parent PID: 36396 is starting
-Child process with PID: 36438 and Parent PID: 36396 is starting
-Child process with PID: 36440 and Parent PID: 36396 is starting
-Child process with PID: 36441 and Parent PID: 36396 is starting
-Child process with PID: 36442 and Parent PID: 36396 is starting
-Child process with PID: 36443 and Parent PID: 36396 is starting
-Child process with PID: 36446 and Parent PID: 36396 is starting
-Child process with PID: 36444 and Parent PID: 36396 is starting
-Child process with PID: 36445 and Parent PID: 36396 is starting
-Child process with PID: 36447 and Parent PID: 36396 is starting
-Child process with PID: 36448 and Parent PID: 36396 is starting
-Child process with PID: 36451 and Parent PID: 36396 is starting
-Child process with PID: 36449 and Parent PID: 36396 is starting
-Child process with PID: 36450 and Parent PID: 36396 is starting
-Child process with PID: 36452 and Parent PID: 36396 is starting
-Child process with PID: 36453 and Parent PID: 36396 is starting
-Child process with PID: 36454 and Parent PID: 36396 is starting
-Child process with PID: 36456 and Parent PID: 36396 is starting
-Child process with PID: 36455 and Parent PID: 36396 is starting
-Child process with PID: 36457 and Parent PID: 36396 is starting
-Child process with PID: 36458 and Parent PID: 36396 is starting
-Child process with PID: 36459 and Parent PID: 36396 is starting
-Child process with PID: 36460 and Parent PID: 36396 is starting
-Child process with PID: 36461 and Parent PID: 36396 is starting
-Child process with PID: 36462 and Parent PID: 36396 is starting
-Child process with PID: 36463 and Parent PID: 36396 is starting
-Child process with PID: 36464 and Parent PID: 36396 is starting
-Child process with PID: 36465 and Parent PID: 36396 is starting
-Child process with PID: 36467 and Parent PID: 36396 is starting
-Child process with PID: 36466 and Parent PID: 36396 is starting
-Child process with PID: 36469 and Parent PID: 36396 is starting
-Child process with PID: 36468 and Parent PID: 36396 is starting
-Child process with PID: 36470 and Parent PID: 36396 is starting
-Child process with PID: 36471 and Parent PID: 36396 is starting
-Child process with PID: 36473 and Parent PID: 36396 is starting
-Child process with PID: 36472 and Parent PID: 36396 is starting
-Child process with PID: 36475 and Parent PID: 36396 is starting
-Child process with PID: 36474 and Parent PID: 36396 is starting
-Child process with PID: 36476 and Parent PID: 36396 is starting
-Child process with PID: 36477 and Parent PID: 36396 is starting
-Child process with PID: 36481 and Parent PID: 36396 is starting
-Child process with PID: 36483 and Parent PID: 36396 is starting
-Child process with PID: 36480 and Parent PID: 36396 is starting
-Child process with PID: 36482 and Parent PID: 36396 is starting
-Child process with PID: 36484 and Parent PID: 36396 is starting
-Child process with PID: 36478 and Parent PID: 36396 is starting
-Child process with PID: 36479 and Parent PID: 36396 is starting
-Child process with PID: 36486 and Parent PID: 36396 is starting
-Child process with PID: 36487 and Parent PID: 36396 is starting
-Child process with PID: 36485 and Parent PID: 36396 is starting
-Child process with PID: 36489 and Parent PID: 36396 is starting
-Child process with PID: 36490 and Parent PID: 36396 is starting
-Child process with PID: 36488 and Parent PID: 36396 is starting
-Child process with PID: 36491 and Parent PID: 36396 is starting
-Child process with PID: 36493 and Parent PID: 36396 is starting
-Child process with PID: 36492 and Parent PID: 36396 is starting
-Child process with PID: 36495 and Parent PID: 36396 is starting
-Child process with PID: 36494 and Parent PID: 36396 is starting
-Child process with PID: 36496 and Parent PID: 36396 is starting
-Child process with PID: 36397 has finished
-Child process with PID: 36398 has finished
-Child process with PID: 36399 has finished
-Child process with PID: 36400 has finished
-Child process with PID: 36401 has finished
-Child process with PID: 36405 has finished
-Child process with PID: 36402 has finished
-Child process with PID: 36404 has finished
-Child process with PID: 36403 has finished
-Child process with PID: 36407 has finished
-Child process with PID: 36409 has finished
-Child process with PID: 36408 has finished
-Child process with PID: 36406 has finished
-Child process with PID: 36410 has finished
-Child process with PID: 36411 has finished
-Child process with PID: 36412 has finished
-Child process with PID: 36413 has finished
-Child process with PID: 36415 has finished
-Child process with PID: 36414 has finished
-Child process with PID: 36417 has finished
-Child process with PID: 36416 has finished
-Child process with PID: 36418 has finished
-Child process with PID: 36419 has finished
-Child process with PID: 36421 has finished
-Child process with PID: 36420 has finished
-Child process with PID: 36422 has finished
-Child process with PID: 36423 has finished
-Child process with PID: 36424 has finished
-Child process with PID: 36425 has finished
-Child process with PID: 36428 has finished
-Child process with PID: 36427 has finished
-Child process with PID: 36426 has finished
-Child process with PID: 36429 has finished
-Child process with PID: 36430 has finished
-Child process with PID: 36431 has finished
-Child process with PID: 36433 has finished
-Child process with PID: 36434 has finished
-Child process with PID: 36432 has finished
-Child process with PID: 36435 has finished
-Child process with PID: 36436 has finished
-Child process with PID: 36439 has finished
-Child process with PID: 36438 has finished
-Child process with PID: 36437 has finished
-Child process with PID: 36440 has finished
-Child process with PID: 36441 has finished
-Child process with PID: 36442 has finished
-Child process with PID: 36443 has finished
-Child process with PID: 36446 has finished
-Child process with PID: 36445 has finished
-Child process with PID: 36444 has finished
-Child process with PID: 36447 has finished
-Child process with PID: 36448 has finished
-Child process with PID: 36451 has finished
-Child process with PID: 36449 has finished
-Child process with PID: 36450 has finished
-Child process with PID: 36452 has finished
-Child process with PID: 36453 has finished
-Child process with PID: 36454 has finished
-Child process with PID: 36456 has finished
-Child process with PID: 36455 has finished
-Child process with PID: 36457 has finished
-Child process with PID: 36458 has finished
-Child process with PID: 36459 has finished
-Child process with PID: 36460 has finished
-Child process with PID: 36461 has finished
-Child process with PID: 36462 has finished
-Child process with PID: 36463 has finished
-Child process with PID: 36464 has finished
-Child process with PID: 36465 has finished
-Child process with PID: 36467 has finished
-Child process with PID: 36466 has finished
-Child process with PID: 36469 has finished
-Child process with PID: 36470 has finished
-Child process with PID: 36468 has finished
-Child process with PID: 36471 has finished
-Child process with PID: 36473 has finished
-Child process with PID: 36472 has finished
-Child process with PID: 36475 has finished
-Child process with PID: 36474 has finished
-Child process with PID: 36476 has finished
-Child process with PID: 36477 has finished
-Child process with PID: 36481 has finished
-Child process with PID: 36483 has finished
-Child process with PID: 36480 has finished
-Child process with PID: 36482 has finished
-Child process with PID: 36478 has finished
-Child process with PID: 36484 has finished
-Child process with PID: 36479 has finished
-Child process with PID: 36486 has finished
-Child process with PID: 36487 has finished
-Child process with PID: 36485 has finished
-Child process with PID: 36489 has finished
-Child process with PID: 36488 has finished
-Child process with PID: 36490 has finished
-Child process with PID: 36491 has finished
-Child process with PID: 36492 has finished
-Child process with PID: 36495 has finished
-Child process with PID: 36493 has finished
-Child process with PID: 36494 has finished
-Child process with PID: 36496 has finished
-All children have terminated. Parent process exiting.
-
-n = 1000:
-Child process with PID: 31781 and Parent PID: 31069 is starting
-Child process with PID: 31782 and Parent PID: 31069 is starting
-Child process with PID: 31783 and Parent PID: 31069 is starting
-Child process with PID: 31784 and Parent PID: 31069 is starting
-Child process with PID: 31785 and Parent PID: 31069 is starting
-Child process with PID: 31786 and Parent PID: 31069 is starting
-Child process with PID: 31787 and Parent PID: 31069 is starting
-Child process with PID: 31788 and Parent PID: 31069 is starting
-Child process with PID: 31789 and Parent PID: 31069 is starting
-Child process with PID: 31790 and Parent PID: 31069 is starting
-Child process with PID: 31791 and Parent PID: 31069 is starting
-Child process with PID: 31080 has finished
-Child process with PID: 31792 and Parent PID: 31069 is starting
-Child process with PID: 31070 has finished
-Child process with PID: 31072 has finished
-Child process with PID: 31073 has finished
-Child process with PID: 31074 has finished
-Child process with PID: 31075 has finished
-Child process with PID: 31076 has finished
-Child process with PID: 31077 has finished
-Child process with PID: 31078 has finished
-Child process with PID: 31081 has finished
-Child process with PID: 31071 has finished
-Child process with PID: 31079 has finished
-Child process with PID: 31793 and Parent PID: 31069 is starting
-Child process with PID: 31794 and Parent PID: 31069 is starting
-
-1. **Process Completion Order:**
-   The processes are unlikely to complete in the exact order they were initiated. This is due to the nature of operating system scheduling and the concurrent execution of child processes.
-
-2. **Reasons for Non-Sequential Completion:**
-   - **OS Scheduling:** 
-3. **Consistency Across Runs:**
-   - You may notice that the order of process completion is not consistent across different runs, even with the same number of child processes.
-   - Process IDs (PIDs) will likely be different in each run, as they are assigned by the operating system based on availability.
-
-4. **Behavior with Different Numbers of Processes:**
-   - With 4 processes, you might see more consistent behavior if you have a quad-core CPU, as each process could potentially run on its own core.
-   - With 10 processes, especially on a system with fewer than 10 cores, you're more likely to see varied completion orders due to time-sharing between processes.
-
-5. **Parent Process Behavior:**
-   - The parent process creates all child processes in quick succession and then waits for all of them to complete.
-   - You'll notice that the "All children have terminated" message appears only after all child processes have finished.
-
-6. **Process ID Patterns:**
-   - Child process PIDs are typically sequential or close to sequential, as they're created one after another.
-   - However, the exact PIDs can vary between runs and depend on system activity.
-
-7. **Potential Variations:**
-   - On a heavily loaded system, you might observe more randomness in the completion order.
-   - On a lightly loaded system with many cores, the completion order might more closely match the creation order, especially with fewer processes.
 
 This behavior demonstrates key concepts in operating systems such as process scheduling, concurrency, and the non-deterministic nature of multi-process execution in a time-sharing environment.
