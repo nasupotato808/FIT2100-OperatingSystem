@@ -1,3 +1,10 @@
+- Try running the fork program several times. What can you say about the output?
+The output is not consistent.
+
+- What has happened to the pattern of executions of the two processes?
+The original one affect lesser than dropping one zero.
+
+- Does this result in anything different?
 1. Initial observations (j < 1,000,000):
 The output shows frequent interleaving between parent (P) and child (C) processes. The order of execution is not consistent and varies between runs,
 demonstrating the non-deterministic nature of process scheduling.
@@ -7,19 +14,28 @@ There's still interleaving, but slightly longer sequences of consecutive P or C 
 The pattern remains largely unpredictable.
 
 3. Dropping zeros until 100:
-- At 10,000: Longer sequences of one process executing before switching are observed.
+  - At 10,000: Longer sequences of one process executing before switching are observed.
 - At 1,000 and 100: The processes run almost entirely sequentially, with all parent messages followed by all child messages.
 
 4. Increasing to 10,000,000 or 100,000,000:
-- At 10,000,000: The interleaving becomes more frequent and consistent.
-- At 100,000,000: Very consistent alternation between P and C, almost perfect interleaving.
+  - At 10,000,000: The interleaving becomes more frequent and consistent.
+  - At 100,000,000: Very consistent alternation between P and C, almost perfect interleaving.
 
 5. 
-- At j < 100,000 and j < 1,000,000: There's frequent interleaving, with no clear pattern of 4 consecutive messages from one process.
-- At j < 10,000: We start to see longer sequences, but not consistently 4 at a time.
-- At j < 1,000 and j < 100: The processes run almost entirely sequentially, with all parent messages followed by all child messages.
-- The ideal limit for "4 values at a time" would be somewhere between 10,000 and 1,000. 
-- j < 4000
+  - At j < 100,000 and j < 1,000,000: There's frequent interleaving, with no clear pattern of 4 consecutive messages from one process.
+  - At j < 10,000: We start to see longer sequences, but not consistently 4 at a time.
+  - At j < 1,000 and j < 100: The processes run almost entirely sequentially, with all parent messages followed by all child messages.
+  - j < 100 : The parent process keep fork the child but the child hasn't finished yet.
+
+- Find a value for the limit
+The ideal limit for "4 values at a time" would be somewhere between 10,000 and 1,000. 
+j < 4000
+
+What differences in the output do you notice?
+- adding sleep is much more stable, before adding sleep it is not so stable.
+- for adding sleep(2), waiting for 2 seconds then two lines will output, just few child not follow their parent.
+
+The delay and sleep are the time for giving child process have the priority to complete.
 
 below is testing record for reference
 ./fork
