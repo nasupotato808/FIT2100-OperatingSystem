@@ -1,0 +1,94 @@
+Lab5-Task1.txt
+
+1. Analyze and explain the reason for different outputs in each run. 
+Race condition, the programme does not use any synchronizatio mechanisms like mutexes to control
+access to the shared variable "counter".
+
+In race condition, two or more threads access shared data and try to change it at the same time without
+synchronization -> leading to unpredictable outcomes
+- Both threads execute concurrently, when each thread updates "counter", it performs:
+1. Load the value of "counter" in to a local variable (e.g., "temp").
+2. Increment the local variable (temp = temp + 1)
+3. Store the incremented value back into "counter"
+
+Without synchronization, it can overlap in time, means that one thread can overwrite the changes of the other threads.
+Examples:
+1. Thread 1 reads the value of "counter"
+2. Thread 2 reads the same value before Thread 1 stores its updates
+3. Both threads increment the same old value and store it, only one increment instead of two.
+-> same results are missed.
+
+2. Based on your understanding and the results you observed, can you identify a possible 
+range for the final value of the ‘counter‘ variable? Explain your reasoning.
+Theoretical final value of "counter" should be
+2 * NUM_ITERATIONS = 2 * 1000000 = 2000000. Due to race conditions, some increments are lost, the actual value is less than 2000000
+
+Lower Bound:
+- Worst case: one thread may overwrite almost all the increments of the other thread
+- Minimum value of "counter" would happen if only one thread effectively increments the counter: 1000000
+Upper Bound:
+- Best case: fewer increments are lost due to lost conditions, final value of "counter" will be closer to the expected value:2000000
+- Maximum value of "counter" won't ever reach exactly 2000000: the maximum value is slightly less than 2000000
+
+Observation
+Based on the results:
+- Lowest: 1003014
+- Highest: 1048941
+The possible range for counter is 1000000 to 1050000
+
+
+
+Task:
+In this task, you will analyze a C program that has a race condition because it does not use
+any mutexes or other synchronization mechanisms. The program creates two threads that
+increments a shared variable counter a million times.
+Result:
+1st
+Thread 0 finished. Counter = 997226
+Thread 1 finished. Counter = 1008058
+Final value of counter: 1008058
+
+2nd
+Thread 0 finished. Counter = 998920
+Thread 1 finished. Counter = 1003014
+Final value of counter: 1003014
+
+3rd
+Thread 0 finished. Counter = 1029284
+Thread 1 finished. Counter = 1039993
+Final value of counter: 1039993
+
+4th
+Thread 1 finished. Counter = 1004903
+Thread 0 finished. Counter = 1032386
+Final value of counter: 1032386
+
+5th
+Thread 1 finished. Counter = 1000078
+Thread 0 finished. Counter = 1048941
+Final value of counter: 1048941
+
+6th
+Thread 1 finished. Counter = 995749
+Thread 0 finished. Counter = 1013800
+Final value of counter: 1013800
+
+7th
+Thread 1 finished. Counter = 1017668
+Thread 0 finished. Counter = 1022839
+Final value of counter: 1022839
+
+8th
+Thread 1 finished. Counter = 961299
+Thread 0 finished. Counter = 1037701
+Final value of counter: 1037701
+
+9th
+Thread 0 finished. Counter = 1015550
+Thread 1 finished. Counter = 1036180
+Final value of counter: 1036180
+
+10th
+Thread 0 finished. Counter = 992646
+Thread 1 finished. Counter = 1029817
+Final value of counter: 1029817
