@@ -22,16 +22,17 @@ void *deposit_money(void *args) {
     int deposit_amount = thread_args->deposit_amount;
     int num_deposits = thread_args->num_deposits;
 
-    for (int i = 0; i < num_deposits; i++){
+
     // TODO: Lock the mutex
     pthread_mutex_lock(&balance_mutex);
 
     // TODO: Deposit the specified amount into the account balance
-    account_balance += deposit_amount;
+    // Deposit the total amount into the account balance
+    account_balance += deposit_amount * num_deposits;
 
     // TODO: Unlock the mutex
     pthread_mutex_unlock(&balance_mutex);
-    }
+
 
     return NULL;
 }
