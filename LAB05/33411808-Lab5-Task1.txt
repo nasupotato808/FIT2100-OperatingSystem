@@ -26,6 +26,14 @@ Theoretical final value of "counter" should be
 Lower Bound:
 - Worst case: one thread may overwrite almost all the increments of the other thread
 - Minimum value of "counter" would happen if only one thread effectively increments the counter: 2
+
+The lower bound of 2 represents the worst-case scenario where:
+
+Thread 1 reads the initial counter value (0), increments it to 1, but hasn't written it back yet.
+Thread 2 reads the initial counter value (0), increments it to 1, and writes it back.
+Thread 1 then overwrites the counter with its value of 1.
+All other increments in both threads happen to read and write in such an unlucky way that no further updates are reflected in the final counter value.
+
 Upper Bound:
 - Best case: fewer increments are lost due to lost conditions, final value of "counter" will be closer to the expected value:2000000
 - Maximum value of "counter" won't ever reach exactly 2000000: the maximum value is slightly less than 2000000

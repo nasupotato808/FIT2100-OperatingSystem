@@ -22,7 +22,6 @@ void *deposit_money(void *args) {
     int deposit_amount = thread_args->deposit_amount;
     int num_deposits = thread_args->num_deposits;
 
-
     // TODO: Lock the mutex
     pthread_mutex_lock(&balance_mutex);
 
