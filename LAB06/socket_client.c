@@ -42,7 +42,7 @@ int main(int argc, char *argv[])
   * YOUR TASK:                                                                  *
   * Continuously read data from standard input and send the data to the socket. *
   ******************************************************************************/
-  while ((n = read(STDIN_FILENO, buffer, sizeof(buffer))) > 0) {
+  if((n = read(STDIN_FILENO, buffer, sizeof(buffer))) > 0) {
     if (write(sock, buffer, n) < 0) {
       perror("client: write");
       exit(1);
