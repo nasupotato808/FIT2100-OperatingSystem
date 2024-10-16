@@ -40,7 +40,12 @@ int main(int argc, char *argv[])
   * Create a new message queue.                                           *
   * Assume that the key defined in MSQKEY isn't in use by another process.*
   ************************************************************************/
-
+ // Create a new message queue
+  if ((msqid = msgget(key, IPC_CREAT | 0666)) < 0)
+  {
+    perror("server: msgget");
+    exit(1);
+  }
   /*
   * Receive messages from the queue. 
   * Messages of type 1 are to be printed on the standard output; 
