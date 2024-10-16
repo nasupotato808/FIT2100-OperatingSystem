@@ -1,5 +1,5 @@
 /* pipebox.c */
-
+// hello
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <unistd.h>
@@ -33,18 +33,22 @@ int main(int argc, char *argv[])
   {
     // Re-map file descriptor 0 (standard input)
     // to refer to the pipe resource.
-    dup2(pipefd[0], 0);
+    dup2(pipefd[0], 0); // redicrects its standard input to read end of the pipe using dup2()
     close(pipefd[1]);
 
-    execl("/usr/bin/xmessage", "xmessage", "-file", "-", NULL);
+    execl("/usr/bin/xmessage", "xmessage", "-file", "-", NULL);// execl() executes xmesssage command
     perror("exec");
     exit(127);
   }
 
+  /* Parent process sends the messsage to the child through a pipe.*/
+
   // The parent process is not reading from the pipe.
+  // pipefd[0] for reading
   close(pipefd[0]);
 
   // Write a message to the pipe.
+  // pipefd[1] for writing
   write(pipefd[1], "Greetings.\n\n", 12);
   write(pipefd[1], "This is your program saying hello.\n", 35);
   write(pipefd[1], "Hope you enjoy this week's prac.\n\n", 34);
