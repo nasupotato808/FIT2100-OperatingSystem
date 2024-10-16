@@ -53,6 +53,8 @@ int main(int argc, char *argv[])
   ***************************************************************************************/
     // Send a message of type 2 to indicate no more data
   mbuf.mtype = 2;
+  //mtext is another member of the msgbuf structure, defined as a character array (string).
+  //This line copies the string "No more data" into the mtext field of the message buffer.
   strcpy(mbuf.mtext, "No more data");
   
   if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0)

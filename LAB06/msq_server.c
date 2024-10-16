@@ -60,7 +60,7 @@ int main(int argc, char *argv[])
    
     if (mbuf.mtype == 1)
     {
-      printf("Received: %s\n", mbuf.mtext);
+      printf("Received: %s", mbuf.mtext);
     }
 
     if (mbuf.mtype == 2)
