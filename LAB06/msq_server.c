@@ -69,5 +69,12 @@ int main(int argc, char *argv[])
     }
   }
 
+  // Check for errors.
+  if (n<0)
+  {
+    perror("server: msgrcv");
+    exit(1);
+  }
+
   exit(0);
 }
