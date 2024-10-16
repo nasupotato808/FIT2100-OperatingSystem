@@ -1,5 +1,8 @@
 /* socket_server.c */
-
+/*
+* gcc -o socket_server socket_server.c
+gcc -o socket_client socket_client.c
+*/
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <sys/un.h>
@@ -20,6 +23,10 @@ int main(int argc, char *argv[])
   * YOUR TASK:                                              *
   * Create a new socket.                                    *
   **********************************************************/
+  if ((sock = socket(AF_UNIX, SOCK_STREAM, 0)) < 0) {
+    perror("server: socket");
+    exit(1);
+  }
 
   // Create the address of the server.
   memset(&name, 0, sizeof(struct sockaddr_un));
@@ -56,6 +63,17 @@ int main(int argc, char *argv[])
   * Read from the new socket until end-of-file and          *
   * print all the data received on the standard output.     *
   **********************************************************/
+  while ((n = read(nsock, buffer, sizeof(buffer))) > 0) {
+    if (write(STDOUT_FILENO, buffer, n) < 0) {
+      perror("server: write");
+      exit(1);
+    }
+  }
+
+  if (n < 0) {
+    perror("server: read");
+    exit(1);
+  }
 
   close(nsock);
   close(sock);

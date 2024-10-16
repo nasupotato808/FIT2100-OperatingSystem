@@ -1,5 +1,16 @@
 /* msq_server.c */
+/*
+gcc -o msq_server msq_server.c
+gcc -o msq_client msq_client.c
+Run the server program in one terminal：
+./msq_server
+Run the client program in another terminal:
+./msq_client
 
+Type messages in the client terminal. They will be sent to the server and displayed in the server terminal.
+
+Press Ctrl+D in the client terminal to end input and send the "no more data" message.
+*/
 #include <sys/types.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
@@ -41,6 +52,11 @@ int main(int argc, char *argv[])
     * YOUR TASK:                                                            *
     * Write messages of type 1 to standard output.                          *
     ************************************************************************/
+   
+    if (mbuf.mtype == 1)
+    {
+      printf("Received: %s", mbuf.mtext);
+    }
 
     if (mbuf.mtype == 2)
     {
@@ -50,6 +66,7 @@ int main(int argc, char *argv[])
         perror("server: msgctl");
         exit(1);
       }
+      break;
     }
   }
 
