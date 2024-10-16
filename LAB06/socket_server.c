@@ -63,6 +63,7 @@ int main(int argc, char *argv[])
   * Read from the new socket until end-of-file and          *
   * print all the data received on the standard output.     *
   **********************************************************/
+// Read from the new socket until end-of-file and print all data received
   while ((n = read(nsock, buffer, sizeof(buffer))) > 0) {
     if (write(STDOUT_FILENO, buffer, n) < 0) {
       perror("server: write");
