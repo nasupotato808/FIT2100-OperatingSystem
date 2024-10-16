@@ -55,7 +55,7 @@ int main(int argc, char *argv[])
    
     if (mbuf.mtype == 1)
     {
-      printf("Received: %s", mbuf.mtext);
+      printf("Received: %s\n", mbuf.mtext);
     }
 
     if (mbuf.mtype == 2)
@@ -66,7 +66,6 @@ int main(int argc, char *argv[])
         perror("server: msgctl");
         exit(1);
       }
-      break;
     }
   }
 
