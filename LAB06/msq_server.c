@@ -18,6 +18,7 @@ Press Ctrl+D in the client terminal to end input and send the "no more data" mes
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+#include <string.h>
 
 #define MSQKEY 34858
 #define MSQSIZE 32
