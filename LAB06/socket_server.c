@@ -1,7 +1,17 @@
 /* socket_server.c */
-/*
+/* FIT2100 Lab 6 - Task 2*/
+/*********************************
 * gcc -o socket_server socket_server.c
-gcc -o socket_client socket_client.c
+
+* Run the server program in one terminal:
+* ./socket_server
+
+* Run the client program in another terminal:
+* ./socket_client
+
+* Type messages in the client terminal. They will be sent to the server and displayed in the server terminal.
+
+* Press Ctrl+D or enter an empty line in the client terminal to end input and the connection.
 */
 #include <sys/types.h>
 #include <sys/socket.h>
@@ -71,6 +81,7 @@ int main(int argc, char *argv[])
     }
   }
 
+  
   if (n < 0) {
     perror("server: read");
     exit(1);
