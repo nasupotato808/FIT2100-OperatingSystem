@@ -53,7 +53,7 @@ int main(int argc, char *argv[])
     if (len == 0) {
       // Empty line, send as type 2 message
       mbuf.mtype = 2;
-      strcpy(mbuf.mtext, "Empty line");
+      strcpy(mbuf.mtext, "No more data");
     } else {
       // Non-empty line, send as type 1 message
       mbuf.mtype = 1;
