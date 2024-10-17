@@ -70,10 +70,8 @@ int main(int argc, char *argv[])
       printf("Received message (Type 1): %s\n", mbuf.mtext);
     } else if (mbuf.mtype == 2) {
       printf("Received message (Type 2): %s\n", mbuf.mtext);
-      if (strcmp(mbuf.mtext, "End of communication") == 0) {
-        printf("Client has ended communication. Closing server.\n");
-        break;
-      }
+      printf("No more messages. Closing server.\n");
+      break;
     } else {
       printf("Received unknown message type: %ld\n", mbuf.mtype);
     }

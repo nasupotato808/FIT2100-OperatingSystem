@@ -45,42 +45,31 @@ int main(int argc, char *argv[])
       len--;
     }
 
-    if (strcmp(input, "exit") == 0) {
-      printf("Exiting the program.\n");
-      break;
-    }
-
     if (len == 0) {
-      // Empty line, send as type 2 message
-      mbuf.mtype = 2;
-      strcpy(mbuf.mtext, "No more data");
+      // Empty line, break the loop
+      break;
     } else {
       // Non-empty line, send as type 1 message
       mbuf.mtype = 1;
       strncpy(mbuf.mtext, input, MSQSIZE);
+      if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
+        perror("client: msgsnd");
+        exit(1);
+      }
     }
-
-    if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
-      perror("client: msgsnd");
-      exit(1);
-    }
-
-    printf("Sent message: Type %ld, Content: %s\n", mbuf.mtype, mbuf.mtext);
   }
-
 
   /**************************************************************************************
   * YOUR TASK:                                                                          *
   * When an empty message is read, send a message of type 2 to indicate no more data.   *
   ***************************************************************************************/
   mbuf.mtype = 2;
-  strcpy(mbuf.mtext, "End of communication");
+  strcpy(mbuf.mtext, "No more data");
   if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
     perror("client: msgsnd");
     exit(1);
   }
-  printf("Sent final message: Type 2, Content: End of communication\n");
 
-  printf("Client finished.\n");
+  printf("Sent end message. Client finished.\n");
   exit(0);
 }
