@@ -55,34 +55,35 @@ int main(int argc, char *argv[])
   * Messages of type 1 are to be printed on the standard output; 
   * a message of type 2 indicates that no more data.
   */
-  while ((n = msgrcv(msqid, &mbuf, MSQSIZE, 0, 0)) > 0)
-  {
+  while (1) {
+    if ((n = msgrcv(msqid, &mbuf, MSQSIZE, 0, 0)) < 0) {
+      perror("server: msgrcv");
+      exit(1);
+    }
     /************************************************************************ 
     * YOUR TASK:                                                            *
     * Write messages of type 1 to standard output.                          *
     ************************************************************************/
    
-    if (mbuf.mtype == 1)
-    {
-      printf("Received: %s", mbuf.mtext);
-    }
-    if (mbuf.mtype == 2)
-    {
-      // Remove the message queue from the system.
-      if (msgctl(msqid, IPC_RMID, (struct msqid_ds *)0) < 0)
-      {
-        perror("server: msgctl");
-        exit(1);
+    if (mbuf.mtype == 1) {
+      printf("Received message (Type 1): %s\n", mbuf.mtext);
+    } else if (mbuf.mtype == 2) {
+      printf("Received message (Type 2): %s\n", mbuf.mtext);
+      if (strcmp(mbuf.mtext, "End of communication") == 0) {
+        printf("Client has ended communication. Closing server.\n");
+        break;
       }
+    } else {
+      printf("Received unknown message type: %ld\n", mbuf.mtype);
     }
   }
 
-  // Check for errors.
-  if (n<0)
-  {
-    perror("server: msgrcv");
+  // Remove the message queue from the system.
+  if (msgctl(msqid, IPC_RMID, NULL) < 0) {
+    perror("server: msgctl");
     exit(1);
   }
 
+  printf("Server shut down.\n");
   exit(0);
 }
