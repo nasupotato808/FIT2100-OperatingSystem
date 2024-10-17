@@ -44,42 +44,42 @@ int main(int argc, char *argv[])
       input[len-1] = '\0';
       len--;
     }
-    if (len == 0) {
-      // Empty line detected, send type 2 message and exit loop
-      mbuf.mtype = 2;
-      strcpy(mbuf.mtext, "No more data");
-      if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
-        perror("client: msgsnd");
-        exit(1);
-      }
-      printf("Empty line detected. Sending 'No more data' message.\n");
+
+    if (strcmp(input, "exit") == 0) {
+      printf("Exiting the program.\n");
       break;
+    }
+
+    if (len == 0) {
+      // Empty line, send as type 2 message
+      mbuf.mtype = 2;
+      strcpy(mbuf.mtext, "Empty line");
     } else {
       // Non-empty line, send as type 1 message
       mbuf.mtype = 1;
       strncpy(mbuf.mtext, input, MSQSIZE);
-      if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
-        perror("client: msgsnd");
-        exit(1);
-      }
     }
+
+    if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
+      perror("client: msgsnd");
+      exit(1);
+    }
+
+    printf("Sent message: Type %ld, Content: %s\n", mbuf.mtype, mbuf.mtext);
   }
-    
+
 
   /**************************************************************************************
   * YOUR TASK:                                                                          *
   * When an empty message is read, send a message of type 2 to indicate no more data.   *
   ***************************************************************************************/
-  if (feof(stdin)) {
-    // Handle EOF (Ctrl+D) if no empty line was entered
-    mbuf.mtype = 2;
-    strcpy(mbuf.mtext, "No more data");
-    if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
-      perror("client: msgsnd");
-      exit(1);
-    }
-    printf("EOF detected. Sending 'No more data' message.\n");
+  mbuf.mtype = 2;
+  strcpy(mbuf.mtext, "End of communication");
+  if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
+    perror("client: msgsnd");
+    exit(1);
   }
+  printf("Sent final message: Type 2, Content: End of communication\n");
 
   printf("Client finished.\n");
   exit(0);
