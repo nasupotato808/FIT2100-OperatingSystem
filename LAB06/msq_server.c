@@ -10,7 +10,7 @@ Run the client program in another terminal:
 
 Type messages in the client terminal. They will be sent to the server and displayed in the server terminal.
 
-Press Ctrl+D in the client terminal to end input and send the "no more data" message.
+Press Ctrl+D or enter an empty line in the client terminal to end input and send the "no more data" message.
 ******************************************/
 #include <sys/types.h>
 #include <sys/ipc.h>
