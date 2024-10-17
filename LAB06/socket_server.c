@@ -75,8 +75,19 @@ int main(int argc, char *argv[])
     perror("server: read");
     exit(1);
   }
-
+	/*nsock is the file descriptor for the new socket created by the accept() call.*/
+	/*This socket represents the specific connection with a client.
+Closing this socket signifies the end of communication with that particular client.
+It releases the resources associated with this connection.
+If you don't close this socket, you might leak file descriptors, potentially leading to resource exhaustion if the server runs for a long time and handles many connections.*/
   close(nsock);
+ /*
+ sock is the file descriptor for the original socket created by the socket() call.
+This is the listening socket that the server uses to accept new connections.
+Closing this socket signifies that the server is no longer accepting new connections.
+It's good practice to close this when you're done with the server, as it releases the system resources associated with the socket.
+In this case, since the program is about to exit, the operating system would close this socket anyway, but explicitly closing it is a good habit for more complex programs where you might want to stop listening but keep the program running.
+ */
   close(sock);
   exit(0);
 }

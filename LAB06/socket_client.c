@@ -1,5 +1,5 @@
 /* socket_client.c */
-
+/* gcc -o socket_client socket_client.c*/
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <sys/un.h>
