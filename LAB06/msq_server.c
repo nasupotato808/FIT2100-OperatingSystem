@@ -1,5 +1,6 @@
 /* msq_server.c */
-/*
+/* FIT2100 Lab 6 - Task 1*/
+/**************************************** 
 gcc -o msq_server msq_server.c
 gcc -o msq_client msq_client.c
 Run the server program in one terminal：
@@ -10,7 +11,7 @@ Run the client program in another terminal:
 Type messages in the client terminal. They will be sent to the server and displayed in the server terminal.
 
 Press Ctrl+D in the client terminal to end input and send the "no more data" message.
-*/
+******************************************/
 #include <sys/types.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
@@ -41,8 +42,11 @@ int main(int argc, char *argv[])
   * Assume that the key defined in MSQKEY isn't in use by another process.*
   ************************************************************************/
  // Create a new message queue
+ // 666 is the permission for the message queue, which allows the owner,  group, and others to read and write to the message queue.
+ // IPC_CREAT is a flag that tells the system to create a new message queue if it doesn't already exist.
   if ((msqid = msgget(key, IPC_CREAT | 0666)) < 0)
   {
+    // Print an error message and exit if the message queue can't be created.
     perror("server: msgget");
     exit(1);
   }
@@ -62,7 +66,6 @@ int main(int argc, char *argv[])
     {
       printf("Received: %s", mbuf.mtext);
     }
-
     if (mbuf.mtype == 2)
     {
       // Remove the message queue from the system.

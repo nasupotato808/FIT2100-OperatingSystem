@@ -26,6 +26,7 @@ int main(int argc, char *argv[])
 
   // Get a message queue. The server must have created it.
   key = MSQKEY;
+  // Get a message queue, 666 is the permission for the message queue, which allows the owner, group, and others to read and write to the message queue.
   if ((msqid = msgget(key, 0666)) < 0)
   {
     perror("client: msgget");
@@ -36,31 +37,50 @@ int main(int argc, char *argv[])
   * YOUR TASK:                                                                          *
   * Continuously read data from standard input and send the data as messages of type 1. *
   ***************************************************************************************/
-  while (fgets(input, MSQSIZE, stdin) != NULL)
-  {
-    mbuf.mtype = 1;
-    strncpy(mbuf.mtext, input, MSQSIZE);
-    
-    if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0)
-    {
-      perror("client: msgsnd");
-      exit(1);
+  while (fgets(input, MSQSIZE, stdin) != NULL) {
+    // Remove newline character
+    size_t len = strlen(input);
+    if (len > 0 && input[len-1] == '\n') {
+      input[len-1] = '\0';
+      len--;
+    }
+    if (len == 0) {
+      // Empty line detected, send type 2 message and exit loop
+      mbuf.mtype = 2;
+      strcpy(mbuf.mtext, "No more data");
+      if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
+        perror("client: msgsnd");
+        exit(1);
+      }
+      printf("Empty line detected. Sending 'No more data' message.\n");
+      break;
+    } else {
+      // Non-empty line, send as type 1 message
+      mbuf.mtype = 1;
+      strncpy(mbuf.mtext, input, MSQSIZE);
+      if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
+        perror("client: msgsnd");
+        exit(1);
+      }
     }
   }
+    
+
   /**************************************************************************************
   * YOUR TASK:                                                                          *
   * When an empty message is read, send a message of type 2 to indicate no more data.   *
   ***************************************************************************************/
-    // Send a message of type 2 to indicate no more data
-  mbuf.mtype = 2;
-  //mtext is another member of the msgbuf structure, defined as a character array (string).
-  //This line copies the string "No more data" into the mtext field of the message buffer.
-  strcpy(mbuf.mtext, "No more data");
-  
-  if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0)
-  {
-    perror("client: msgsnd");
-    exit(1);
+  if (feof(stdin)) {
+    // Handle EOF (Ctrl+D) if no empty line was entered
+    mbuf.mtype = 2;
+    strcpy(mbuf.mtext, "No more data");
+    if (msgsnd(msqid, &mbuf, strlen(mbuf.mtext) + 1, 0) < 0) {
+      perror("client: msgsnd");
+      exit(1);
+    }
+    printf("EOF detected. Sending 'No more data' message.\n");
   }
+
+  printf("Client finished.\n");
   exit(0);
 }
